@@ -72,7 +72,7 @@ public class LOINCWORDOWL {
 			}
 		}
 		manager.addAxioms(ontologyLOINCMot, lesaxiomMot);
-		File fichierchemin= new File("/home/erias/Bureau/graph/LOINC/LOINCWORDTOTAL.owl");
+		File fichierchemin= new File("./LOINCWORDTOTAL.owl");
 		//LOINCWORDTOTAL.owl last update previous LOINCWORD.owl
 		RDFXMLOntologyFormat Format= new RDFXMLOntologyFormat();
 		manager.saveOntology(ontologyLOINCMot, Format,IRI.create(fichierchemin));
