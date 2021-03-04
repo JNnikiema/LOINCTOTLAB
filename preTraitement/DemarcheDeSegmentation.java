@@ -907,14 +907,9 @@ public class DemarcheDeSegmentation {
 				resultat.add(resul);
 			}
 			
-
-			
-//				String file= "/home/erias/Bureau/IntegrationAncrageLoinc/abreviation/AbreviationTerminologieInterface.csv";
-//			
-//				String file2= "/home/erias/Bureau/IntegrationAncrageLoinc/abreviation/AbreviationOriginaux.csv";
-				String file= "/home/erias/Bureau/graph/Segmentation/AbreviationTerminologieInterface.csv";
+				String file= "./AbreviationTerminologieInterface.csv";
 				
-				String file2= "/home/erias/Bureau/graph/Segmentation/AbreviationOriginaux.csv";
+				String file2= "./Segmentation/AbreviationOriginaux.csv";
 				
 				String tableau2="abreviation;SourceAbreviation";
 				
