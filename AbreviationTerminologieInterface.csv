@@ -1,0 +1,5629 @@
+abreviation;nombreLibelle;libelle
+brucella;1;TR.PCR.Brucella
+bsarm;1;Dép.BSARM /site
+gene;3;PCR.GENE.R SAUR/ART
+gene;3;Conclusion GèneTPMT
+gene;3;Var.Gène Serpin A1
+geno;2;ETIQ.GENO PAP.BIOPS
+geno;2;ETIQ.GENO PAP.UTERUS
+immud;1;CYTOB.SEC.BR.IMMUD.
+selle;1;R.pcr.H.pyloriSELLE
+sanguin;1;BACT.PROD.SANGUIN
+tlt;1;SERO TOXO TLT
+toxine;1;REC.TOXINE CL.DIFFIC
+sous;3;SousTotalGranuleuse
+sous;3;SousTotal 1 Myélo
+sous;3;SousTotal LiqBio
+peloto;1;G3 DACTYLE PELOTO.
+ongel;1;DCongél.d'embryon+c
+vit;1;DOS.IL6/10 HAQU.VIT
+resist;2;RESIST.MYCOB:BMRBK
+resist;2;REC. resist.MYCOBACT
+fw;3;MUT GENE FW
+fw;3;FWill RAgNéphéStago
+fw;3;FWill RAg Elisa
+liqui;1;PCR Orthopox/Liqui.
+moyen;2;Cytob.Orei.moyen N2
+moyen;2;Cytob.Orei.moyen N3
+autr;7;BAC BIOPS.AUTR N8
+autr;7;BAC BIOPS.AUTR N7
+autr;7;BAC BIOPS.AUTR N4
+autr;7;BAC BIOPS.AUTR N3
+autr;7;BAC BIOPS.AUTR N6
+autr;7;BAC BIOPS.AUTR N5
+autr;7;BAC BIOPS.AUTR N2
+ck;5;CK sg 1
+ck;5;CK MB dos
+ck;5;CK sg 2
+ck;5;25 % CK
+ck;5;CK sg
+urine;1;EX MICR.URINE BCBU5
+posologie;2;PosologieEstimée PJ
+posologie;2;VNposologie
+explorat;1;EXPLORAT.FIBRINOLYSE
+pentameres;1;PHENO.PENTAMERES SEP
+germe;2;Comment.Germe 3:
+germe;2;Comment.Germe 2:
+bdes;1;Somme 4 bdesAsperg
+ngs;2;Seq.GènesPlaq NGS
+ngs;2;SEQ.GENES.PLQ NGS
+ext;2;BAC PVT ORE.EXT N2
+ext;2;BAC PVT ORE.EXT
+saccharom;1;Ac A-Saccharom.Cere
+jiro;2;REC.P.JIRO SEULE
+jiro;2;Pn.jiro PVT DIVERS:
+elisa;3;SER.CHL.PNEU.ELISA
+elisa;3;SER.MYCOP.PNEU.ELISA
+elisa;3;DD ELISA/ T
+souc;5;R.pcr.B.pertussSouc
+souc;5;R.pcr.Chl.tracSouc
+souc;5;SOUC.FONGIQUE CNRMA
+souc;5;R.pcr.M.pneumoSouc
+souc;5;R.pcr.C.pneumoSouc
+flac;1;Cyt.Liq Artic+flac.
+penicil;2;M209 PENICIL.FREQ
+penicil;2;m209 Penicil.freq
+rglyc;1;Rech Ec Rglyc.BERG
+ser;29;SULFAM.HYPOGLYC.SER
+ser;29;BETA D GLUCANES SER.
+ser;29;SER.MYCOP.PNEU.LCR
+ser;29;Bêta-D-glucanes sér.
+ser;29;SER .LEPT.SERou LCR
+ser;29;e204 vache alb.sér
+ser;29;A-NEURO CV2,AMP..SER
+ser;29;SER.CHL.PNEU.ELISA
+ser;29;Sér.M.pneu.LCR RFC:
+ser;29;SULFA.HYPOGLYC.SER.
+ser;29;SER LEPT.SERouLCR TR
+ser;29;TRANS SER.LEGIONELLA
+ser;29;SER.CHL.TRAC.LCR/EL
+ser;29;SER.CHL.PNEU.LCR/EL
+ser;29;Dos.SérCh.légKapLam
+ser;29;SER.CHL.PSITT.LCR
+ser;29;SER.CHL.PSITT.SER IF
+ser;29;e222 porc alb.sér
+ser;29;SER.C.TRACHO.SER/EL
+ser;29;TRAN.SER.MAL.GR.CHAT
+ser;29;SULFA.HYPOGLYCE.SER.
+ser;29;TR.Sér.tétanos&dipht
+ser;29;SER.ANTISTAPHYLOLYSI
+ser;29;TRANS.SérMAL.GR.CHAT
+ser;29;SER.MYCOP.PNEU.ELISA
+ser;29;SER.MYCOP.PNEU.SERUM
+ser;29;com.SER lyme Mikr.
+ser;29;SER.ASLO+ASDORNASE
+ser;29;TR.Sér.Rickettsies
+amines;3;Concl AcAminés Sg
+amines;3;Chromato Ac.Aminés
+amines;3;Concl Ac.Aminés LCR
+cell;4;CELL.DENDRITIQUES
+cell;4;AutresCellLiqBio
+cell;4;CHARGE VIH CELL.SEMI
+cell;4;CELL.SEZARY CD158
+toscana;3;PCR TOSCANA/LCR
+toscana;3;PCR TOSCANA/DIVERS
+toscana;3;PCR Toscana/plasma
+ant;2;Rech/pcr.B.ant.pag:
+ant;2;Rech/pcr.B.ant.capA
+hvn;1;Etiq supp HVN
+dif;1;TOXINES C.DIF
+americ;1;TRYPANO AMERIC. SERO
+des;13;CYTOB.DES BIOPS.AUT
+des;13;CYT.DES.BIOPS.OS.
+des;13;CYT.DES BIOPS.OS N3
+des;13;CYT.DES BIOPS.OS N4
+des;13;CYTOB.DES BIOPS.PUL
+des;13;CYT.DES BIOPS.OS N5
+des;13;CYT.DES BIOPS.OS N6
+des;13;CYT.DES BIOPS.PUL N4
+des;13;CYT.DES BIOPS.OS N7
+des;13;CYT.DES BIOPS.OS N8
+des;13;CYT.DES BIOPS.PUL N3
+des;13;CYT.DES BIOPS.OS N2
+des;13;CYT.DES BIOP.PUL N2
+red;1;AC ANTI-HMG-COA RED.
+whipplei;2;PCR T.whipplei
+whipplei;2;TR.PCR T.whipplei
+muco;1;CYTOB.ASP.BRON.MUCO
+globul;2;SEX HORM.BIND.GLOBUL
+globul;2;SEX HOR.BIND.GLOBUL
+seminal;2;ZINC LIQ.SEMINAL
+seminal;2;ARN VIH Plas.séminal
+bl;2;ANALYSE  PCT°OVA.BL
+bl;2;analyse pct°ova.bl
+bro;1;CYTOB.ASP.BRO.IMM.DE
+preanalytique;1;StockPréanalytique
+chloroquine;1;H.CHLOROQUINE SG
+gds;2;Fac GDS
+gds;2;GDS ART + LACTATE
+scr;4;SCR.ORGANOPHOSPH.URI
+scr;4;SCR.ORGANOPHOS.LG
+scr;4;SCR.ORGANOPHOSPHORES
+scr;4;SCR.ORGANOPHOS.URI
+pne;1;R.mut ARNr23S M.pne
+afric;3;IFI TrypAFRIC IgG:
+afric;3;TRYPANO.AFRIC.LCR
+afric;3;IFI TrypAFRIC IgM
+result;1;Résult.IgG(C.TRA):
+creatine;1;Créatine/CréatinineU
+hp;3;BIOP.DIGEST.HP CULT
+hp;3;R.pcr.HPmacro 2
+hp;3;BIOP.DIG.HP CULT N2
+glycop;1;CMF GLYCOP.MB DIVERS
+pertussis;4;PCR.B.PERTUSSIS/RES
+pertussis;4;PCR.B.pertussis/SOU
+pertussis;4;REC.BORD.PERTUSSIS
+pertussis;4;PCR.B.PERTUSSIS/ORL
+sf;1;CSté:transp.gref.SF
+aspergi;1;m3 Aspergi.fumi
+lactique;1;AC.LACTIQUE MTEMPS
+pant;1;Pant.-ValenToxineSTA
+mucop;1;Mucop/creat
+biohp;2;CYTOBACT.BIOHP
+biohp;2;CYTOB.BIOHP N2
+cartilage;3;AC A-CARTILAGE/OREIL
+cartilage;3;AC A-CARTILAGE/OREI
+cartilage;3;Ac A-Cartilage/Orei
+botulisme;1;SERO.BOTULISME
+icsi;2;CryoCsSp ICSI/P/An
+icsi;2;CRYOCS SP ICSI/P/AN
+pre;2;StocPréAna pr HL
+pre;2;ctrl préA avt AMP
+gp;10;GP 105
+gp;10;Conc GpMbr par CFM
+gp;10;GP IIb - IIIa (AP2)
+gp;10;GP IIb-IIIa (PAC-1)
+gp;10;GP 110
+gp;10;gp 46
+gp;10;GP 140
+gp;10;GP 41
+gp;10;GP 160
+gp;10;GP Ib - IX (BX1)
+calcium;1;Calcium/Oxalate
+aqueuse;3;Toxo H.aqueuse :
+aqueuse;3;PCR CMV/Hum.aqueuse
+aqueuse;3;PCR CMV HUM.AQUEUSE
+tular;3;R.pcr.F.tular.Orl
+tular;3;R.pcr.F.tular.Sou
+tular;3;R.pcr.F.tular.Liq
+laine;1;G13 HOULQUE LAINE.
+do;1;DO.Hydatidose:
+long;2;CULT.LONG.EMBRYON
+long;2;cult.long.embryon
+ileost;1;ASPECT ILEOST.
+ms;1;CHLORALO.LG RECH MS
+bm;17;Conclusion BM
+bm;17;TG LOC DQ BM
+bm;17;TG LOC DR BM
+bm;17;TG LOC B BM
+bm;17;TG LOC A BM
+bm;17;TYPAGE LOCUS C BM
+bm;17;TG LOC C BM
+bm;17;HEMOGLOBINOPHATH BM
+bm;17;DR à Vérif BM
+bm;17;B à Vérif BM
+bm;17;TYP ORGANE 1 BM
+bm;17;TYPAGE LOC DQ BM
+bm;17;Typ HLA CL I BM
+bm;17;DQ à Vérif BM
+bm;17;Typ HLA CL II BM
+bm;17;Concl BM
+bm;17;A à Vérif BM
+polypept;2;H. POLYPEPT. PANCR.
+polypept;2;HORM. POLYPEPT.PANCR
+hominis;19;R.pcr.M.hominisUR
+hominis;19;PCR.M.HOMINIS/RESP
+hominis;19;PCR.M.HOMINIS/URI
+hominis;19;R.pcr.M.hominisORL
+hominis;19;PCR.M.HOMINIS/BIOP
+hominis;19;R.pcr.M.hominisGEN
+hominis;19;PCR.M.HOMINIS/PUS
+hominis;19;R.pcr.M.hominisPUS
+hominis;19;R.pcr.M.hominisLIQ
+hominis;19;PCR.M.HOMINIS/LIQ
+hominis;19;R.M.hominis/PCR FAC
+hominis;19;PCR.M.HOMINIS/GENI
+hominis;19;R.pcr.M.hominisLCR
+hominis;19;PCR.M.HOMINIS/LCR
+hominis;19;Qté M.hominis Lba
+hominis;19;PCR.M.hominis/SOUC
+hominis;19;R.pcr.M.hominisBio
+hominis;19;R.pcr.M.hominisSB
+hominis;19;PCR.M.HOMINIS/ORL
+ana;8;L.PONC+FL.ANA
+ana;8;StocPréAna pr HL
+ana;8;F.ANA d.positiv(h):
+ana;8;Cult Fl.ana.ART(BM)
+ana;8;Cult Fl.ana.(BM):
+ana;8;ana/Démographie
+ana;8;Cult Fl.ana.(BM)H2
+ana;8;BAC.LQ FL.ANA SEUL
+ence;1;Encé. à tique M+G
+orthopox;3;PCR Orthopox/Ecou.
+orthopox;3;PCR Orthopox/Croûte
+orthopox;3;PCR Orthopox/Liqui.
+proge;1;CultureQtQlProgéHém
+cyclo;1;Rapport Cyclo/Creat
+rectal;2;PCR CORONA EC.RECTAL
+rectal;2;PCR Corona/E.rectal
+farinae;2;D2 D.FARINAE
+farinae;2;d2 derm.farinae
+dengue;2;PCR DENGUE/PVT DIVER
+dengue;2;PCR Dengue/plasma
+chromog;1;Facteur 8 Chromog.
+poche;1;BACT.POCHE NUTRIT.
+tropi;1;d201 blomia tropi.
+ql;1;CultureQtQlProgéHém
+sp;4;CryoCsSp ICSI/P/An
+sp;4;SUP ETUDE MORPHO SP
+sp;4;CRYOCS SP ICSI/P/AN
+sp;4;Sup étude morpho sp
+rossner;2;ACC :ind.Rossner :
+rossner;2;ACC :ind.Rossner
+retrograd;1;EtudeEjac.rétrograd
+angiotens;1;E.C ANGIOTENS.sg
+homin;1;R.pcr.M.hominSouch
+var;1;Var.Gène Serpin A1
+chrono;1;PCchrono
+phenyla;13;PHENYLA.BH4 T0
+phenyla;13;PHENYLA.BH4 T11
+phenyla;13;PHENYLA.BH4 T10
+phenyla;13;PHENYLA.BH4 T12
+phenyla;13;PHENYLA.BH4 T9
+phenyla;13;PHENYLA.BH4 T4
+phenyla;13;PHENYLA.BH4 T3
+phenyla;13;PHENYLA.BH4 T2
+phenyla;13;PHENYLA.BH4 T1
+phenyla;13;PHENYLA.BH4 T8
+phenyla;13;PHENYLA.BH4 T7
+phenyla;13;PHENYLA.BH4 T6
+phenyla;13;PHENYLA.BH4 T5
+alim;4;FX5 MEL ALIM.ADULTE
+alim;4;FX26 MEL ALIM.ENFT
+alim;4;FX28 MEL ALIM.ENFT
+alim;4;FX27 MEL ALIM.ENFT
+secretion;2;Conc.SécrétionPlq
+secretion;2;PCR OREIL.SECRETION
+noy;1;EtudeQualNoySpermat
+indetermine;1;HPV risq.indéterminé
+rh;5;K218 LATEX RH B5
+rh;5;K217 LATEX RH B3
+rh;5;K219 LATEX RH B6.01
+rh;5;K215 LATEX RH B1
+rh;5;K220 LATEX RH.B6.02
+afr;3;IFI Tryp.Afr. IgG:
+afr;3;Interpr.Trypano.Afr
+afr;3;IFI Tryp.Afr. IgM:
+cochlee;2;AC A-COCHLEE/OREI
+cochlee;2;Ac A-Cochlée/oreil
+bayes;1;TACRO AUC BAYES.
+rhumatoides;1;FACT.RHUMATOIDES
+ghs;1;Hémostase Spé GHS
+redon;2;BACT.REDON MECH.N°2
+redon;2;BACT.REDON MECH.STE
+pus;36;Myco liq.pus biop.
+pus;36;R.pcr.M.hominisPUS
+pus;36;ID/GénotC.trachoPUS
+pus;36;Typ.pcr.C.trachPus
+pus;36;CYTOBAC.PUS PROFOND
+pus;36;CYTBAC.PUS SUPERFIC
+pus;36;CYTOBACT.PUS FERME
+pus;36;CYTOBAC.PUS ABDO.N3
+pus;36;CYTOBAC.PUS ABDO.N2
+pus;36;CYTBAC.PUS SUPER.N5
+pus;36;R.pcr.Chl.trachPUS
+pus;36;CYTOBACT.PUS ABDO
+pus;36;CYTOB.PUS ABDO N3
+pus;36;CYTBAC.PUS SUPER.N2
+pus;36;CYTOB.PUS CUTA N3
+pus;36;CYTBAC.PUS SUPER.N4
+pus;36;CYTOB.PUS ABDO N2
+pus;36;CYTOB.PUS CUTA N2
+pus;36;CYTBAC.PUS SUPER.N3
+pus;36;CYTOBAC.PUS ABDOM.
+pus;36;CYTBAC.PUS CUTANE
+pus;36;R.pcr.C.psittaPUS
+pus;36;CYTOB.PUS FERME N°2
+pus;36;CYTOB.PUS FERME N°3
+pus;36;CYTOB.PUS FERME N°4
+pus;36;CYTOB.PUS FERME N°5
+pus;36;CYTOBACT.PUS CUTA
+pus;36;R.pcr.U.parvumPUS
+pus;36;Nombre RLUtotalPUS
+pus;36;CYTBAC.PUS CUTANE N3
+pus;36;CYTBAC.PUS CUTANE N2
+pus;36;CYTOBAC.PUS PROF.N3
+pus;36;CYTOBAC.PUS PROF.N2
+pus;36;CYTOBAC.PUS PROF.N5
+pus;36;CYTOBAC.PUS PROF.N4
+pus;36;R.pcr.U.urealyPUS
+legionelles;1;REC.LEGIONELLES
+sphe;1;DIAG.SPHE.HEREDITAIR
+ch;10;HCYSTEINE 6h ap ch
+ch;10;TEST CH. ALLOPURINOL
+ch;10;Dos.SérCh.légKapLam
+ch;10;HCYSTEINE av ch
+ch;10;AC GRAS A TRES L CH
+ch;10;InterprétationChBird
+ch;10;TEST CH. EN PROTIDES
+ch;10;TEST CH METHIONINE
+ch;10;Ac gras très long ch
+ch;10;Ac gras tres long ch
+lactose;1;Per lactose/manitol
+dim;3;Dim.2
+dim;3;Dim.1
+dim;3;Dim.Agrégat
+adulte;1;FX5 MEL ALIM.ADULTE
+staphylo;2;TR.TOXINES.STAPHYLO
+staphylo;2;Ttes ToxinesStaphylo
+bhcg;1;Val réf BHCG
+farr;1;TEST DE FARR/A-ADN N
+nocar;2;REC.NOCAR/ACTINOM 2
+nocar;2;REC.NOCAR/ACTINOMYC
+benzod;6;DOSAGE BENZOD. U 1
+benzod;6;DOSAGE BENZOD.SG 3
+benzod;6;DOSAGE BENZOD.SG 1
+benzod;6;DOSAGE BENZOD.SG 2
+benzod;6;DOSAGE BENZOD. U 3
+benzod;6;DOSAGE BENZOD. U 2
+recher;1;RECHER.14.3.3
+superf;1;BAC PVT PUS SUPERF.
+mycobact;6;REC. MYCOBACT.MOELLE
+mycobact;6;REC. resist.MYCOBACT
+mycobact;6;REC. MYCOBACT.N°2
+mycobact;6;REC. MYCOBACT.N°3
+mycobact;6;REC. MYCOBACT.37C
+mycobact;6;ID. SCHE MYCOBACT.EX
+acquittement;1;Acquittement/ABC:
+bouill;1;R.pcr.M.pneu.bouill
+cytog;2;CYTOG.MYELOME FISH
+cytog;2;Cytog.Myelome Fish
+nmen;1;16s.NMEN.Lcr/PCR
+embryon;4;CULT.LONG.EMBRYON
+embryon;4;2eCycle.congEmbryon
+embryon;4;cult.long.embryon
+embryon;4;vitrificat°embryon.
+survie;1;VC testSurvieSperm
+psitta;4;R.pcr.C.psittaPUS
+psitta;4;R.pcr.C.psittaLCR
+psitta;4;R.pcr.C.psittaOEIL
+psitta;4;R.pcr.C.psittaLIQ
+pneu;8;SER.CHL.PNEU.ELISA
+pneu;8;R.MUT.ARN M.PNEU/SOU
+pneu;8;Sér.M.pneu.LCR RFC:
+pneu;8;SER.MYCOP.PNEU.ELISA
+pneu;8;SER.CHL.PNEU.LCR/EL
+pneu;8;SER.MYCOP.PNEU.SERUM
+pneu;8;SER.MYCOP.PNEU.LCR
+pneu;8;R.pcr.M.pneu.bouill
+coeliaq;1;HLADQ M.COELIAQ
+placen;1;BACT.PLACEN.LOOCHI
+leuco;2;NumLeucoLiqBio
+leuco;2;LeucoScreen
+hsv;36;PCR HSV/LCR
+hsv;36;PCR HSV/secrétions
+hsv;36;PCR HSV/moelle
+hsv;36;PCR HSV LBA
+hsv;36;PCR HSV SANG
+hsv;36;PCR HSV SECRE
+hsv;36;PCR HSV BIOPSIE
+hsv;36;hsv écouv. CP
+hsv;36;hsv écouv3  CP
+hsv;36;SERO HSV HERPES M+G
+hsv;36;hsv moelle CP
+hsv;36;PCR HSV HUM.AQUEUS
+hsv;36;PCR HSV LCR
+hsv;36;PCR HSV/sang
+hsv;36;hsv sang CP
+hsv;36;PCR HSV ECOUVILLO 3
+hsv;36;hsv biopsie CP
+hsv;36;PCR HSV ECOUVILLO 2
+hsv;36;PCR HSV/liquide
+hsv;36;hsv liq bio CP
+hsv;36;PCR HSV/Biopsie
+hsv;36;hsv lcr CP
+hsv;36;HSV Résistance
+hsv;36;PCR HSV LIQUIDE
+hsv;36;hsv sécrét. CP
+hsv;36;HSV RESISTANCE
+hsv;36;hsv hum.aq. CP
+hsv;36;PCR HSV/LBA
+hsv;36;hsv écouv2 CP
+hsv;36;PCR HSV ECOUVILLON
+hsv;36;hsv lba CP
+hsv;36;PCR HSV/écouvillon3
+hsv;36;PCR HSV/hum.aqueus
+hsv;36;PCR HSV MOELLE OS
+hsv;36;PCR HSV/écouvillon2
+hsv;36;PCR HSV/écouvillon1
+ejac;1;EtudeEjac.rétrograd
+histolyt;1;Ent.histolyt.PCR:
+trimelliq;1;K86 ANHYD.TRIMELLIQ
+li;1;PCR Rougeole/Li.bio
+hydatidose;1;Hydatidose.Elisa:
+nume;2;Numé.Bactér.(lot):
+nume;2;Numé.Bact.(sslot):
+cysticerc;1;SERO CYSTICERC.LCR
+cuite;1;F81 FROMAGE P.CUITE
+biop;23;PCR Métapneu/Biop.
+biop;23;R.pcr.C.psittacBIOP
+biop;23;Nombre RLUtotalBIOP
+biop;23;Myco liq.pus biop.
+biop;23;16s.N.MEN.Biop/PCR
+biop;23;MYCO BIOP.POUMON
+biop;23;BIOP.DIGEST.HP CULT
+biop;23;R.pcr.C.pneumoBIOP
+biop;23;R.pcr.U.urealyBIOP
+biop;23;R.pcr.S.pneumBIOP
+biop;23;Myco biop.digestive
+biop;23;Mycologie biop.cutan
+biop;23;BIOP.DIG.HP CULT N2
+biop;23;R.pcr.typN.menBIOP
+biop;23;R.pcr.U.parvumBIOP
+biop;23;R.pcr.M.pneumoBIOP
+biop;23;ID/GénotC.trachoBIOP
+biop;23;R.pcr.Chl.tracBIOP
+biop;23;R.pcr.N.meningBIOP
+biop;23;R.pcr.H.pyloriBIOP
+biop;23;PCR WEST-NILE BIOP.
+biop;23;R.pcr.Chl.trachBIOP
+biop;23;CYT.DES BIOP.PUL N2
+tmps;1;TmpsThrombinePat
+flacaerartd;1;FlacAERARTd.posit(h)
+aureus;15;R.pcr.S.aureusORL
+aureus;15;R.pcr.S.aureusART
+aureus;15;PCR.S.aureus/LIQ
+aureus;15;R.pcr.S.aureusOeil
+aureus;15;R.pcr.S.aureus SOU
+aureus;15;PCR.S.AUREUS/ART
+aureus;15;M80 STAPH.AUREUS A
+aureus;15;PCR.S.aureus/SOUC
+aureus;15;m81 Staph.Aureus B
+aureus;15;m80 Staph.Aureus A
+aureus;15;R.pcr.S.aureusLiq
+aureus;15;PCR.S.aureus/RESP
+aureus;15;M81 STAPH.AUREUS B
+aureus;15;PCR.S.aureus/ORL
+aureus;15;PCR.S.aureus/OEIL
+parap;1;R.pcr.B.parapORL
+interpr;17;Interpr.Candidose :
+interpr;17;Interpr.Filarioses:
+interpr;17;Interpr.Toxocarose:
+interpr;17;Interpr.Coccidioïdo
+interpr;17;Interpr.Distomatose
+interpr;17;Interpr.Echinococc.
+interpr;17;Interpr.Histoplasm:
+interpr;17;Interpr.Bilharziose:
+interpr;17;Interpr.Ag.Asper:
+interpr;17;Interpr.Trichinose:
+interpr;17;Interpr.Trypano.Afr
+interpr;17;Interpr.Trypano.AFRI
+interpr;17;Interpr.Ag.Cryptoc
+interpr;17;Interpr.Blastomycos
+interpr;17;Interpr.Aspergillus
+interpr;17;Interpr.Leishmanios
+interpr;17;Interpr.Cysticercos
+interpre;1;Interpré.Paludisme:
+entero;16;PCR Entéro/LBA
+entero;16;PCR Entéro/Lba
+entero;16;PCR Entéro/Ecouv 2
+entero;16;PCR Entéro/Ecouv 3
+entero;16;PCR Entéro/secré.
+entero;16;PCR Entéro/Ecouv.
+entero;16;PCR Entéro/Biopsie
+entero;16;PCR Entéro/Eco2
+entero;16;PCR Entéro/Eco3
+entero;16;PCR Entéro/Ecou
+entero;16;PCR Entéro/selles
+entero;16;PCR Entéro/LCR
+entero;16;PCR Entéro/plasma
+entero;16;PCR Entéro/liquide
+entero;16;PCR Entéro/Sécr
+entero;16;PCR Entéro/biop
+enceph;1;MORT ENCEPH.
+diff;1;test diff. VIH
+dd;1;DD ELISA/ T
+therap;2;AC THERAP/AC INDUITS
+therap;2;ZoneThérapCf ouvrir
+pertus;2;R.pcr.B.pertusRES
+pertus;2;R.pcr.B.pertusORL
+xpg;1;Gène XPG (ERCC5)
+dipht;1;Séro Dipht.,Tétanos
+urealyt;1;Qté U.urealyt Lba
+mais;1;HX2 MEL POUSS.MAIS
+menin;2;R.pcr.N.menin.Sou
+menin;2;R.pcr.N.menin.Orl
+ag;3;Interpr.Ag.Asper:
+ag;3;Rech.Ag.cryptocoq :
+ag;3;Interpr.Ag.Cryptoc
+pheno;3;PHENO/SEQ G A-THROMB
+pheno;3;PHENO.PENTAMERES SEP
+pheno;3;Phéno/seq G AThrombi
+moy;3;CYTOB.OR.MOY/SINUS
+moy;3;CYTOB.OR.MOY/SIN N2
+moy;3;CYTOB.OR.MOY/SIN N3
+rm;1;THALASSEMIE / RM
+test;2;etiq.su.test rapid
+test;2;VC testSurvieSperm
+cytometrie;3;CYTOMETRIE/FLUX SANG
+cytometrie;3;CYTOMETRIE/F MOELLE
+cytometrie;3;CYTOMETRIE/F L.BIO
+pc;10;PC immuno
+pc;10;MLPA PC
+pc;10;Séquençage PC
+pc;10;PCchrono
+pc;10;Boîte Séq Gène PC
+pc;10;PCchromo
+pc;10;Concentrat° ADN PC
+pc;10;PC CHRONO
+pc;10;PC CHROMO
+pc;10;GENE PC
+eosinophiles;1;P.Eosinophiles Uri
+rt;9;HIV1 RT PR. ARN PLAS
+rt;9;seq.RT Pro ADNprov
+rt;9;UDPS seq. RT plas
+rt;9;seq. RT Prot lcr
+rt;9;HIV1 RT PR UDPS ADN
+rt;9;HIV1 RT PR. ADN PROV
+rt;9;UDPS seq. RT ADN
+rt;9;HIV1 RT PR UDPS PLAS
+rt;9;seq. RT Prot plas
+staph;9;m80 Staph.Aureus A
+staph;9;PCR.gèn.R STAPH/RESP
+staph;9;PCR.gèn.R STAPH/SOU
+staph;9;PCR.gèn.R STAPH/ORL
+staph;9;M81 STAPH.AUREUS B
+staph;9;M80 STAPH.AUREUS A
+staph;9;PCR.gèn.R STAPH/OEI
+staph;9;PCR.gèn.R STAPH/LIQ
+staph;9;m81 Staph.Aureus B
+angio;1;Exp Angio.Kinines
+benzodiaz;11;Id Benzodiaz.Pl
+benzodiaz;11;Dos  Benzodiaz.
+benzodiaz;11;Id Benzodiaz.Ur
+benzodiaz;11;DOSAGE BENZODIAZ.3
+benzodiaz;11;DOSAGE BENZODIAZ.2
+benzodiaz;11;Dosage Benzodiaz. 1
+benzodiaz;11;I D BENZODIAZ.PL
+benzodiaz;11;DOSAGE BENZODIAZ.1
+benzodiaz;11;Dosage Benzodiaz. 2
+benzodiaz;11;Dosage Benzodiaz. 3
+benzodiaz;11;Id Benzodiaz.Sg
+hpv;13;GENO HPV FROTTIS
+hpv;13;HPV risq.indéterminé
+hpv;13;GENO HPV UTERUS
+hpv;13;HPVrisque bas/indéte
+hpv;13;CHARGE HPV
+hpv;13;ListeHPV haut risque
+hpv;13;liste HPV bas risque
+hpv;13;GENO HPV EXTRAIT ADN
+hpv;13;HPV non typable
+hpv;13;GENO HPV ECOUV
+hpv;13;HPV  haut-risque
+hpv;13;GENO HPV BIOPSIE
+hpv;13;Liste des HPV
+versicolor;1;REC.PITY.VERSICOLOR
+bird;1;InterprétationChBird
+cardiolipines;1;AcCardiolipines IgG
+bhbu;1;BHBU/ACA
+phenothiazine;1;DOS.PHENOTHIAZINE PL
+dendritiques;1;CELL.DENDRITIQUES
+scl;2;SCL 70 Dosage :
+scl;2;SCL 70 Titrage :
+cmv;52;PCR CMV LBA
+cmv;52;PCR CMV/selles
+cmv;52;PCR CMV /SANG TOTAL
+cmv;52;DPN cmv CT
+cmv;52;cmv écouv. CP
+cmv;52;cmv liq bio CP
+cmv;52;cmv selles CP
+cmv;52;PCR CMV SELLES
+cmv;52;cmv moelle CP
+cmv;52;AVIDITE CMV
+cmv;52;PCR CMV /URINES
+cmv;52;PCR CMV MOEL.OSSEUSE
+cmv;52;CMV IgG
+cmv;52;GENO CMV URINES
+cmv;52;cmv lcr CP
+cmv;52;CMV IgM
+cmv;52;GENO CMV SANG
+cmv;52;PCR CMV/Moel.oss
+cmv;52;cmv lba CP
+cmv;52;PCR CMV/Liq.bio
+cmv;52;PCR CMV/Séc.respir
+cmv;52;CMV liq.amniotiqu
+cmv;52;PCR CMV BIOPSIE
+cmv;52;CMV DPN
+cmv;52;PCR CMV/Ecouvillon
+cmv;52;PCR CMV ECOUVI. 3
+cmv;52;PCR CMV ECOUVI. 2
+cmv;52;cmv sang CP
+cmv;52;PCR CMV/Urines
+cmv;52;Index  CMV IgM urg
+cmv;52;PCR CMV/LCR
+cmv;52;cmv urines CP
+cmv;52;Index  CMV IgM
+cmv;52;cmv écouv3  CP
+cmv;52;cmv sécrét. CP
+cmv;52;PCR CMV /LCR
+cmv;52;cmv biopsie CP
+cmv;52;PCR CMV /LIQUIDE
+cmv;52;IgM CMV urgente
+cmv;52;cmv écouv2 CP
+cmv;52;PCR CMV/Ecouvill 2
+cmv;52;PCR CMV/Biopsie
+cmv;52;PCR CMV/Ecouvill 3
+cmv;52;PCR CMV/Sang total
+cmv;52;PCR CMV HUM.AQUEUSE
+cmv;52;IgG CMV urgente
+cmv;52;PCR CMV SEC.RESPIRAT
+cmv;52;PCR CMV/Hum.aqueuse
+cmv;52;DPN CMV Conformité
+cmv;52;PCR CMV/LBA
+cmv;52;PCR CMV ECOUVILLON
+cmv;52;SERO CMV M+G
+microscope;1;ExamGttesMicroscope
+pneum;5;R.pcr.S.pneumLCR
+pneum;5;TRANS Séro STR.PNEUM
+pneum;5;R.pcr.S.pneumLIQ
+pneum;5;R.pcr.S.pneumBIOP
+pneum;5;R.pcr.S.pneum ORL
+paraper;2;R.pcr.B.paraperLBA
+paraper;2;R.pcr.B.paraperSou
+asperg;6;M222 ASPERG. RASP F6
+asperg;6;M218 ASPERG. RASP F1
+asperg;6;Somme 4 bdesAsperg
+asperg;6;M219 ASPERG. RASP F2
+asperg;6;M221 ASPERG. RASP F4
+asperg;6;M220 ASPERG. RASP F3
+lactate;2;LACTATE/PYRUVATE
+lactate;2;Lactate.liq.bio
+fvw;1;Etiquettes FVW HL
+chimi;1;PAX5 MEL PROD.CHIMI
+etu;1;2eme tube Etu.FIB
+poly;2;A-POLY.SCLERODERMIE
+poly;2;HC.AROMATIQ.POLY.
+gastro;3;PCR MULT.GASTRO/ECOU
+gastro;3;Gastro.Détectio/Ecou
+gastro;3;PCR MULT.GASTRO
+manq;1;récup manq. avt AMP
+multi;3;PCR GRIP.MULTI LBA
+multi;3;PCR GRIP.MULTI BIOPS
+multi;3;PCR GRIP.MULTI SECRE
+vwf;7;Ratio VWF CB/RAg
+vwf;7;Ratio VWF PP/RAg
+vwf;7;VWF CollagenBinding
+vwf;7;AntiVWF IgM
+vwf;7;AntiVWF IgG
+vwf;7;RECH IG ANTI VWF
+vwf;7;VWF Propeptide
+mbp;1;Pentamères MBP
+mallei;7;R.pcr.B.mallei Liq
+mallei;7;PCR.B.MALLEI/PVT
+mallei;7;PCR.B.MALLEI/LIQ
+mallei;7;PCR.B.mallei/SOU
+mallei;7;R.pcr.B.mallei sou
+mallei;7;R.pcr.B.mallei ORL
+mallei;7;PCR.B.MALLEI/ORL
+nfs;1;NFS com1
+pl;26;DOS BETABLOQUANT PL
+pl;26;I D PHENOTHIAZ PL
+pl;26;HOMOCYSTINE pl
+pl;26;Id Phénothiaz. Pl
+pl;26;EDDP Pl
+pl;26;DOSAGE ANTIDEP PL
+pl;26;DISULFURE mixte pl
+pl;26;Id Hallucinogèn Pl
+pl;26;METHIONINE pl
+pl;26;Ac A-Récepteur PL A2
+pl;26;I D AMP OP-COCA PL
+pl;26;Id Antidép.Pl
+pl;26;Id Benzodiaz.Pl
+pl;26;DOS.NEUROLEPTIQ PL
+pl;26;DOS.PHENOTHIAZINE PL
+pl;26;KETAMINE PL
+pl;26;ID HALLUCINOGENES PL
+pl;26;I D. CANNABIS PL
+pl;26;ID ANTIDEP PL
+pl;26;AMMONIAC pl artérie
+pl;26;AC A-REC PL A2
+pl;26;I D BENZODIAZ.PL
+pl;26;Id Neurolept. Pl
+pl;26;Id Amp Op-Coca Pl
+pl;26;Id Bétabloquants Pl
+pl;26;DOSAGE BENZODIAZ PL
+jiroveci;6;P.jiroveci Abr/PCR:
+jiroveci;6;P.jiroveci DIV/PCR:
+jiroveci;6;P.jiroveci Lpl:
+jiroveci;6;P.jiroveci Cra/PCR:
+jiroveci;6;P.jiroveci Lp/PCR:
+jiroveci;6;P.jiroveci LBA:
+grip;54;PCR GripA/Ecou 2
+grip;54;PCR GripA/Ecou 3
+grip;54;PCR Grip.A H3/EcoN°2
+grip;54;PCR Grip.A H3/EcoN°3
+grip;54;PCR Grip.A H1/Sécré
+grip;54;PCR Grip.AH1N1/LiqB
+grip;54;PCR Grip.A H1/LiqB
+grip;54;PCR GripA/Biopsie
+grip;54;PCR GRIP.MULTI BIOPS
+grip;54;PCR Grip.A H3/LCR
+grip;54;PCR Grip.A/Ecouvil
+grip;54;PCR Grip.B/EcoN°3
+grip;54;PCR Grip.A H1/LCR
+grip;54;PCR Grip.A H3/LBA
+grip;54;PCR Grip.B/EcoN°2
+grip;54;PCR GripA/Lba
+grip;54;PCR Grip.A H3/Liq B
+grip;54;PCR Grip.B/Sécré.
+grip;54;PCR Grip.AH1N1/Ecou
+grip;54;PCR Grip.AH1N1/EcoN3
+grip;54;PCR Grip.AH1N1/EcoN2
+grip;54;PCR Grip.B/Liq.bio
+grip;54;PCR GripA/Sécré°.
+grip;54;PCR Grip.A/Biopsie
+grip;54;PCR Grip.B/LCR
+grip;54;PCR GRIP. MULTI ECOU
+grip;54;PCR Grip.A H1/EcoN3
+grip;54;PCR Grip.A H3/Sécré
+grip;54;PCR GRIP.MULTI SECRE
+grip;54;PCR Grip.A H1/EcoN2
+grip;54;PCR Grip.A/EcouN°2
+grip;54;PCR Grip.AH1N1/Biop
+grip;54;PCR Grip.A H1/Biop
+grip;54;PCR Grip.A/LiqBio
+grip;54;PCR Grip.B/LiqBio
+grip;54;PCR Grip.B/Ecouvil
+grip;54;PCR Grip.B/Ecou 2
+grip;54;PCR Grip.A/EcouN°3
+grip;54;PCR Grip.B/Ecou 3
+grip;54;PCR Grip.B/biopsie
+grip;54;PCR Grip.AH1N1/LBA
+grip;54;PCR GripA/Liq.bio
+grip;54;PCR Grip.A H3/Ecou
+grip;54;PCR Grip.A/LCR
+grip;54;PCR Grip.AH1N1/LCR
+grip;54;PCR Grip.A/Lba
+grip;54;PCR GRIP.MULTI LBA
+grip;54;PCR Grip.A/Sécré.
+grip;54;PCR Grip.A H1/LBA
+grip;54;PCR Grip.A H1/Ecou
+grip;54;PCR Grip.B/Lba
+grip;54;PCR Grip.A H3/Biop
+grip;54;PCR Grip.AH1N1/Sécr
+grip;54;PCR Grip.B/Biopsie
+import;1;Rech.BMR import.BHR
+tca;1;CorTCA
+gmp;1;GMP 140  (VH10)
+discord;1;Taux discord.VGMs
+bois;1;k212 poussièr.bois
+aut;8;CYTOB.BIOPS.AUT N5
+aut;8;CYTOB.BIOPS.AUT N4
+aut;8;CYTOB.DES BIOPS.AUT
+aut;8;CYTOB.BIOPS.AUT N3
+aut;8;CYTOB.BIOPS.AUT N2
+aut;8;CYTOB.BIOPS.AUT N8
+aut;8;CYTOB.BIOPS.AUT N7
+aut;8;CYTOB.BIOPS.AUT N6
+vitrif;1;CONG.VITRIF.OVOCYTES
+endoc;1;HEMO SUSP.ENDOC.27J
+ri;2;A-Hu/Ri/Yo Ser rech
+ri;2;A-Hu/Ri/Yo LCR rech
+cytop;1;AC CYTOP.POLYNUC.
+coti;1;Rapport Coti/Creat
+vagi;2;R.pcr.Chl.trachVAGI
+vagi;2;Nombre RLUtotalVAGI
+ponction;1;CYTO.LIQ.PONCTION
+cba;1;Activité antiCBA
+ent;2;Ent.histolyt.PCR:
+ent;2;Ent.dispar PCR:
+specifiq;1;Nb bandes spécifiq.
+abdo;2;CYTOBAC.PUS ABDO.N3
+abdo;2;CYTOBAC.PUS ABDO.N2
+man;1;Cobas TaqMan Roche
+cutanee;1;MYCO BIOPS.CUTANEE
+hbc;5;IGM HBC
+hbc;5;séro Ac Hbc urgente
+hbc;5;Ind HBc M Dxi
+hbc;5;ANTICORPS ANTI HBC
+hbc;5;HBc IgM
+ssa;1;Ac anti-SSA/Ro52kD
+mon;1;LymphPlasmMonAno
+de;5;M.de CHAGAS serol.
+de;5;RECH.DE PARASITE
+de;5;IDENTIF.DE PARASITE
+de;5;M.DE CHAGAS SEROL.
+de;5;CYTOB.ASP.BRO.IMM.DE
+btabloq;3;Dos Btabloq. Ur 3
+btabloq;3;Dos Btabloq. Ur 2
+btabloq;3;Dos Btabloq. Ur 1
+chl;38;R.pcr.Chl.trac Pus
+chl;38;pcr.Chl.rDNA23Sorl
+chl;38;R.pcr.Chl.tracLCR
+chl;38;pcr.Chl.rDNA23Slba
+chl;38;R.pcr.Chl.trachSB
+chl;38;R.pcr.Chl.trachGENI
+chl;38;R.pcr.Chl.trachVAGI
+chl;38;R.pcr.Chl.tracMaté
+chl;38;R.pcr.Chl.tracLIQ
+chl;38;SER.CHL.PNEU.ELISA
+chl;38;pcr.Chl.rDNA23Ssou
+chl;38;R.pcr.Chl.tracLBA
+chl;38;pcr.Chl.rDNA23Slcr
+chl;38;R.pcr.Chl.tracBIOP
+chl;38;R.pcr.Chl.trach.Ur
+chl;38;R.pcr.Chl.trachMaté
+chl;38;R.pcr.Chl.trach URI
+chl;38;R.pcr.Chl.trachPUS
+chl;38;R.pcr.Chl.tracGENI
+chl;38;pcr.Chl.rDNA23Sres
+chl;38;R.pcr.Chl.trachBIOP
+chl;38;CHL.PNEUMO SERO IGM
+chl;38;R.pcr.Chl.tra APuri
+chl;38;pcr.Chl.rDNA23Sbio
+chl;38;R.pcr.Chl.trachLCR
+chl;38;R.pcr.Chl.tracSouc
+chl;38;SER.CHL.TRAC.LCR/EL
+chl;38;SER.CHL.PNEU.LCR/EL
+chl;38;pcr.Chl.rDNA23Spus
+chl;38;SER.CHL.PSITT.LCR
+chl;38;SER.CHL.PSITT.SER IF
+chl;38;pcr.Chl.rDNA23Sliq
+chl;38;R.pcr.Chl.trachORL
+chl;38;R.pcr.Chl.trachLBA
+chl;38;R.pcr.Chl.trach Sou
+chl;38;R.pcr.Chl.trach OEI
+chl;38;R.pcr.Chl.trach LIQ
+chl;38;R.pcr.Chl.tracOEIL
+quatern;1;IgE A-ammon.quatern
+sphere;4;CYTOB.SPHERE ORL N2
+sphere;4;CYTOB.SPHERE ORL N3
+sphere;4;CYTOBAC.SPHERE ORL
+sphere;4;CYTOB.SPHERE ORL
+date;1;VNdate introduction
+ldl;3;CHOL LDL dosage
+ldl;3;CHOLESTEROL LDL
+ldl;3;CHOL LDL calculé
+arbres;2;TX8 MEL POL.ARBRES
+arbres;2;TX1 MEL POL.ARBRES
+sec;12;PCR EBV SEC.RESPIRAT
+sec;12;CYTOBAC.SEC.BRONC-P
+sec;12;CYTOB.SEC.BR.IMMUD.
+sec;12;CYTO SEC.BRON MUCOV
+sec;12;PCR CMV/Séc.respir
+sec;12;PCR CMV SEC.RESPIRAT
+sec;12;TRAP SécPlq Pat
+sec;12;ADP SécPlq Pat
+sec;12;PCR EBV/Séc.resp.
+sec;12;PCR ADENO SEC.RESP.
+sec;12;COL SécPlq Pat
+sec;12;SEC.BRONC-P.MUCOVIS
+gck;1;Gène  GCK mut
+res;9;Rés.mitogene:
+res;9;R.pcr.B.pertusRES
+res;9;R.pcr.B.parapeRES
+res;9;Rés.temoin neg:
+res;9;SAISIE RES.LOGICIEL
+res;9;ID/GénotC.trachoRES
+res;9;Thromboplast.Dil.Res
+res;9;R.pcr.C.psittacRES
+res;9;Typ.pcr.C.trachRes
+magnesium;1;Magnésium/Calcium
+rhinovirus;2;PCR Rhinovirus/Eco2
+rhinovirus;2;PCR Rhinovirus/Eco3
+pvt;46;MYCOL PVT GENITAL
+pvt;46;MYCOL PVT OEIL 3
+pvt;46;MYCOL PVT OEIL 2
+pvt;46;Toxo PVT DIVERS:
+pvt;46;Pn.jiro PVT DIVERS:
+pvt;46;MYCOLOGIE PVT LCR
+pvt;46;BAC PVT PUS SUP.N4
+pvt;46;CYTOBAC PVT VAGINAL
+pvt;46;CARTO PVT AXILLAIRE
+pvt;46;BAC PVT PUS SUP.N5
+pvt;46;BAC PVT PUS SUP.N2
+pvt;46;CARTO PVT ANUS/RECT.
+pvt;46;MYCOL PVT OEIL
+pvt;46;BAC PVT PUS SUP.N3
+pvt;46;BAC PVT PUS SUPERF.
+pvt;46;Pvt de sperme isolé
+pvt;46;Pr 2eme etiq de Pvt
+pvt;46;PVT ORGANES CV
+pvt;46;MYCO PVT LBA GREFFE
+pvt;46;MYCOLOGIE PVT PUS
+pvt;46;MYCOL PVT BIOPSIE 2
+pvt;46;MYCOL PVT BIOPSIE 3
+pvt;46;MYCOLOGIE PVT SELLE
+pvt;46;CARTO PVT RESPIRAT.
+pvt;46;MYCOLOGI PVT URINES
+pvt;46;MYCOLOGIE PVT PUS 2
+pvt;46;Mycologie pvt cutané
+pvt;46;MYCO PVT MACA2
+pvt;46;2EME PVT JOUR AMP
+pvt;46;MYCO PVT MACA3
+pvt;46;MYCO PVT EXP
+pvt;46;ANALYSE.PVT.SPERM.EP
+pvt;46;BAC.LIQ.PVT.ORGANE5J
+pvt;46;PCR CHIKUN.PVT DIVER
+pvt;46;CYTO PVT GEN.HOMME
+pvt;46;Mycologie pvt ORL
+pvt;46;PVT ORGANES
+pvt;46;CARTO PVT URINES
+pvt;46;BAC PVT ORE.EXT N2
+pvt;46;CARTO PVT BOUCHE
+pvt;46;MYCOL PVT O.R.L.
+pvt;46;MYCOL PVT BIOPSIE
+pvt;46;analyse.pvt.spermEp
+pvt;46;PVT SPERME ISOLE
+pvt;46;BAC PVT ORE.EXT
+pvt;46;MYCO PVT LBA 2
+nterpretation;1;InterprétationM.Coel
+leg;2;C.LEG KAPPA/LAMBDA S
+leg;2;Dos.SérCh.légKapLam
+prepa;3;PREPA.SPERM. IIU
+prepa;3;Prépa.Sperme avt I
+prepa;3;PREPA.SPERM.AVT I
+cockcr;2;Clair Cr Cockcr. H
+cockcr;2;Clair Cr Cockcr. F
+sequenc;1;Id.après séquenç.N2
+met;4;2Nitro4trifluo.met.b
+met;4;Mét. Méthadone Ur
+met;4;Mét. Méthadone
+met;4;MET. METHADONE UR
+mol;1;Boîte BioMol
+glycoprot;1;Etude Glycoprot.Plaq
+cl;9;REC.TOXINE CL.DIFFIC
+cl;9;Dépistage Ac CL I
+cl;9;Typ HLA CL I BM
+cl;9;Typ HLA CL II BM
+cl;9;TYP ALLELIQ CL I
+cl;9;TYP ALL CL II DPA1
+cl;9;TYP ALL CL II DPB1
+cl;9;Typ CL I II Organes
+cl;9;TYP ALLELIQ CL II
+atp;1;Ratio ATP/ADP nucl.P
+hg;3;HG - 30
+hg;3;HG - 15
+hg;3;HG - 60
+interne;1;Contrôle interne/Eco
+granuleuse;1;SousTotalGranuleuse
+lav;1;CYTOB.LAV.BRONCH-AL
+nb;5;WB ASPER Nb bandes:
+nb;5;Nb bandes spécifiq.
+nb;5;WB DISTO Nb bandes:
+nb;5;WB TOXOC Nb bandes:
+nb;5;WB BILHA Nb bandes:
+echinococc;2;ECHINOCOCC.ALVE SERO
+echinococc;2;Interpr.Echinococc.
+plp;1;Pentamères PLP
+tpc;2;TPC OU test Huhner
+tpc;2;TPC OU TEST HUHNER
+thalassemie;1;THALASSEMIE/RM(XNP)
+com;5;ID.SOUCH.CAMPY.COM
+com;5;ID.SOUCH.CAMPYLO.COM
+com;5;MégaComQuant
+com;5;Com.RCLIcult.Chlam:
+com;5;com.SER lyme Mikr.
+tubercu;1;R.MYC.TUBERCU/PCR
+xp;1;MUTATIONS XP
+globu;1;SEX HORM.BIND.GLOBU
+et;3;ET. Génétiques FAM
+et;3;Ac A-RAC et/ou MUSK
+et;3;ET.Gènes GLANZMANN
+lba;14;ID/GénotC.trachoLBA
+lba;14;CYTBACT.LBA MUCOV
+lba;14;Typ.pcr.C.trachLBA
+lba;14;R.pcr.B.pertussLBA
+lba;14;CYTBACT.LBA
+lba;14;R.pcr.B.paraperLBA
+lba;14;CYTOB.LBA MUCOVIS
+lba;14;R.pcr.Chl.trachLBA
+lba;14;R.pcr.Chl.tracLBA
+lba;14;Nombre RLUtotalLBA
+lba;14;CYTBACT.LBA IMMUND
+lba;14;R.pcr.C.psittaciLBA
+lba;14;CYTOB.LBA IMMUNOD
+lba;14;REC.TOXOPLAS.LBA PCR
+depist;3;Dépist.Cox.burn/s:
+depist;3;AC A-GRANULOC.DEPIST
+depist;3;Dépist.antistaph.:
+jc;12;PCR JC SANG
+jc;12;jc biopsie CP
+jc;12;PCR JC/LCR
+jc;12;jc urines CP
+jc;12;PCR JC/Biopsie
+jc;12;PCR JC/Sang tot
+jc;12;PCR JC URINES
+jc;12;jc sang CP
+jc;12;PCR JC BIOPSIE
+jc;12;jc lcr CP
+jc;12;PCR JC LCR
+jc;12;PCR JC/urines
+freq;2;M209 PENICIL.FREQ
+freq;2;m209 Penicil.freq
+lactofer;1;F334 LACTOFER.BOVINE
+ecouvillon;1;PCR OREI.ECOUVILLON
+ponct;4;Cytob.Liq Ponct.N 3
+ponct;4;Cytob.Liq Ponct.N 2
+ponct;4;CYTO.LIQ.PONCT.N 3
+ponct;4;CYTO.LIQ.PONCT.N 2
+transglu;1;Transglu.IgA
+part;8;PART.INHAL.non fibre
+part;8;RECH.BACT.PART.N5
+part;8;RECH.BACT.PART.N4
+part;8;RECH.BACT.PART.N3
+part;8;PART.INHAL.AMIANTE
+part;8;PART.IN.NON FIBREUSE
+part;8;PART.INHAL.amiante
+part;8;RECH.BACT.PART.N2
+adenovirus;1;PCR Adénovirus/Ec.
+sulfam;2;SULFAM.HYPOGLYC.SER
+sulfam;2;SULFAM.HYPOGLYC.UR
+phtaliq;1;K79 ANHYD.PHTALIQ
+cfm;1;Conc GpMbr par CFM
+cnr;1;CNR Chlamydiae et Mycoplasmes
+haqu;1;DOS.IL6/10 HAQU.VIT
+meningocoq;1;TRA.IDENT.MENINGOCOQ
+plas;4;LACT.plas art
+plas;4;CHARGE VIH PLAS.SEMI
+plas;4;LACT.plas v
+plas;4;ARN VIH Plas.séminal
+trychophy;2;M205 TRYCHOPHY.RUB
+trychophy;2;M211 TRYCHOPHY.I.DIG
+oreil;3;PCR OREIL. LIQUIDE
+oreil;3;PCR OREIL.SECRETION
+oreil;3;PCR OREIL.BIOPSIE
+cajou;2;F443 N.CAJOU RANA O3
+cajou;2;f443 N.Cajou rAnao3
+quanti;1;PCRquantiHEPATITE E
+aqueus;4;PCR HSV HUM.AQUEUS
+aqueus;4;PCR VZV HUM.AQUEUS
+aqueus;4;PCR VZV/hum.aqueus
+aqueus;4;PCR HSV/hum.aqueus
+mening;3;R.pcr.N.mening Lcr
+mening;3;R.pcr.N.meningLIQ
+mening;3;R.pcr.N.meningBIOP
+reptilase;1;TpsReptilasePatient
+ldh;8;LDH SANGUINE
+ldh;8;LDH ur
+ldh;8;LDH  URINAIRE DOSAGE
+ldh;8;LDH LIQ. BIO DOSAGE
+ldh;8;LDH liq.bio
+ldh;8;LDH sg ( L ---> P )
+ldh;8;LDH liq.pleural
+ldh;8;LDH PLEU/LDH SG
+dialyse;1;CALCIUM LIQ.DIALYSE
+digest;3;BAC BIOPS.DIGEST.N3
+digest;3;BAC BIOPS.DIGEST.N2
+digest;3;BIOP.DIGEST.HP CULT
+pity;1;REC.PITY.VERSICOLOR
+lame;3;AMYLASE liq.lame
+lame;3;Cytb.Liq Lame/redon
+lame;3;LIPASE liq.lame
+ph;13;PH LIQUIDE PLEURAL
+ph;13;PH liq.pleural
+ph;13;PH fécal
+ph;13;PH liq dial
+ph;13;PH Urinaire
+ph;13;PH basal bandelette
+ph;13;PH LIQUDE DE DIALYSE
+ph;13;PH CUB2M
+ph;13;MESURE PH AU PHMETRE
+ph;13;PH FECAL
+ph;13;pH ur réveil
+ph;13;PH liq ascite
+ph;13;PH LIQUIDE ASCITE
+cytbac;8;CYTBAC.PUS SUPERFIC
+cytbac;8;CYTBAC.PUS CUTANE
+cytbac;8;CYTBAC.PUS CUTANE N3
+cytbac;8;CYTBAC.PUS CUTANE N2
+cytbac;8;CYTBAC.PUS SUPER.N5
+cytbac;8;CYTBAC.PUS SUPER.N2
+cytbac;8;CYTBAC.PUS SUPER.N4
+cytbac;8;CYTBAC.PUS SUPER.N3
+hor;1;SEX HOR.BIND.GLOBUL
+gras;1;BétaOxydat.Ac.Gras
+asp;7;CYTO ASP.BR.IMMUDEP
+asp;7;CYTOB.ASP.BRONCH.
+asp;7;CYTO ASP.BRONCH:
+asp;7;CYTOB.ASP.BRO.IMM.DE
+asp;7;MYCO ASP.BRONCH
+asp;7;CYTOB.ASP.BRON.MUCO
+asp;7;Asp.W.Blot P18-20
+nmo;2;Ac A-NMO/AQUAPORINE4
+nmo;2;AC A-NMO/AQUAPORINE4
+cel;1;ARN VIH Cel.sémina
+mate;3;R.pcr.N.gonoMaté
+mate;3;R.pcr.Chl.trachMaté
+mate;3;R.pcr.Chl.tracMaté
+prises;1;Nbre de prises/j
+will;1;LYSAT F.WILL I-PLQ
+lcr;187;Elect lcr
+lcr;187;ANA comment LCR
+lcr;187;R.pcr.Chl.tracLCR
+lcr;187;IgA LCR dosage
+lcr;187;R.pcr.N.mening Lcr
+lcr;187;DOSAGE IFN-alpha LCR
+lcr;187;HTLV PCR ADN LCR
+lcr;187;PCR HTLV  lcr
+lcr;187;LYSINE  lcr
+lcr;187;SER .LEPT.SERou LCR
+lcr;187;PCR WEST-NILE LCR
+lcr;187;MYCOLOGIE PVT LCR
+lcr;187;ASPECT DU LCR
+lcr;187;R.pcr.M.hominisLCR
+lcr;187;HIV1 INT ARN LCR
+lcr;187;PCR HHV8 LCR
+lcr;187;METHIONINE  lcr
+lcr;187;A-Amphip D rech lcr
+lcr;187;IgG LCR dosage
+lcr;187;R.pcr.U.parvum LCR
+lcr;187;LCR DS AUTRE LIQUIDE
+lcr;187;SER LEPT.SERouLCR TR
+lcr;187;PCR ADENO LCR
+lcr;187;PCR JC LCR
+lcr;187;IMMUNOFIXATION LCR
+lcr;187;Anti-Ma2 D rech lcr
+lcr;187;Anti-Yo D rech lcr
+lcr;187;CAMPYLOBACT.AC LCR
+lcr;187;Anti-Ri D rech lcr
+lcr;187;HYDROXYPROLINE lcr
+lcr;187;IF LCR Conclusion
+lcr;187;REC.TOXOPLAS.LCR PCR
+lcr;187;AC ASPARTIQUE  lcr
+lcr;187;cmv lcr CP
+lcr;187;16s.NMEN.Lcr/PCR
+lcr;187;PCR HHV6 LCR
+lcr;187;HIV1 GP41 ARN LCR
+lcr;187;Ac A-Réc NMDA LCR
+lcr;187;CYTOBACTERIO LCR
+lcr;187;AC A-NEURONAUX LCR
+lcr;187;IFN ALPHA LCR
+lcr;187;PCR VZV LCR
+lcr;187;ARGININE lcr
+lcr;187;HIV1 TROP.ARN LCR
+lcr;187;RECHERCHE DE LCR
+lcr;187;IgM LCR dosage
+lcr;187;TOXOPLASMA PCR LCR
+lcr;187;ENA LCR rech
+lcr;187;GLYCINE  lcr
+lcr;187;Dos.IL6 et IL10 LCR
+lcr;187;CYSTINE  lcr
+lcr;187;TYROSINE lcr
+lcr;187;ISOLEUCINE  lcr
+lcr;187;PCR Zika LCR
+lcr;187;IF LCR Commentaire
+lcr;187;DEP AC NEUROPILE LCR
+lcr;187;R.pcr.C.jejuni Lcr
+lcr;187;A-Hu/Ri/Yo LCR rech
+lcr;187;ORNITHINE   lcr
+lcr;187;DOS IL6 ET IL10 LCR
+lcr;187;ANA mitose LCR
+lcr;187;BETA2 MICRO LCR
+lcr;187;ALPHA ALANINE lcr
+lcr;187;CHIMIE DU LCR
+lcr;187;Ac A-MAG lcr
+lcr;187;TAURINE lcr
+lcr;187;ANGIOTENS CONV LCR
+lcr;187;HIV1 RESIS. ARN LCR
+lcr;187;BRUCELLOSES AC LCR
+lcr;187;tropisme lcr
+lcr;187;Mycologie LCR
+lcr;187;TOXOCAROSE AC LCR
+lcr;187;SERO CYSTICERC.LCR
+lcr;187;GLYCINE LCR
+lcr;187;PIGMENTS LCR
+lcr;187;A-NEURO CV2,AMP..LCR
+lcr;187;CULT M.PNEUMO LCR
+lcr;187;ALPHA 1 lcr
+lcr;187;R.pcr.Chl.trachLCR
+lcr;187;Nombre RLUtotalLCR
+lcr;187;SER.CHL.PNEU.LCR/EL
+lcr;187;SER.CHL.PSITT.LCR
+lcr;187;CYSTICERCOSE AC LCR
+lcr;187;AC A-NMDA LCR
+lcr;187;R.pcr.M.pneumo LCR
+lcr;187;TAU lcr
+lcr;187;LEUCINE  lcr
+lcr;187;AC A-MAG LCR
+lcr;187;Albumine LCR dosage
+lcr;187;vzv lcr CP
+lcr;187;SERO.LYME LCR ET SER
+lcr;187;DO IgG LCR lyme:
+lcr;187;PCR ROUGEOLE LCR
+lcr;187;Prot T LCR dosage
+lcr;187;CHARGE VIH LCR
+lcr;187;Cholestanol lcr
+lcr;187;seq. RT Prot lcr
+lcr;187;Béta 2 micro  lcr
+lcr;187;HYPOCRETINE LCR
+lcr;187;SER.MYCOP.PNEU.LCR
+lcr;187;ANA rech LCR
+lcr;187;AC GLUTAMIQUE  lcr
+lcr;187;TRYPANO.AFRIC.LCR
+lcr;187;PCR HSV LCR
+lcr;187;Sér.M.pneu.LCR RFC:
+lcr;187;IGG  lcr
+lcr;187;PROTEINES TOT LCR
+lcr;187;Typ.pcr.C.trachLCR
+lcr;187;ENA LCR ident
+lcr;187;PREALBUMINE lcr
+lcr;187;Anti-GAD65 Drech lcr
+lcr;187;A-NEURON DOT LCR
+lcr;187;ARN VIH LCR
+lcr;187;Concl Ac.Aminés LCR
+lcr;187;HISTIDINE lcr
+lcr;187;THREONINE lcr
+lcr;187;ELECTRO PROTIDES LCR
+lcr;187;PROLINE lcr
+lcr;187;AMYLASE lcr
+lcr;187;R.pcr.typN.men LCR
+lcr;187;PCR ENTERO LCR
+lcr;187;Dos IFN-alpha LCR
+lcr;187;DOSAGE IFN-ALPHA LCR
+lcr;187;PHENYL ALANINE  lcr
+lcr;187;GAMMA lcr
+lcr;187;ALBUMINE lcr
+lcr;187;CITRULLINE lcr
+lcr;187;ID/GénotC.trachoLCR
+lcr;187;Fac electro lcr
+lcr;187;R.pcr.S.pneumLCR
+lcr;187;Anti-CV2 D rech lcr
+lcr;187;Anti-Ma1 D rech lcr
+lcr;187;LCR RECH PIGMENTS
+lcr;187;b19 lcr CP
+lcr;187;CRYPTOCOQUE AG LCR
+lcr;187;seq  Env 41 lcr
+lcr;187;BETA lcr
+lcr;187;jc lcr CP
+lcr;187;BILHARZIOSE AC LCR
+lcr;187;Cytobactério LCR
+lcr;187;Titre IgG LCR lyme
+lcr;187;Lactate lcr
+lcr;187;ASPERGILLUS AG LCR
+lcr;187;IGG LCR
+lcr;187;SERINE lcr
+lcr;187;AC PYRUVIQUE lcr
+lcr;187;Ind comp lcr
+lcr;187;PCR OREILLONS LCR
+lcr;187;CHOLESTANOL LCR
+lcr;187;PCR B19 LCR
+lcr;187;Ac A-GANG lcr
+lcr;187;AC ANTI-ENA LCR
+lcr;187;ACIDES AMINES LCR
+lcr;187;ALBUMINE LCR
+lcr;187;R.pcr.C.pneumo LCR
+lcr;187;PCR Toscana LCR
+lcr;187;R.pcr.C.fetus Lcr
+lcr;187;R.pcr.C.psittaLCR
+lcr;187;VALINE lcr
+lcr;187;AC ANTI-NOYAUX LCR
+lcr;187;Anti-HuD rech lcr
+lcr;187;PROTEINES LCR
+lcr;187;GLUTAMINE lcr
+lcr;187;hsv lcr CP
+lcr;187;Ac GLU+GLUTAMINE lcr
+lcr;187;HHV8 lcr CP
+lcr;187;GLUCOSE lcr
+lcr;187;AC PYRUVIQUE LCR
+lcr;187;PCR RESP. LCR
+lcr;187;ANA aspect LCR
+lcr;187;IGG+IGA+IGM LCR
+lcr;187;SER.CHL.TRAC.LCR/EL
+lcr;187;ebv lcr CP
+lcr;187;R.pcr.N.gono LCR
+lcr;187;Graphe LCR
+lcr;187;Concl  elec lcr
+lcr;187;adéno lcr CP
+lcr;187;seq  integr lcr
+lcr;187;R.pcr.U.urealyLCR
+lcr;187;Hypocrétine LCR
+lcr;187;Ac A-Neuropile LCR
+lcr;187;AMYLASE LCR
+lcr;187;hhv6 lcr CP
+lcr;187;Anti-SOX1 Drech lcr
+lcr;187;AC A-GANG LCR
+lcr;187;ALPHA 2 lcr
+lcr;187;R.pcr.16S lcr
+fiv;4;CYTOBACT.FIV
+fiv;4;supp.à ICSI ovoFIV
+fiv;4;CYTOBACT.FIV N 2
+fiv;4;CYTOBACT.FIV N 3
+prd;1;Prd phosphocalcique
+embryons;2;CryoCs Embryons/C/A
+embryons;2;CRYOCS EMBRYONS/C/AN
+sb;5;R.pcr.N.gono SB
+sb;5;R.pcr.Chl.trachSB
+sb;5;R.pcr.M.hominisSB
+sb;5;Nombre RLUtotalSB
+sb;5;ASPECT SB
+cytbact;4;CYTBACT.LBA MUCOV
+cytbact;4;CYTBACT.LBA IMMUND
+cytbact;4;CYTBACT.ABR MUCOV
+cytbact;4;CYTBACT.LBA
+vdrl;1;VDRL LCR:
+prp;2;PLAQUETTES SUR PRP
+prp;2;Taux Plaquettes PRP
+ttt;8;TTT Aspirine :
+ttt;8;TTT antiagrégant
+ttt;8;TCA SANS TTT/OU AVK
+ttt;8;TTT / A-IgE comm :
+ttt;8;TTT S/Grp
+ttt;8;AGREGAT PLAQ TTT AA
+ttt;8;TTT Plavix ou eff :
+ttt;8;TTT AVK S/Grp
+berg;1;Rech Ec Rglyc.BERG
+qt;1;CultureQtQlProgéHém
+interpretati;1;Interprétati.WBBIL:
+blse;1;Rech.blse.BLSE
+lain;1;g13 houlque lain.
+maladie;1;TYP.HLA MALADIE/MEDI
+bartonella;1;Cul.Bartonella CMGC
+rpcr;1;Rpcr.C.psittaciSou
+moyenne;1;Cytob.Orei.moyenne
+antidep;3;Id Antidép.Pl
+antidep;3;Id Antidép. Ur
+antidep;3;Id Antidép. Sg
+stoc;1;StocPréAna pr HL
+calc;1;AC A-REC C CALC/CASR
+rech;25;RECH.BACT.PART.N5
+rech;25;RECH.BACT.PART.N4
+rech;25;RECH.BACT.PART.N3
+rech;25;RECH.BACT.PARTIC.
+rech;25;RECH.BACT.PART.N2
+rech;25;Rech.Ac anti Fact H
+rech;25;Rech/pcr.B.ant.capA
+rech;25;Rech.blse.BLSE
+rech;25;Rech.cult.chlamy.:
+rech;25;Rech.ABAU  BABAU
+rech;25;RECH.DE PARASITE
+rech;25;Rech.Ag.cryptocoq :
+rech;25;RECH.N.GONO N°2
+rech;25;Rech.BMR import.BHR
+rech;25;RECH.EC R GLYCOPET.
+rech;25;Rech.parasites
+rech;25;Rech. corps Heinz
+rech;25;RECH.ETB CARBAPENEM.
+rech;25;RECH.LEISHMANIES
+rech;25;Rech/pcr.B.ant.pag:
+rech;25;RECH.ETB HT RESIST
+rech;25;RECH.N.GONO
+rech;25;Rech.ABAU  BABA2
+rech;25;RECH.A.BAUMANNII
+rech;25;Rech.ABAU  BABA3
+hepatite;1;PCRquantiHEPATITE E
+non;2;PART.INHAL.non fibre
+non;2;PART.IN.NON FIBREUSE
+at;2;AThrombine activité
+at;2;Phéno/seq G AThrombi
+nnat;1;CYTOBACT.NNAT
+culture;1;CultureQtQlProgéHém
+pon;2;Cytob.Liq Pon.BLQAE
+pon;2;Cytob.Liq Pon.BLQAN
+ouvrir;1;CfNew poso.Ouvrir
+spz;2;SPZ CHIRURGICAUX
+spz;2;spz chirurgicaux
+cliniques;1;SERO R.CLINIQUES
+alp;1;k87 alp.amylase
+sup;4;BAC PVT PUS SUP.N4
+sup;4;BAC PVT PUS SUP.N5
+sup;4;BAC PVT PUS SUP.N2
+sup;4;BAC PVT PUS SUP.N3
+gen;9;PCR.gèn.R STAPH/RESP
+gen;9;CYTO PVT GEN.HOMME
+gen;9;R.pcr.M.hominisGEN
+gen;9;GénThrombineLatence
+gen;9;R.mut ARNr23S M.gen
+gen;9;PCR.gèn.R STAPH/SOU
+gen;9;PCR.gèn.R STAPH/ORL
+gen;9;PCR.gèn.R STAPH/OEI
+gen;9;PCR.gèn.R STAPH/LIQ
+vzv;32;PCR VZV LIQUIDE
+vzv;32;PCR VZV ECOUV 3
+vzv;32;PCR VZV/Sang
+vzv;32;PCR VZV ECOUV 2
+vzv;32;PCR VZV/sécrétions
+vzv;32;vzv écouv3  CP
+vzv;32;PCR VZV/hum.aqueus
+vzv;32;vzv lba CP
+vzv;32;vzv biopsie CP
+vzv;32;PCR VZV/LCR
+vzv;32;PCR VZV SECRE
+vzv;32;Index VZV IgM
+vzv;32;PCR VZV SANG
+vzv;32;PCR VZV LBA
+vzv;32;PCR VZV BIOPSIE
+vzv;32;vzv sécrét. CP
+vzv;32;PCR VZV/liq.bio.
+vzv;32;vzv liq bio CP
+vzv;32;PCR VZV/biopsie
+vzv;32;PCR VZV/LBA
+vzv;32;SERO VARICELLE VZV
+vzv;32;PCR VZV ECOUVILLON
+vzv;32;PCR VZV HUM.AQUEUS
+vzv;32;vzv sang CP
+vzv;32;PCR VZV/écouvillon1
+vzv;32;vzv écouv. CP
+vzv;32;PCR VZV LCR
+vzv;32;PCR VZV/écouvillon3
+vzv;32;vzv écouv2 CP
+vzv;32;PCR VZV/écouvillon2
+vzv;32;vzv hum.aq. CP
+vzv;32;vzv lcr CP
+histo;1;PCRE.HISTO/DISPAR DI
+quant;1;MégaComQuant
+indice;1;IndiceDistribution
+cutan;1;Mycologie biop.cutan
+rougeole;6;PCR Rougeole/Biopsie
+rougeole;6;PCR Rougeole/Sécré.
+rougeole;6;PCR Rougeole/Li.bio
+rougeole;6;PCR Rougeole/Ecouv.
+rougeole;6;PCR Rougeole/Lcr
+rougeole;6;PCR Rougeole/Sang
+pj;1;PosologieEstimée PJ
+myelome;2;CYTOG.MYELOME FISH
+myelome;2;Cytog.Myelome Fish
+detectio;1;Gastro.Détectio/Ecou
+cbs;2;GENOTYPAGE CBS
+cbs;2;Géne CBS
+amiante;3;PARTIC.MIN.AMIANTE
+amiante;3;PART.INHAL.AMIANTE
+amiante;3;PART.INHAL.amiante
+etb;2;RECH.ETB HT RESIST
+etb;2;RECH.ETB CARBAPENEM.
+mg;3;Elimination  Mg
+mg;3;Poso AUC 45h.mg/L
+mg;3;Mg /Creat
+superfic;1;couches superfic.
+hu;2;A-Hu/Ri/Yo Ser rech
+hu;2;A-Hu/Ri/Yo LCR rech
+dia;1;BILAN FER LIQ.DIA
+sulfa;4;SULFA.HYPOGLYCE.SER.
+sulfa;4;SULFA.HYPOGLYC.UR.
+sulfa;4;SULFA.HYPOGLYC.SER.
+sulfa;4;SULFA.HYPOGLYCE.URI.
+trichlorac;1;AC TRICHLORAC.UR
+hypertriglycerid;2;Hypertriglycérid.
+hypertriglycerid;2;HYPERTRIGLYCERID.
+brucellose;1;Comment.brucellose
+hypers;2;SéroPneumo.Hypers
+hypers;2;SERO.PNEUMO.HYPERS
+oxalate;1;Oxalate/Créat
+mater;1;SS LOTLAIT MATER.CRU
+cladosp;2;M2 CLADOSP.HERB
+cladosp;2;m2 Cladosp.herba
+amylase;1;k87 alp.amylase
+super;4;CYTBAC.PUS SUPER.N5
+super;4;CYTBAC.PUS SUPER.N2
+super;4;CYTBAC.PUS SUPER.N4
+super;4;CYTBAC.PUS SUPER.N3
+pterony;1;d1 derm.pterony.
+sang;6;CFU-MK SpntéeSang
+sang;6;CFU-E SpntéeSang
+sang;6;BFU-E StmléeSang
+sang;6;rec.SANG liq.bio
+sang;6;tropisme sangTotal
+sang;6;CFU-GM StmléeSang
+herba;2;m2 Cladosp.herba
+herba;2;WX1 MEL POL.HERBA.
+triiodothyron;1;AC A-TRIIODOTHYRON.
+candidose;1;Interpr.Candidose :
+transp;1;CSté:transp.gref.SF
+pancr;2;H. POLYPEPT. PANCR.
+pancr;2;HORM. POLYPEPT.PANCR
+gpii;2;GPIIbIIIa (P2)
+gpii;2;GPIIbIIIa
+new;1;CfNew poso.Ouvrir
+rechauff;2;Réchauff.Ovocytes
+rechauff;2;RECHAUFF.OVOCYTES
+griffe;1;PCR.M.GriffeChatAdén
+moelle;6;CFU-GM StmléeMoelle
+moelle;6;MYCOB.MOELLE
+moelle;6;CFU-MK SpntéeMoelle
+moelle;6;REC. MYCOBACT.MOELLE
+moelle;6;BFU-E StmléeMoelle
+moelle;6;CFU-E SpntéeMoelle
+del;4;del/rec emb ou gam
+del;4;DEL/RE EMBRYO OU GAM
+del;4;del/rec embryons
+del;4;DEL/REC EMBRYONS
+hem;2;CultureQtQlProgéHém
+hem;2;BIOMOL HEM/CYTO:
+kd;1;SSA52 kD dot
+hemo;1;HEMO. ARTER.AE+ANA
+testicul;1;CongélTissuTesticul
+gc;1;Cotinine GC/MS
+dr;3;LY.T ACT.DR
+dr;3;TG LOC DR BM
+dr;3;DR à Vérif BM
+pteronyss;1;D1 D.PTERONYSS.
+pestis;7;PCR Y.pestis/SOUC
+pestis;7;PCR Y.PESTIS/PVT
+pestis;7;PCR Y.PESTIS/ORL
+pestis;7;R.pcr.Y.pestis Liq
+pestis;7;R.pcr.Y.pestis Orl
+pestis;7;R.pcr.Y.pestis Sou
+pestis;7;PCR Y.PESTIS/LIQ
+blqan;1;Cytob.Liq Pon.BLQAN
+uri;10;SCR.ORGANOPHOSPH.URI
+uri;10;Nombre RLUtotalURI
+uri;10;ID/GénotC.trachoURI
+uri;10;Nombre RLUtotalAPuri
+uri;10;AZOTE TOTAL URI.
+uri;10;R.pcr.U.urealyURI
+uri;10;R.pcr.U.parvumURI
+uri;10;SULFA.HYPOGLYCE.URI.
+uri;10;R.pcr.Chl.tra APuri
+uri;10;SCR.ORGANOPHOS.URI
+ollag;1;Fibroblastes CollagP
+mullti;1;MulltiGast.Détection
+kinines;2;EXP ANG.KININES
+kinines;2;Exp Angio.Kinines
+bs;3;Taux Kappa Sér BS
+bs;3;Taux Lambda Sér BS
+bs;3;Kappa/Lambda BS
+nigr;1;M11 RHIZOPUS NIGR.
+screen;3;SCREEN.ORGANOPHOS.UR
+screen;3;SCREEN.ORGANOPHOS.LG
+screen;3;LeucoScreen
+cons;2;CONS.LAMES FIXEES/CO
+cons;2;cons.lames fixées/c
+ovo;1;supp.à ICSI ovoFIV
+chat;6;TRAN.SER.MAL.GR.CHAT
+chat;6;TRANS CU.MAL.GR.CHAT
+chat;6;TRANS CULT.M.Gr.CHAT
+chat;6;PCR GRIF.CHAT ADENOP
+chat;6;TRANS.SérMAL.GR.CHAT
+chat;6;PCR.M.GriffeChatAdén
+mtx;1;MTX Méthotrexate
+rub;2;m205 Trychoph.rub
+rub;2;M205 TRYCHOPHY.RUB
+thromboplast;1;Thromboplast.Dil.Res
+hematies;1;NumHématiesLiqBio
+flacaerd;4;FlacAERd.positiv(h):
+flacaerd;4;FlacAERd.posit(h)H2
+flacaerd;4;FlacAERd.pos.(h)PSG
+flacaerd;4;FlacAERd.posit(h)LQ
+ll;2;DR- G- LL
+ll;2;DR- P- LL
+mycoph;14;Mycoph. T6 {C
+mycoph;14;Mycoph. T3 {C
+mycoph;14;Mycoph. T5 {C
+mycoph;14;Mycoph. T4 {C
+mycoph;14;Mycoph. T7 {C
+mycoph;14;Mycoph. T8 {C
+mycoph;14;Mycoph. T9 {C
+mycoph;14;Mycoph. T2 {C
+mycoph;14;Mycoph. T1 {C
+mycoph;14;Mycoph. Cinétique
+mycoph;14;Mycoph. T12 {C
+mycoph;14;Mycoph. T13 {C
+mycoph;14;Mycoph. T11 {C
+mycoph;14;Mycoph. T10 {C
+ebola;4;PCR Ebola/selles
+ebola;4;PCR Ebola/urines
+ebola;4;PCR EBOLA/DIVERS
+ebola;4;PCR Ebola/sang tot.
+mdrd;5;Cal inter mdrdF
+mdrd;5;MDRD (CLAIR CREAT)
+mdrd;5;MDRD Homme
+mdrd;5;Cal inter mdrdM
+mdrd;5;MDRD Femme
+variable;2;Variable/type Ech
+variable;2;Délai env.variable
+pertuss;3;R.pcr.B.pertussSouc
+pertuss;3;PCR.B.pertuss/LBA
+pertuss;3;R.pcr.B.pertussLBA
+orei;4;Cytob.Orei.moyen N2
+orei;4;Cytob.Orei.moyen N3
+orei;4;PCR OREI.ECOUVILLON
+orei;4;Cytob.Orei.moyenne
+rbp;1;RBP sg
+nucleo;2;Nucléo.plaq ATP
+nucleo;2;Nucléo.plaq ADP
+bacter;2;Numé.Bactér.(lot):
+bacter;2;SEQ.SOU.BACTER./PCR
+betabloq;5;Dos  Bétabloq.
+betabloq;5;Dos Bétabloq. sg 3
+betabloq;5;Dos Bétabloq. sg 2
+betabloq;5;Dos Bétabloq. sg 1
+betabloq;5;Dos  Bétabloq.Ur
+plaie;3;CYTOBAC.PLAIE OP.N3
+plaie;3;CYTOBACT.PLAIE OPER
+plaie;3;CYTOBAC.PLAIE OP.N2
+burn;1;Dépist.Cox.burn/s:
+pulmo;5;BAC BIOPS.PULMO 2
+pulmo;5;BAC BIOPS.PULMO 3
+pulmo;5;BAC BIOPS.PULMO 4
+pulmo;5;MYCO BRONCHO-PULMO.
+pulmo;5;BAC BIOPS.PULMO
+aromatiq;1;HC.AROMATIQ.POLY.
+bron;2;CYTO SEC.BRON MUCOV
+bron;2;CYTOB.ASP.BRON.MUCO
+lang;1;AC ANTI-ILOTS LANG.
+sulf;2;SULF. PREGNENOLONE
+sulf;2;SULF.  PREGNENOLONE
+vitre;2;CYTOB.OCUL.L.VITRE
+vitre;2;CYTOB.OC.VITRE
+campylo;2;ID.SOUCH.CAMPYLO.COM
+campylo;2;ID.SOUCH.CAMPYLO.HOP
+alcal;2;PHOSPHAT.ALCAL.PLAC.
+alcal;2;PHOSPHAT.ALCAL.PLAC
+choroide;2;Ac A-Choroide/Oeil
+choroide;2;AC A-CHOROIDE/OEIL
+mec;6;R.pcr.g.mecA Oeil
+mec;6;R.pcr.g.mecA Liq
+mec;6;R.pcr.g.mecA Art
+mec;6;R.pcr.g.mecA Respi
+mec;6;R.pcr.g.mecA Orl
+mec;6;R.pcr.g.mecA Sou
+bcarb;1;Rec.carbapé.BCARB
+tracho;35;PCR.C.TRACHO/LCR
+tracho;35;PCR.C.TRACHO/OEIL
+tracho;35;PCR.C.TRACHO/SOU
+tracho;35;ID/GénotC.trachoPUS
+tracho;35;Typ.pcr.C.trachoGé
+tracho;35;PCR.C.TRACHO/PUS
+tracho;35;CULT.C.TRACHO/ORL
+tracho;35;ID/GénotC.tracho ORL
+tracho;35;PCR.C.TRACHO/LBA
+tracho;35;C.tracho/CUL PUS
+tracho;35;PCR.C.TRACHO/LQ
+tracho;35;ID/GénotC.tracho OEI
+tracho;35;C.tracho/CUL GEN
+tracho;35;PCR.C.TRACHO/ORL
+tracho;35;PCR.C.TRACHO/URIN
+tracho;35;PCR.C.TRACHO/RESP
+tracho;35;ID/GénotC.trachoGENI
+tracho;35;C.tracho/CULT LQ
+tracho;35;PCR.C.TRACHO/BIOPS
+tracho;35;ID/GénotC.trachoLBA
+tracho;35;ID/GénotC.trachoURI
+tracho;35;PCR.C.TRACHO/GENI
+tracho;35;CULT.C.TRACHO/LIQ
+tracho;35;ID/GénotC.trachoRES
+tracho;35;ID/GénotC.trachoMAT
+tracho;35;PCR.C.TRACHO/MATERI
+tracho;35;CULT.C.TRACHO/GEN
+tracho;35;CULT.C.TRACHO/PUS
+tracho;35;SER.C.TRACHO.SER/EL
+tracho;35;ID/GénotC.trachoBIOP
+tracho;35;ID/GénotC.trachoSOU
+tracho;35;ID/GénotC.trachoLCR
+tracho;35;ID/GénotC.tracho Aut
+tracho;35;ID/GénotC.trachoLQ
+tracho;35;C.tracho/CUL ORL
+derm;2;d2 derm.farinae
+derm;2;d1 derm.pterony.
+xmlct;3;XMLCT Ser 1 post-Gr
+xmlct;3;XMLCT Ser 2e PostG
+xmlct;3;XMLCT NON Greffé
+etiq;3;etiq.su.test rapid
+etiq;3;ETIQ.GENO PAP.BIOPS
+etiq;3;ETIQ.GENO PAP.UTERUS
+jejuni;2;R.pcr.C.jejuni Lcr
+jejuni;2;PCR.C.JEJUNI/LCR
+cine;2;TACRO.CINE.COMPLETE
+cine;2;CICLO.CINE.COMPLETE
+ou;4;ALLERGENES SPEouMEL
+ou;4;Porphyrie PCTou PHE
+ou;4;SER .LEPT.SERou LCR
+ou;4;SER LEPT.SERouLCR TR
+tra;2;TRA.IDENT.MENINGOCOQ
+tra;2;R.pcr.Chl.tra APuri
+num;2;NumLeucoLiqBio
+num;2;NumHématiesLiqBio
+id;30;TRANS ID.ACINETO.BAU
+id;30;Id.après séquenç.N2
+id;30;Id.sche N.meningit.:
+id;30;ID/GénotC.trachoPUS
+id;30;ID. SCHE MYCOB.EX.N2
+id;30;ID.SOUCH.CAMPY.HOP
+id;30;ID/GénotC.tracho ORL
+id;30;ID.MYCOBACT:BKEX N2
+id;30;Id.sche Streptoc.
+id;30;ID.SOUCH.CAMPY.COM
+id;30;ID/GénotC.tracho OEI
+id;30;ID. SCHE MYCOBACT.EX
+id;30;ID/GénotC.trachoGENI
+id;30;ID/GénotC.trachoLBA
+id;30;ID/GénotC.trachoURI
+id;30;Id.après séquençage:
+id;30;ID/GénotC.trachoRES
+id;30;ID/GénotC.trachoMAT
+id;30;ID.SOUCH.CAMPYLO.HOP
+id;30;ID/GénotC.trachoBIOP
+id;30;Id.sche Acinetobact:
+id;30;ID/GénotC.trachoSOU
+id;30;ID/GénotC.trachoLCR
+id;30;ID.SOUCH.CAMPYLO.COM
+id;30;Id.après séquenPvt1
+id;30;ID/GénotC.tracho Aut
+id;30;ID/GénotC.trachoLQ
+id;30;Id.après séquenPvt3
+id;30;ID.MYCOBACT:BKEX
+id;30;Id.après séquenPvt2
+cyt;15;Cyt.Liq Artic+flac.
+cyt;15;CYT.LIQ.ARTI+FLACONS
+cyt;15;CYT.DES.BIOPS.OS.
+cyt;15;CYT.DES BIOPS.OS N3
+cyt;15;CYT.DES BIOPS.OS N4
+cyt;15;CYT.DES BIOPS.OS N5
+cyt;15;CYT.DES BIOPS.OS N6
+cyt;15;CYT.DES BIOPS.PUL N4
+cyt;15;CYT.DES BIOPS.OS N7
+cyt;15;CYT.DES BIOPS.OS N8
+cyt;15;CYT.DEBR.PLAC/LOCHI
+cyt;15;CYT.DES BIOPS.PUL N3
+cyt;15;CYT.DES BIOPS.OS N2
+cyt;15;CYT.LIQ.ARTI(SS BK)
+cyt;15;CYT.DES BIOP.PUL N2
+geni;7;ID/GénotC.trachoGENI
+geni;7;R.pcr.U.parvumGENI
+geni;7;R.pcr.U.urealyGENI
+geni;7;Nombre RLUtotalGENI
+geni;7;R.pcr.Chl.trachGENI
+geni;7;R.pcr.Chl.tracGENI
+geni;7;R.MUT.ARN M.GENI/SOU
+hop;2;ID.SOUCH.CAMPY.HOP
+hop;2;ID.SOUCH.CAMPYLO.HOP
+dem;1;Dem.complète?:
+vgms;1;Taux discord.VGMs
+ui;2;seuil=20 UI/ml
+ui;2;seuil=10 UI/ml
+cv;1;PVT ORGANES CV
+cytb;1;Cytb.Liq Lame/redon
+recherch;1;Recherch.Plasmo spp
+numhemat;1;CYTOB.URIN.NUMHEMAT
+prothrombinigg;1;AcA-ProthrombinIgG/M
+lymph;1;LymphPlasmMonAno
+lymphocytes;1;LymphocytesLiqBio
+poussier;1;k212 poussièr.bois
+conc;4;ConcQu.Gran.IntrPlq
+conc;4;Conc. Max Estimée
+conc;4;Conc.SécrétionPlq
+conc;4;Conc.Nucl.In.Plaq
+av;1;PAI Ag avCompression
+vasc;5;BAC MAT.P.VASC.N°3
+vasc;5;BAC MAT.P.VASC.(15J)
+vasc;5;BAC MAT.P.VASC.N°4
+vasc;5;BAC MAT.P.VASC.N°1
+vasc;5;BAC MAT.P.VASC.N°2
+troph;1;PCR TROPH.WHIPPELII
+odor;1;g1 flouve odor.
+puis;1;Puis.bac.tot sslot:
+allongemt;1;EXPL.ALLONGEMT TCA
+latence;1;GénThrombineLatence
+glanzmann;1;GENE MAL.GLANZMANN
+lympho;2;ETUDE PROLIF.LYMPHO
+lympho;2;ETUDE SSPOP.LYMPHO
+neurotrasm;1;NEUROTRASM.CEREBRAUX
+spermato;4;décong spermato.
+spermato;4;CRYOCONS.SPERMATO
+spermato;4;cryocons.spermato
+spermato;4;TEST DCONG SPERMATO.
+poumon;2;SERO.POUMON.FERMIER
+poumon;2;MYCO BIOP.POUMON
+coccidioido;1;Interpr.Coccidioïdo
+ttp;1;TTPatient (ACC)
+psg;2;PSG ASPECT
+psg;2;PSG.Sg/poche
+sect;3;Sect.Profondes
+sect;3;Sect.Moyennes
+sect;3;Sect.Périphériques
+hla;5;TYP.HLA MALADIE/MEDI
+hla;5;Ctrl TypHLA Don Ext
+hla;5;TYP.HLA LINKSEQ
+hla;5;SERUMS HLA/TRANSPL
+hla;5;Comment.HLA System
+fl;22;Culture Fl.péd(BM):
+fl;22;L.PONC+FL.ANA
+fl;22;L.PONC+FL.AER+ANA
+fl;22;Cult Fl.ana.ART(BM)
+fl;22;Cult Fl.ana.(BM):
+fl;22;Cult Fl.anaér.(BM):
+fl;22;Culture Fl.péd(LQ)
+fl;22;Cult Fl.aér.(BM)PSG
+fl;22;Cult Fl.ana.(BM)H2
+fl;22;Cult Fl.aér.(BM) H2
+fl;22;BAC.LQ FL.ANA SEUL
+fl;22;Cult Fl.aér.(BM) :
+fl;22;FL.AER+ANA SEUL LQ
+fl;22;Cult Fl.aér.(BM):
+fl;22;SPONDYLO(FL.AE-ANA)
+fl;22;L.PONC+FL.AER
+fl;22;L.PONC+FL.PED
+fl;22;Cult Fl.anaé(BM)PSG
+fl;22;Cult Fl.anaér.(BM)LQ
+fl;22;Cult Fl.aér.ART(BM)
+fl;22;Cult Fl.aér.(BM) LQ:
+fl;22;BAC.LQ FL.AER SEUL
+phosp;1;NEUTRALISAT°PHOSP.
+glycine;1;ISOVAL.GLYCINE UR
+comment;6;Comment.brucellose
+comment;6;Comment.cult.Chlam:
+comment;6;Comment.Germe1:
+comment;6;Comment.Germe 3:
+comment;6;Comment.Germe 2:
+comment;6;Comment.HLA System
+bloc;1;DéplacemtBLOC
+distribution;1;IndiceDistribution
+pb;4;TEST PB UR PROVOQ
+pb;4;PB UR PROVOQUEE 5H
+pb;4;Pb UR PROVOQUEE J1
+pb;4;PB UR PROVOQ BASAL
+ecouvil;1;PCR VARIOLE ECOUVIL.
+hl;4;Etiquettes FVW HL
+hl;4;StocPréAna pr HL
+hl;4;BIOMOL CYTOLOGIE HL
+hl;4;EP REST HYDR SG HL
+grp;3;ss grp  uiep
+grp;3;ss grp interméd
+grp;3;VGM grp intermédiair
+cryptocoq;1;Rech.Ag.cryptocoq :
+trac;10;R.pcr.Chl.trac Pus
+trac;10;R.pcr.Chl.tracLBA
+trac;10;R.pcr.Chl.tracLCR
+trac;10;R.pcr.Chl.tracSouc
+trac;10;R.pcr.Chl.tracBIOP
+trac;10;SER.CHL.TRAC.LCR/EL
+trac;10;R.pcr.Chl.tracGENI
+trac;10;R.pcr.Chl.tracOEIL
+trac;10;R.pcr.Chl.tracMaté
+trac;10;R.pcr.Chl.tracLIQ
+wm;1;PREPA MICROSCOPIE WM
+toxines;3;TR.TOXINES.STAPHYLO
+toxines;3;R.toxines staphylo
+toxines;3;Ttes ToxinesStaphylo
+deplacemt;1;DéplacemtBLOC
+papil;3;Géno Papil/frottis
+papil;3;Géno Papil/col uté.
+papil;3;Géno Papil/biopsie
+erlichia;2;TRANS REC.ERLICHIA
+erlichia;2;R.Erlichia/colorat.
+aerobie;3;Hémoc.aérobie Artér
+aerobie;3;Ident.souch.aérobie
+aerobie;3;Hémoc.aérobie Veine
+tf;3;TF TIH (dil 1)
+tf;3;TF TIH (dil 3)
+tf;3;TF TIH (dil 2)
+ly;2;LY.T ACT.DR
+ly;2;TYP.LY T ACTIVE LBIO
+abacav;1;InterprétationAbacav
+collagen;1;VWF CollagenBinding
+ste;1;BACT.REDON MECH.STE
+trimel;1;k86 anhyd.trimel
+mm;1;CREATININE ur MM
+urinaires;1;Conc dos.urinaires
+lactalbumine;2;f76 a.lactalbumine
+lactalbumine;2;F76 A.LACTALBUMINE
+seq;9;Seq.GènesPlaq NGS
+seq;9;seq.RT Pro ADNprov
+seq;9;SEQ.SOU.BACTER./PCR
+seq;9;Séq.souch.bact/PCR
+seq;9;UDPS seq. RT plas
+seq;9;seq. RT Prot lcr
+seq;9;SEQ.GENES.PLQ NGS
+seq;9;UDPS seq. RT ADN
+seq;9;seq. RT Prot plas
+alb;2;e222 porc alb.sér
+alb;2;e204 vache alb.sér
+oreill;6;PCR Oreill/Ecouv.
+oreill;6;PCR Oreill/Liq.b
+oreill;6;PCR Oreill/Lcr
+oreill;6;PCR Oreill/Sang
+oreill;6;PCR Oreill/Biopsie
+oreill;6;PCR Oreill/Sécre.
+rip;6;PCR GripA/Lba
+rip;6;PCR GripA/Biopsie
+rip;6;PCR GripA/Sécré°.
+rip;6;PCR GripA/Ecou 2
+rip;6;PCR GripA/Ecou 3
+rip;6;PCR GripA/Liq.bio
+hydr;2;17-Hydr.Progestérone
+hydr;2;17-HYDR.PROGESTERONE
+orl;18;R.pcr.C.psittacORL
+orl;18;R.pcr.S.aureusORL
+orl;18;R.pcr.M.hominisORL
+orl;18;R.pcr.U.urealyORL
+orl;18;16s.N.MEN.Orl /PCR
+orl;18;R.pcr.M.pneumoORL
+orl;18;R.pcr.B.pertusORL
+orl;18;R.pcr.U.parvumORL
+orl;18;CYTOBAC.SPH.ORL N3
+orl;18;CYTOBAC.SPH.ORL N2
+orl;18;R.pcr.N.menin.Orl
+orl;18;R.pcr.B.parapORL
+orl;18;R.pcr.Chl.trachORL
+orl;18;CYTOBAC.ORL MUCOV
+orl;18;Nombre RLUtotalORL
+orl;18;Typ.pcr.C.trachOrl
+orl;18;R.pcr.F.tular.Orl
+orl;18;CYTOB.SPH.ORL MUCOV
+semi;2;CHARGE VIH CELL.SEMI
+semi;2;CHARGE VIH PLAS.SEMI
+pseu;1;SERO PSEU.AERUGINOSA
+dpn;6;TOXOPLASMA DPN
+dpn;6;DPN Toxo Conformité
+dpn;6;DPN CMV Conformité
+dpn;6;CMV DPN
+dpn;6;DPN toxo CT
+dpn;6;DPN cmv CT
+trph;1;Trace TRPH
+grif;1;PCR GRIF.CHAT ADENOP
+chloralo;2;CHLORALO.LG RECH MS
+chloralo;2;CHLORALO.UR RECH
+hrombine;1;AThrombine activité
+fongique;2;SOUCH.FONGIQUE CNRMA
+fongique;2;SOUC.FONGIQUE CNRMA
+listeria;1;TR.PCR.Listeria mono
+ssb;2;SSB Titrage :
+ssb;2;SSB Dosage :
+benga;1;Rose de benga.LCR:
+pleu;3;LDH PLEU/LDH SG
+pleu;3;PROT PLEU/PROT SG
+pleu;3;CHOLESTEROL L.PLEU
+cra;1;P.jiroveci Cra/PCR:
+ciclo;1;CICLO.CINE.COMPLETE
+ecou;1;PCR Orthopox/Ecou.
+cryptosp;2;IDENT.CRYPTOSP.SPP
+cryptosp;2;Ident.cryptosp.spp
+anaer;3;HEMOC.ANAER MYCO
+anaer;3;Cult Fl.anaér.(BM):
+anaer;3;Cult Fl.anaér.(BM)LQ
+expert;1;Anas+Expert.Bio
+psittac;3;R.pcr.C.psittacBIOP
+psittac;3;R.pcr.C.psittacORL
+psittac;3;R.pcr.C.psittacRES
+tri;1;w3 ambroisie tri.
+hyperinsulinis;1;HYPERINSULINIS.CONG
+abau;3;Rech.ABAU  BABAU
+abau;3;Rech.ABAU  BABA2
+abau;3;Rech.ABAU  BABA3
+pbg;2;AC D A L+ PBG U REC
+pbg;2;PBG/creat u
+macro;1;R.pcr.HPmacro 2
+caryotypage;1;Sup sansCaryotypage
+toxopl;1;Test lyse toxopl.:
+copies;1;soit en copies/ml
+glycopet;1;RECH.EC R GLYCOPET.
+lyme;1;SERO.LYME LCR ET SER
+anti;4;Activité antiCBA
+anti;4;AntiVWF IgM
+anti;4;AntiVWF IgG
+anti;4;Rech  AntiFacteur
+prof;4;CYTOBAC.PUS PROF.N3
+prof;4;CYTOBAC.PUS PROF.N2
+prof;4;CYTOBAC.PUS PROF.N5
+prof;4;CYTOBAC.PUS PROF.N4
+temoin;2;RéticulocytesTémoin
+temoin;2;Rés.temoin neg:
+hs;1;Congel.HS TPO
+lac;1;TPERM INTES LAC/MAN
+igd;1;LY B 19/IGD/27
+pulmon;2;Mycologie B.pulmon.
+pulmon;2;Mycologie Br.pulmon
+cplt;2;Fact H du cplt
+cplt;2;Fact I du cplt
+neurotransmet;1;Neurotransmet. céréb
+lept;2;SER .LEPT.SERou LCR
+lept;2;SER LEPT.SERouLCR TR
+vn;8;VN (AgrPlqSgTot) 2
+vn;8;VN (AgrPlqSgTot) 1
+vn;8;VNmédicament
+vn;8;VNefficacite
+vn;8;VNdate introduction
+vn;8;VNposologie
+vn;8;VNconclusion
+vn;8;VN (AgrPlqSgTot) 3
+encep;2;ENCEP. A TIQUE
+encep;2;ENCEP.A TIQUE M+G
+nk;6;TYPAGE LY B ET NK
+nk;6;ETUDE SS POP NK
+nk;6;TYP LY B ET NK LBIO
+nk;6;VA NK
+nk;6;NK
+nk;6;Etude ss pop NK
+fumi;2;m3 Aspergi.fumi
+fumi;2;M3 ASPERGILUS FUMI.
+hereditair;1;DIAG.SPHE.HEREDITAIR
+legi;2;Index séro Légi.s:
+legi;2;DO séro Légi.s:
+plasminogene;1;PlasminogèneActiv.
+nf;1;Leucocytes NF Hémato
+poso;1;CfNew poso.Ouvrir
+liq;135;GGT liq.bio
+liq;135;PH liq.pleural
+liq;135;BACT.LIQ.LAME,REDON
+liq;135;Cytob.Liq Pn LQAA
+liq;135;BasophilesLiqBio
+liq;135;R.pcr.N.meningLIQ
+liq;135;Cytob.Liq Ponction
+liq;135;AMYLASE LIQ. LAME
+liq;135;R.pcr.U.parvumLIQ
+liq;135;AMYLASE liq.ascite
+liq;135;PCR Oreill/Liq.b
+liq;135;AMYLASE LIQ. BIO
+liq;135;PCR B19/Liq.bio.
+liq;135;R.pcr.C.pneumoLIQ
+liq;135;LIPASE LIQ. BIO
+liq;135;Cytb.Liq Lame/redon
+liq;135;CHOL liq.bio
+liq;135;PCR BK/Liq.bio.
+liq;135;PROT liq.dial
+liq;135;POTASSIUM LIQ. BIO
+liq;135;OSMOLALITE LIQ. BIO
+liq;135;BAC.LIQ.PVT.ORGANE5J
+liq;135;rec.SANG liq.bio
+liq;135;PCR CMV/Liq.bio
+liq;135;R.pcr.U.urealyLIQ
+liq;135;Cytob.Liq Ponct.N 3
+liq;135;Cytob.Liq Ponct.N 2
+liq;135;BILAN FER LIQ.DIA
+liq;135;PCR VRS/Liq.bio
+liq;135;LDH liq.bio
+liq;135;PAL liq.bio
+liq;135;AMYLASE LIQ. ASCITE
+liq;135;PCR Grip.B/Liq.bio
+liq;135;GLUCOSE LIQ. BIO
+liq;135;PCR RESP. LIQ.BIO.
+liq;135;NumHématiesLiqBio
+liq;135;Myco liq.pus biop.
+liq;135;LIPASE liq.bio
+liq;135;PCR EBV/Liq.bio.
+liq;135;LymphocytesLiqBio
+liq;135;R.pcr.M.hominisLIQ
+liq;135;SousTotal LiqBio
+liq;135;AMYLASE liq.lame
+liq;135;R.pcr.S.pneumLIQ
+liq;135;GLUCOSIDASE LIQ. SEM
+liq;135;TRIGLY LIQ.ASCITE
+liq;135;HDL CHOL LIQ.BIO
+liq;135;F AER.Liq PoncBLQPE
+liq;135;R.pcr.S.aureusLiq
+liq;135;Toxo liq.amniotiqu
+liq;135;AC.URIQUE liq.bio
+liq;135;PROTIDES LIQ. BIOL
+liq;135;CYTO.LIQ.PONCTION
+liq;135;Cyt.Liq Artic+flac.
+liq;135;CO2 TOTAL LIQ.BIO
+liq;135;CHOL liq.ascite
+liq;135;PROTIDES LIQ. ASCITE
+liq;135;LDH liq.pleural
+liq;135;MonocytesLiqBio
+liq;135;Total LiqBio
+liq;135;PCR Corona/LiqBio.
+liq;135;PROTEINES liq.bio
+liq;135;PHOSPHORE LIQ.BIO
+liq;135;Cytob.Liq DPCA
+liq;135;Cytob.Liq Articulai
+liq;135;R.pcr.F.tular.Liq
+liq;135;GAMMAGT LIQ.BIO
+liq;135;CHLORE LIQ.PLEURAL
+liq;135;SANG LIQ.BIO RECH
+liq;135;CREATININE LIQ.BIO
+liq;135;TGP (ALAT) LIQ. BIO
+liq;135;AMYLASE liq.bio
+liq;135;PCR Adéno/liq.bio.
+liq;135;Lactate.liq.bio
+liq;135;Cytob.Liq Amniotiqu
+liq;135;CYTO.LIQ.AMNIOTIQUE
+liq;135;SODIUM LIQ. BIOL
+liq;135;PCR VRS A/LiqBio.
+liq;135;R.pcr.M.pneumoLIQ
+liq;135;AMYLASE liq.pleural
+liq;135;R.pcr.C.psittaLIQ
+liq;135;CHOLESTEROL LIQ.BIO
+liq;135;CRP LIQ.BIOLOGIQUES
+liq;135;GLUCOSE liq. bio
+liq;135;Nombre RLUtotalLIQ
+liq;135;Toxo Liq.divers:
+liq;135;CHLORE LIQ. DIALYSE
+liq;135;CMV liq.amniotiqu
+liq;135;CHLORE LIQ. ASCITE
+liq;135;LDH LIQ. BIO DOSAGE
+liq;135;UREE liq.bio
+liq;135;Cytob.Liq Pn AELQ
+liq;135;GLUCOSE liq. pleur
+liq;135;TRIGLY LIQ.PLEURAL
+liq;135;PCR Pool2/Liq.bio
+liq;135;LIPASE LIQ. ASCITE
+liq;135;AMYLASE LIQ.PLEURAL
+liq;135;Cytob.Liq Pn AALQ
+liq;135;CYTO.LIQ.PONCT.N 3
+liq;135;PROTIDES LIQ. LAME
+liq;135;CYTO.LIQ.PONCT.N 2
+liq;135;EosinoLiqBio
+liq;135;R.pcr.Chl.tracLIQ
+liq;135;Cytob.Liq Pn PELQ
+liq;135;PolyneutroLiqBio
+liq;135;PCR Adéno/LiqBio.
+liq;135;GLUCOSE LIQ.PLEURAL
+liq;135;LIPASE LIQ. PLEURAL
+liq;135;PCR GripA/Liq.bio
+liq;135;PCR VRS B/LiqBio.
+liq;135;CHLORE LIQ.BIO
+liq;135;CALCIUM LIQ. BIO
+liq;135;UREE LIQ.BIOLOGIQUES
+liq;135;CYT.LIQ.ARTI+FLACONS
+liq;135;NumLeucoLiqBio
+liq;135;BILI TOTALE LIQ. BIO
+liq;135;PCR VZV/liq.bio.
+liq;135;PCR HHV8/liq.bio.
+liq;135;LIPASE liq.lame
+liq;135;PROTIDES LIQ.PLEURAL
+liq;135;Cytob.Liq Pn ANLQ
+liq;135;ENA Liq.bio ident
+liq;135;TGO(ASAT) LIQ. BIO
+liq;135;Cytob.Liq Pon.BLQAE
+liq;135;PCR Pool1/Liq.bio
+liq;135;AutresCellLiqBio
+liq;135;LIPASE liq.ascite
+liq;135;ZINC LIQ.SEMINAL
+liq;135;MAGNESIUM LIQ. DIAL
+liq;135;ENA Liq.bio  rech
+liq;135;CHOL liq.pleural
+liq;135;CALCIUM LIQ.DIALYSE
+liq;135;CYT.LIQ.ARTI(SS BK)
+liq;135;Cytob.Liq Pon.BLQAN
+liq;135;LIPASE liq.pleural
+pcs;1;ExtrADN EVO PCS o/n
+vw;2;Fixation F8 / VW
+vw;2;Multimères du VW
+cat;1;AC A-LACTOF.CAT G
+fib;2;2eme tube Etu.FIB
+fib;2;O1 COTON(FIB.BRUT.)
+mal;5;TRAN.SER.MAL.GR.CHAT
+mal;5;TRANS CU.MAL.GR.CHAT
+mal;5;TRANS.SérMAL.GR.CHAT
+mal;5;GENE MAL.GLANZMANN
+mal;5;K210 ANHYDRIDE MAL.
+toxop;2;REC.TOXOP.DIV PCR
+toxop;2;REC.TOXOP.BIOPS PCR
+prand;1;B HYDROXYBUT P.PRAND
+delta;1;HEP.DELTA ARN
+tr;17;TR.RECEHR/BORE/COLOR
+tr;17;AC BILIAIRES D & TR
+tr;17;TR.TOXINES.STAPHYLO
+tr;17;SERO HAEMOPHILUS TR.
+tr;17;TR.PCR Ehrlichia
+tr;17;TR.PCR.LEPTOSPIRES
+tr;17;TR.SERO.PYO MUCOVISC
+tr;17;TR témoin (18s)
+tr;17;TR.REC/PCR BRUCELLA
+tr;17;TR.Sér.tétanos&dipht
+tr;17;TR.PCRVEROE COL157H7
+tr;17;TR.PCR Coxi.burnetti
+tr;17;TR.PCR.Brucella
+tr;17;SER LEPT.SERouLCR TR
+tr;17;TR.PCR T.whipplei
+tr;17;TR.PCR.Listeria mono
+tr;17;TR.Sér.Rickettsies
+sapovirus;1;PCR Sapovirus/Ec.
+facts;1;FACTS.VOIE ENDOGENE
+moyennes;1;Sect.Moyennes
+altern;1;m229 Altern.rAlt
+vs;2;VS 2ème heure
+vs;2;VS 1ère heure
+pn;12;AGS SOLUBLES LQ PN
+pn;12;MFI Tém PN
+pn;12;PN exp CD46
+pn;12;Cytob.Liq Pn LQAA
+pn;12;Cytob.Liq Pn ANLQ
+pn;12;PN valeur absolue
+pn;12;Cytob.Liq Pn PELQ
+pn;12;Cytob.Liq Pn AALQ
+pn;12;Pn.jiro PVT DIVERS:
+pn;12;Cytob.Liq Pn AELQ
+pn;12;MFI mesurée PN
+pn;12;PCR.M.pn./bouillon +
+whippelii;1;PCR TROPH.WHIPPELII
+ap;2;Nombre RLUtotalAPuri
+ap;2;R.pcr.Chl.tra APuri
+homme;1;CYTO PVT GEN.HOMME
+lpl;1;PNEUMOCYST PCR LPL
+tril;1;W3 AMBROISIE TRIL.
+htlv;11;HTLV 1 et 2 SERO
+htlv;11;HTLV 1 et 2
+htlv;11;WESTERN HTLV
+htlv;11;HTLV PCR ADN SANG
+htlv;11;SERO HTLV
+htlv;11;LOT HTLV
+htlv;11;PCR HTLV  sang
+htlv;11;HTLV SEROLOGIE
+htlv;11;séro HTLV
+htlv;11;HTLV PCR ADN LCR
+htlv;11;PCR HTLV  lcr
+dpca;1;CYTOBACT.DPCA
+embryonn;1;VITRIFICAT EMBRYONN.
+eryth;1;FOLATES eryth.mes
+phan;1;EX1 MEL PHAN.ANIM
+cb;3;Ratio VWF CB/RAg
+cb;3;T°env-20°CBuf/22°CSg
+cb;3;F.WILLEBRAND CB
+anguillules;1;REC.ANGUILLULES
+aerob;2;HEMOC.AEROB ARTERE
+aerob;2;HEMOC.AEROB VEINE
+abr;2;P.jiroveci Abr/PCR:
+abr;2;CYTBACT.ABR MUCOV
+eryt;1;Galactose 1P erytLit
+cryptoc;1;Interpr.Ag.Cryptoc
+hypoglyce;2;SULFA.HYPOGLYCE.SER.
+hypoglyce;2;SULFA.HYPOGLYCE.URI.
+coll;1;CollEpinéphrine
+cerbros;1;béta gluco cerbros.
+microsc;1;MYCOBACT:EX.MICROSC
+carbo;1;AC A-ANHYD.CARBO.II
+antitriodothyr;1;AC ANTITRIODOTHYR.
+hnp;2;supp HNP ( 4 Ac)
+hnp;2;HNP 1Ac supp
+stmlee;4;CFU-GM StmléeMoelle
+stmlee;4;BFU-E StmléeMoelle
+stmlee;4;BFU-E StmléeSang
+stmlee;4;CFU-GM StmléeSang
+compression;2;TLEG avtCompression
+compression;2;PAI Ag avCompression
+plasmat;2;HISTAMINE PLASMAT.
+plasmat;2;Histamine plasmat.
+psitt;2;SER.CHL.PSITT.LCR
+psitt;2;SER.CHL.PSITT.SER IF
+ndhoff;1;SAndhoff
+cbg;2;CBG OU TRANSCORTINE
+cbg;2;CBG ou TRANSCORTINE
+conserv;2;conservA.tissu germ
+conserv;2;CONSERV.A.TISSU GERM
+chromo;1;PCchromo
+total;16;SousTotalGranuleuse
+total;16;Nombre RLUtotalBIOP
+total;16;Nombre RLUtotalLCR
+total;16;SousTotal 1 Myélo
+total;16;Nombre RLUtotalAPuri
+total;16;SousTotal LiqBio
+total;16;Nombre RLUtotalLIQ
+total;16;Nombre RLUtotalSB
+total;16;tropisme sangTotal
+total;16;Nombre RLUtotalURI
+total;16;Nombre RLUtotalGENI
+total;16;Nombre RLUtotalPUS
+total;16;Nombre RLUtotalORL
+total;16;Nombre RLUtotalOEIL
+total;16;Nombre RLUtotalLBA
+total;16;Nombre RLUtotalVAGI
+cryo;3;CryoCs Embryons/C/A
+cryo;3;CryoCsSp ICSI/P/An
+cryo;3;CryoCsSperme/P/An
+etude;3;EtudeQualNoySpermat
+etude;3;EtudeFibrinogène
+etude;3;EtudeEjac.rétrograd
+activ;1;PlasminogèneActiv.
+st;2;F338 COQUILLE ST JA
+st;2;f338 coq st jacqu
+int;4;PEPTIDE VASOACT.INT
+int;4;T GRANZYME B INT.
+int;4;Myco Esp int.-orteil
+int;4;INT.ENA DOUT:30à40
+cdg;1;Sialotrf.CDG Dépist
+tis;1;AG TIS. POLYPEPTID.
+liste;1;ListeHPV haut risque
+coli;3;TRA SERO E.COLI EHEC
+coli;3;R.E.coli O 157H7
+coli;3;Séro E.coli entéroh
+nconj;1;BILIRUBINE nconj/ind
+leishmanies;1;RECH.LEISHMANIES
+tuberc;1;R.MYC.TUBERC/PCR N2
+aer;15;REC.BACT.AER DESIGN
+aer;15;Cult Fl.aér.(BM)PSG
+aer;15;Cult Fl.aér.(BM) H2
+aer;15;Cult Fl.aér.(BM) :
+aer;15;REC.BACT.AER N5
+aer;15;REC.BACT.AER N4
+aer;15;F AER.Liq PoncBLQPE
+aer;15;HEMOC.AER MYCO
+aer;15;Cult Fl.aér.(BM):
+aer;15;L.PONC+FL.AER
+aer;15;Cult Fl.aér.ART(BM)
+aer;15;Cult Fl.aér.(BM) LQ:
+aer;15;REC.BACT.AER N3
+aer;15;BAC.LQ FL.AER SEUL
+aer;15;REC.BACT.AER N2
+organophos;4;SCR.ORGANOPHOS.LG
+organophos;4;SCREEN.ORGANOPHOS.UR
+organophos;4;SCREEN.ORGANOPHOS.LG
+organophos;4;SCR.ORGANOPHOS.URI
+behcet;1;InterprétationBehcet
+alterna;1;M229 ALTERNA.RALT A1
+haq;1;REC.TOXOPLAS.HAQ PCR
+ii;3;PCR Norovirus II/Ec.
+ii;3;AC A-COLLAGENE II/OR
+ii;3;AC A-ANHYD.CARBO.II
+ma;1;k210 anhydride ma.
+nuit;1;CYSTINURIE NUIT/JOUR
+sperme;6;CONG.SPERME/EJAC
+sperme;6;Vol .sperme
+sperme;6;Congélat°Sperme/Eja
+sperme;6;Prépa.Sperme avt I
+sperme;6;CRYOCS SPERME/P/AN
+sperme;6;CryoCsSperme/P/An
+pcrveroe;1;TR.PCRVEROE COL157H7
+campy;2;ID.SOUCH.CAMPY.COM
+campy;2;ID.SOUCH.CAMPY.HOP
+did;1;Ac A-Granuloc.DID
+aspect;1;HC ArtérielleASPECT
+pos;2;FlacAERd.pos.(h)PSG
+pos;2;FlacANAd.pos.(h)PSG
+pcb;1;CUELP FICTIF PCB
+mycoplasmes;2;IDENT.MYCOPLASMES
+mycoplasmes;2;CULT.MYCOPLASMES
+urique;4;AC.URIQUE ur
+urique;4;AC.URIQUE bain dial
+urique;4;AC.URIQUE liq.bio
+urique;4;AC.URIQUE sg
+binding;1;VWF CollagenBinding
+pcre;1;PCRE.HISTO/DISPAR DI
+ggt;2;GGT liq.bio
+ggt;2;GGT sg
+vhb;6;ADN VHB
+vhb;6;CHARGE VHB
+vhb;6;ADN VHB plasma
+vhb;6;SERO VHB
+vhb;6;RESISTANCE VHB
+vhb;6;GENO VHB
+guanidinoacet;1;Guanidinoacét/CrU
+saur;1;PCR.GENE.R SAUR/ART
+hpa;3;Génotyp.Plaq HPA...
+hpa;3;GENOTYP.PLAQ HPA..
+hpa;3;GENOTYP.PLAQ HPA...
+cu;1;TRANS CU.MAL.GR.CHAT
+transmis;1;ADN transmis/anapath
+vasoact;2;PEPTIDE VASOACT.INT
+vasoact;2;PEPTIDE VASOACT. INT
+facteur;1;Rech  AntiFacteur
+lactofe;1;f334 lactofe.bovin
+mult;2;PCR MULT.GASTRO/ECOU
+mult;2;PCR MULT.GASTRO
+prod;2;BACT.PROD.SANGUIN
+prod;2;PAX5 MEL PROD.CHIMI
+clauss;1;FibrinogèneClauss
+tt;2;TT ACC
+tt;2;TT ratio (ACC)
+ident;12;Ident.souche fongiq.
+ident;12;IDENT.MYCOPLASMES
+ident;12;IDENT.Sche Strepto
+ident;12;IDENT. PAT.SOURCE
+ident;12;Ident.souch.aérobie
+ident;12;IDENT. SUJET EXPOSE
+ident;12;IDENT.MYCOPLASM.N°2
+ident;12;IDENT.Sche Meningo
+ident;12;TRA.IDENT.MENINGOCOQ
+ident;12;IDENT.Sche Acineto
+ident;12;Ident.cryptosp.spp
+ident;12;IDENT.CRYPTOSP.SPP
+lp;1;P.jiroveci Lp/PCR:
+efficacite;1;VNefficacite
+hemoc;10;HEMOC.AE+AN 5J
+hemoc;10;HEMOC.AER MYCO
+hemoc;10;HEMOC.ANAER MYCO
+hemoc;10;Hémoc.aérobie Artér
+hemoc;10;HEMOC.AEROB ARTERE
+hemoc;10;HEMOC.PED MYCO
+hemoc;10;HEMOC.AE+AN 5J N2
+hemoc;10;Hémoc.aérobie Veine
+hemoc;10;HEMOC.AEROB VEINE
+hemoc;10;Hémoc.Artérielle
+mel;1;ALLERGENES SPEouMEL
+asper;3;DO Ag  Asper.:
+asper;3;DO Ag  Asper.2:
+asper;3;Asper.Qualitatif:
+organophosphores;1;SCR.ORGANOPHOSPHORES
+antigen;2;FibrinogèneAntigèn
+antigen;2;FIBRINOGENE ANTIGEN.
+lr;2;DR- P+ LR
+lr;2;DR- G+ LR
+const;1;W.Blot const.plaq
+interpretation;5;InterprétationM.Coel
+interpretation;5;InterprétationAbacav
+interpretation;5;InterprétationChBird
+interpretation;5;InterprétationBehcet
+interpretation;5;InterprétationNarco
+rode;2;ANTIVITAMINES K.RODE
+rode;2;ANTIVITAMINES K.Rode
+ng;1;Nombre RLU Ng PUS
+bgapdh;1;R.pcr.BGAPDH 2
+dial;1;PROT liq.dial
+genotyp;5;Génotyp.Plaq HPA...
+genotyp;5;Génotyp. Entérovirus
+genotyp;5;GENOTYP.PLAQ HPA..
+genotyp;5;Génotyp. Rhinovirus
+genotyp;5;GENOTYP.PLAQ HPA...
+meningo;5;PCR.N.meningo./BIOP
+meningo;5;PCR.N.MENINGO./LIQ
+meningo;5;PCR.N.meningo./SOUC
+meningo;5;PCR.N.MENINGO./LCR
+meningo;5;PCR.N.meningo./ORL
+spn;1;R.pcr.Spn perméase
+testicu;1;CONGEL.TISSU.TESTICU
+oculair;1;CYTOB.OCULAIR SUP
+pneumo;55;R.pcr.C.pneumo LBA
+pneumo;55;Qté M.pneumo.ORL:
+pneumo;55;Qté M.pneumo.LBA:
+pneumo;55;PCR.M.PNEUMO./LCR
+pneumo;55;CULT M.PNEUMO LBA
+pneumo;55;Ag sol.Pneumo.
+pneumo;55;SERO.PNEUMO.HYPERS
+pneumo;55;PCR.C.PNEUMO./LBA
+pneumo;55;R.pcr.C.pneumo OEIL
+pneumo;55;R.pcr.C.pneumoLIQ
+pneumo;55;R.pcr.M.pneumoLIQ
+pneumo;55;R.pcr.C.pneumoSouc
+pneumo;55;CULT M.PNEUMO BIOP
+pneumo;55;Qté M.pneumo.OEIL
+pneumo;55;PCR.C.PNEUMO./LCR
+pneumo;55;PCR.C.PNEUMO./ORL
+pneumo;55;R.pcr.C.pneumoBIOP
+pneumo;55;PCR.M.pneumo./SOUC
+pneumo;55;CULT M.PNEUMO RESP
+pneumo;55;PCR.M.PNEUMO./BIOP
+pneumo;55;R.pcr.M.pneumoRESP
+pneumo;55;Qté M.pneumo.Resp:
+pneumo;55;SéroPneumo.Hypers
+pneumo;55;PCR.C.PNEUMO./BIOPS
+pneumo;55;CULT M.PNEUMO LIQ
+pneumo;55;Qté M.pneumo.Biop:
+pneumo;55;PCR.C.PNEUMO./RESP
+pneumo;55;Qté M.pneumo.Lcr:
+pneumo;55;PCR.M.PNEUMO./LBA
+pneumo;55;PCR.S.pneumo/ORL
+pneumo;55;R.pcr.M.pneumo LBA
+pneumo;55;Qté M.pneumo.Sou:
+pneumo;55;PCR.S.pneumo/BIOP
+pneumo;55;PCR.M.PNEUMO./LIQ
+pneumo;55;R.pcr.M.pneumoOEIL
+pneumo;55;R.pcr.M.pneumoBIOP
+pneumo;55;PCR S.pneumo/LCR
+pneumo;55;CULT M.PNEUMO ORL
+pneumo;55;R.pcr.C.pneumo LCR
+pneumo;55;Qté M.pneumo.Liq:
+pneumo;55;R.pcr.C.pneumo ORL
+pneumo;55;R.pcr.C.pneumoRESP
+pneumo;55;PCR.M.PNEUMO./RESP
+pneumo;55;CHL.PNEUMO SERO IGM
+pneumo;55;CULT M.PNEUMO LCR
+pneumo;55;PCR.C.PNEUMO./OEIL
+pneumo;55;R.pcr.M.pneumoORL
+pneumo;55;PCR.S.pneumo/LIQ
+pneumo;55;R.pcr.M.pneumo LCR
+pneumo;55;CULT M.pneumo SOUCH
+pneumo;55;CULT M.PNEUMO OEIL
+pneumo;55;R.pcr.M.pneumoSouc
+pneumo;55;PCR.C.PNEUMO./SOU
+pneumo;55;PCR.M.PNEUMO./ORL
+pneumo;55;PCR.C.PNEUMO./LIQ
+rlu;12;Nombre RLUtotalURI
+rlu;12;Nombre RLUtotalBIOP
+rlu;12;Nombre RLUtotalGENI
+rlu;12;Nombre RLUtotalPUS
+rlu;12;Nombre RLUtotalORL
+rlu;12;Nombre RLUtotalOEIL
+rlu;12;Nombre RLUtotalLCR
+rlu;12;Nombre RLUtotalLBA
+rlu;12;Nombre RLUtotalAPuri
+rlu;12;Nombre RLUtotalLIQ
+rlu;12;Nombre RLUtotalSB
+rlu;12;Nombre RLUtotalVAGI
+trach;35;Pass.C.trach/CULTGEN
+trach;35;Typ.pcr.C.trachOei
+trach;35;Pass.C.trach/CULTPUS
+trach;35;Typ.pcr.C.trachSou
+trach;35;R.pcr.Chl.trachSB
+trach;35;Typ.pcr.C.trachPus
+trach;35;R.pcr.Chl.trachGENI
+trach;35;R.pcr.Chl.trachVAGI
+trach;35;Typ.pcr.C.trachOrl
+trach;35;R.pcr.Chl.trach.Ur
+trach;35;R.pcr.Chl.trachMaté
+trach;35;R.pcr.Chl.trach URI
+trach;35;R.pcr.Chl.trachPUS
+trach;35;Typ.pcr.C.trachLCR
+trach;35;R.pcr.Chl.trachBIOP
+trach;35;Pass.C.trach/CULORL
+trach;35;PCR.C.trach/VAGaptim
+trach;35;PCR.C.trach/ORLaptim
+trach;35;Typ.pcr.C.trachMat
+trach;35;Typ.pcr.C.trachRes
+trach;35;R.pcr.Chl.trachLCR
+trach;35;Typ.pcr.C.trachLBA
+trach;35;PCR.C.TRACH/ANU APTI
+trach;35;R.pcr.Chl.trachORL
+trach;35;Typ.pcr.C.trach LQ
+trach;35;PCR.C.TRACH/PUS APTI
+trach;35;R.pcr.Chl.trachLBA
+trach;35;Typ.pcr.C.trachBio
+trach;35;Typ.pcr.C.trach Ur
+trach;35;R.pcr.Chl.trach Sou
+trach;35;PCR.C.TRACH/VAG APTI
+trach;35;R.pcr.Chl.trach OEI
+trach;35;R.pcr.Chl.trach LIQ
+trach;35;Pass.C.trach/CUL LQ
+trach;35;PCR.C.TRACH/URI APTI
+profondes;1;Sect.Profondes
+trp;1;calc interméd TRP
+carb;2;T°env=carb/22°ou 4°
+carb;2;Ac A-Anhyd.carb II
+fr;1;FR
+ascite;5;CHOLESTEROL L.ASCITE
+ascite;5;AMYLASE liq.ascite
+ascite;5;LIPASE liq.ascite
+ascite;5;CHOL liq.ascite
+ascite;5;TRIGLY LIQ.ASCITE
+susp;1;HEMO SUSP.ENDOC.27J
+mat;11;BAC MAT.P.VASC.N°3
+mat;11;BACT.MAT.ORTH(15J)N2
+mat;11;BAC MAT.P.VASC.(15J)
+mat;11;BAC MAT.P.VASC.N°4
+mat;11;BACT.MAT.ORTH(15J)N3
+mat;11;BAC MAT.P.VASC.N°1
+mat;11;BACT.MAT.ORTH(15J)N4
+mat;11;BAC MAT.P.VASC.N°2
+mat;11;ID/GénotC.trachoMAT
+mat;11;BACT.MAT.ORTH(15J)
+mat;11;Typ.pcr.C.trachMat
+entro;1;CentroB Titrage :
+nile;4;PCR W.Nile/plasma
+nile;4;PCR W.Nile/biopsie
+nile;4;PCR W.Nile/LCR
+nile;4;PCR W.Nile/liquide
+prolif;2;ETUDE PROLIF.LYMPHO
+prolif;2;ETUDE PROLIF.LYMPH:
+antimullerienne;1;H.ANTIMULLERIENNE
+cap;1;Rech/pcr.B.ant.capA
+conclusion;1;VNconclusion
+prlv;6;Elim  Ca prlv 1
+prlv;6;Elim  Ca prlv 2
+prlv;6;Elim  Ca prlv 3
+prlv;6;Elim A uriqu  prlv 1
+prlv;6;Elim A uriqu  prlv 3
+prlv;6;Elim A uriqu  prlv 2
+burnetti;2;PCR COX.BURNETTI
+burnetti;2;TR.PCR Coxi.burnetti
+trichlora;1;Ac TrichloraC.Ur
+tpmt;2;GENE THIOPURINE TPMT
+tpmt;2;Conclusion GèneTPMT
+wb;6;WB ASPER Nb bandes:
+wb;6;Résultat WB
+wb;6;WB DISTO
+wb;6;WB DISTO Nb bandes:
+wb;6;WB TOXOC Nb bandes:
+wb;6;WB BILHA Nb bandes:
+dextroprop;3;Dextroprop.Ur
+dextroprop;3;Dextroprop.
+dextroprop;3;DEXTROPROP. U
+post;1;XMLCT Ser 2e PostG
+epididymair;1;EXPL.FCT.EPIDIDYMAIR
+ml;2;ML commentaire
+ml;2;Urée / Ac ml malon u
+phenothiaz;17;Dos  Phénothiaz. U
+phenothiaz;17;Dos  Phénothiaz. 3
+phenothiaz;17;Dos  Phénothiaz. 2
+phenothiaz;17;Id Phénothiaz. Pl
+phenothiaz;17;Dos  Phénothiaz. 1
+phenothiaz;17;DOSAGE PHENOTHIAZ.2
+phenothiaz;17;DOSAGE PHENOTHIAZ.1
+phenothiaz;17;DOSAGE PHENOTHIAZ.3
+phenothiaz;17;DOS. PHENOTHIAZ.U3
+phenothiaz;17;DOS. PHENOTHIAZ.U2
+phenothiaz;17;Dos  Phénothiaz.
+phenothiaz;17;DOS. PHENOTHIAZ.U1
+phenothiaz;17;Id Phénothiaz. Sg
+phenothiaz;17;Dos  Phénothiaz. U3
+phenothiaz;17;Id Phénothiaz. Ur
+phenothiaz;17;Dos  Phénothiaz. U1
+phenothiaz;17;Dos  Phénothiaz. U2
+uterus;1;ETIQ.GENO PAP.UTERUS
+leptospira;1;Séro.Leptospira conf
+cf;5;TEM ROTEM cf CR
+cf;5;ZoneThérapCf ouvrir
+cf;5;Cf posologie(ouvrir)
+cf;5;CfNew poso.Ouvrir
+cf;5;Cf bilan clinico bio
+interpreter;1;interpréter/séro
+gast;1;MulltiGast.Détection
+loochi;1;BACT.PLACEN.LOOCHI
+tran;1;TRAN.SER.MAL.GR.CHAT
+parvum;9;R.pcr.U.parvumBIOP
+parvum;9;R.pcr.U.parvumRESP
+parvum;9;R.pcr.U.parvumGENI
+parvum;9;R.pcr.U.parvumLIQ
+parvum;9;R.pcr.U.parvum LCR
+parvum;9;R.pcr.U.parvumORL
+parvum;9;R.pcr.U.parvumURI
+parvum;9;R.pcr.U.parvumPUS
+parvum;9;R.pcr.U.parvumSche
+hum;14;Toxo HUM.AQUEUSE:
+hum;14;C73 INSULINE HUM.
+hum;14;adéno hum.aq. CP
+hum;14;PCR CMV HUM.AQUEUSE
+hum;14;hsv hum.aq. CP
+hum;14;PCR HSV HUM.AQUEUS
+hum;14;PCR VZV HUM.AQUEUS
+hum;14;PCR VZV/hum.aqueus
+hum;14;PCR Adéno/hum.aqu.
+hum;14;PCR CMV/Hum.aqueuse
+hum;14;vzv hum.aq. CP
+hum;14;PCR HSV/hum.aqueus
+hum;14;c73 insuline hum.
+hum;14;PCR ADENO HUM.AQU.
+chikun;1;PCR CHIKUN.PVT DIVER
+ost;1;XMLCT Ser 2e PostG
+ckmb;1;CKMB demandée
+legionel;1;SERO LEGIONEL.TRANSM
+identif;2;IDENTIF.DE PARASITE
+identif;2;Identif. parasite
+amniotique;2;CYTO.MB.AMNIOTIQUE
+amniotique;2;CYTO.LIQ.AMNIOTIQUE
+dose;1;Dose/Poids
+drvvt;1;dRVVT
+resp;13;PCR RESP. LCR
+resp;13;PCR ADENO SEC.RESP.
+resp;13;PCR RESP. ECOUV 2
+resp;13;PCR RESP. ECOUVILL
+resp;13;PCR RESP. BIOPSIE
+resp;13;R.pcr.M.pneumoRESP
+resp;13;R.pcr.U.parvumRESP
+resp;13;PCR RESP. LBA
+resp;13;PCR EBV/Séc.resp.
+resp;13;PCR RESP. ECOUVI 3
+resp;13;R.pcr.C.pneumoRESP
+resp;13;R.pcr.U.urealyRESP
+resp;13;PCR RESP. LIQ.BIO.
+ct;3;Ct 2
+ct;3;DPN toxo CT
+ct;3;DPN cmv CT
+brut;1;O1 COTON(FIB.BRUT.)
+ctx;1;CTX
+hcv;4;Génotypag HCV
+hcv;4;HCV DXI urgente
+hcv;4;Index HCV tec2 =
+hcv;4;Index HCV dxi  urg
+anguill;1;Para selles anguill.
+granuloc;5;AC A-GRANULOC.DEPIST
+granuloc;5;Ac A-Granuloc.Group
+granuloc;5;Ac A-Granuloc.DID
+granuloc;5;AC A-GRANULOC.DIG
+granuloc;5;Ac A-Granuloc.Dép
+vesic;1;LIQ SEM PROST.VESIC
+corona;14;PCR Corona/Sécrét°
+corona;14;PCR Corona/lba
+corona;14;PCR Corona/liq bio.
+corona;14;PCR Corona/LiqBio.
+corona;14;PCR Corona/E.rectal
+corona;14;PCR Corona/Lba
+corona;14;PCR Corona/selles
+corona;14;PCR Corona/biopsie
+corona;14;PCR Corona/Ecouvil
+corona;14;PCR Corona/Ecouvill
+corona;14;PCR Corona/EcoN°2
+corona;14;PCR Corona/EcoN°3
+corona;14;PCR Corona/Sécré.
+corona;14;PCR Corona/LCR
+glutarique;1;Ac.Glutarique Ur
+iii;2;GPIIbIIIa (P2)
+iii;2;GPIIbIIIa
+fong;1;IDEN.SOUCHE FONG.N 2
+sclerodermie;1;A-POLY.SCLERODERMIE
+maturat;1;LYMP T MATURAT.CD27
+plaq;13;Nucléo.plaq ADP
+plaq;13;Seq.GènesPlaq NGS
+plaq;13;Etude Glycoprot.Plaq
+plaq;13;Conclusion agg.plaq
+plaq;13;Plaq/tube ACD
+plaq;13;Génotyp.Plaq HPA...
+plaq;13;GENOTYP.PLAQ HPA..
+plaq;13;Plaq/tube citraté
+plaq;13;Nucléo.plaq ATP
+plaq;13;W.Blot const.plaq
+plaq;13;GENOTYP.PLAQ HPA...
+plaq;13;Plaq/tube Hépariné
+plaq;13;Conc.Nucl.In.Plaq
+fc;1;Herpes Gestat.Fc
+activite;1;AP50 ActivitéFct VA
+complete;2;TACRO.CINE.COMPLETE
+complete;2;CICLO.CINE.COMPLETE
+tiq;1;tiq.doc mort encép
+sensibilise;1;TCA SENSIBILISE/Cor
+sans;1;Sup sansCaryotypage
+hypoglyc;4;SULFA.HYPOGLYC.UR.
+hypoglyc;4;SULFAM.HYPOGLYC.SER
+hypoglyc;4;SULFAM.HYPOGLYC.UR
+hypoglyc;4;SULFA.HYPOGLYC.SER.
+minerales;1;PARTIC.MINERALES INH
+respi;1;Cartographie: respi.
+guadinoac;1;GUADINOAC/CREATINE U
+mikr;1;com.SER lyme Mikr.
+exter;1;PROT.SUIVICOL EXTER.
+mb;5;CMF GLYCOP.MB DIVERS
+mb;5;CREATININE KINASE MB
+mb;5;CYTO.MB.AMNIOTIQUE
+mb;5;rech path mb GR
+mb;5;CK MB dos
+cysticercos;1;Interpr.Cysticercos
+rickettsies;1;TR.Sér.Rickettsies
+extr;2;ADN extr.ac.nucl.
+extr;2;ExtrADN EVO PCS o/n
+sulfatox;1;PROTO SULFATOX.UR
+hbs;5;Ind séro Ag HBs Dxi
+hbs;5;Antigène HBs
+hbs;5;Ind Ag HBs Dxi urg
+hbs;5;ANTIGENE HBS
+hbs;5;séro Ag Hbs urgente
+feb;1;COPROaplasCas E.féb
+ureaplasma;9;PCR.UREAPLASMA/LCR
+ureaplasma;9;PCR.UREAPLASMA/URI
+ureaplasma;9;PCR.UREAPLASMA/ORL
+ureaplasma;9;PCR.Ureaplasma/SOUC
+ureaplasma;9;PCR.UREAPLASMA/RES
+ureaplasma;9;PCR.UREAPLASMA/GEN
+ureaplasma;9;PCR.UREAPLASMA/BIOP
+ureaplasma;9;PCR.UREAPLASMA/LQ
+ureaplasma;9;PCR.UREAPLASMA/PUS
+agg;1;Conclusion agg.plaq
+pediatr;1;Hémoculture pédiatr.
+secre;9;PCR VRS B/Sécré.
+secre;9;PCR Grip.B/Sécré.
+secre;9;PCR Grip.A/Sécré.
+secre;9;PCR Rougeole/Sécré.
+secre;9;PCR Entéro/secré.
+secre;9;PCR Adéno/Sécré.
+secre;9;PCR Oreill/Sécre.
+secre;9;PCR Corona/Sécré.
+secre;9;PCR VRS A/Sécré.
+arterielle;2;HC ArtérielleASPECT
+arterielle;2;Hémoc.Artérielle
+secret;8;ebv sécrét. CP
+secret;8;hsv sécrét. CP
+secret;8;b19 sécrét. CP
+secret;8;cmv sécrét. CP
+secret;8;hhv8 sécrét. CP
+secret;8;vzv sécrét. CP
+secret;8;hhv6 sécrét. CP
+secret;8;adéno sécrét. CP
+agregat;1;Dim.Agrégat
+fixees;2;CONS.LAMES FIXEES/CO
+fixees;2;cons.lames fixées/c
+ill;3;FWill RAgNéphéStago
+ill;3;Recherche AFWill
+ill;3;FWill RAg Elisa
+amb;1;T°env=Im.amb/carb D
+saliv;1;Ac A-Canaux Saliv.
+cont;1;BACT.VALV(CONT.STE)
+hpn;2;Rech HPN
+hpn;2;RECHERCHE HPN
+genoty;1;Génoty. Paréchovirus
+sg;205;Cholestanol sg
+sg;205;gamma AMINOBUT sg
+sg;205;envoi 5j ou immSgTot
+sg;205;Dosage Sg Tacrolimus
+sg;205;I D NEUROLEPT SG
+sg;205;Iode sg
+sg;205;Ac oxalique sg
+sg;205;GAZ DU SG CAPILLAIRE
+sg;205;Ac AMINOADIPIQUE sg
+sg;205;Id Neurolept. Sg
+sg;205;PAL sg
+sg;205;CADMIUM SER OU SG T
+sg;205;GAMMA sg
+sg;205;Ac alpha AMINOBUT sg
+sg;205;CK sg 1
+sg;205;IGA sg
+sg;205;I D PHENOTHIAZ SG
+sg;205;CK sg 2
+sg;205;PHENYLALANINE SG
+sg;205;PROT PLEU/PROT SG
+sg;205;Rech sg dans selles
+sg;205;CHLOROQUINE SG
+sg;205;AMYLASE sg
+sg;205;I D CANNABIS SG
+sg;205;HCG SG RECHERCHE
+sg;205;Beta  ALANINE sg
+sg;205;REC.TOXOPLAS.SG PCR
+sg;205;IonogrammeNA+K..sg
+sg;205;CHOLESTANOL SG
+sg;205;ALBUMINE sg
+sg;205;C Dendritiques Sg
+sg;205;Dosage A-D Sg
+sg;205;GLUCOSE sg T2
+sg;205;GLUCOSE sg T3
+sg;205;Bioptérines Sg
+sg;205;GLUCOSE sg T4
+sg;205;ETHANOLAMINE sg
+sg;205;GLUCOSE sg T5
+sg;205;GLUCOSE sg T6
+sg;205;GLUCOSE sg T7
+sg;205;GLUCOSE sg T8
+sg;205;GLUCOSE sg T9
+sg;205;GLUCOSE sg T1
+sg;205;LIPASE sg
+sg;205;PROLINE sg
+sg;205;TRIGLYCERIDES sg
+sg;205;P 50 SG VEI
+sg;205;SERINE sg
+sg;205;ANSERINE sg
+sg;205;DOS. BETABLOQ SG 1
+sg;205;Id Antidép. Sg
+sg;205;Id Hallucinogèn Sg
+sg;205;IGG sg
+sg;205;RESERVE ALCALINE sg
+sg;205;VALINE  sg
+sg;205;BETA 2  sg
+sg;205;DOSAGE ANTIDEP SG
+sg;205;LEISHMANIES sg
+sg;205;LEUCINE SG
+sg;205;GLUCOSE SG TPS 11
+sg;205;HISTIDINE sg
+sg;205;LEUCINE sg
+sg;205;GLUCOSE SG TPS 10
+sg;205;LDH PLEU/LDH SG
+sg;205;GLUCOSE SG TPS 13
+sg;205;GLUCOSE SG TPS 12
+sg;205;GLUCOSE SG TPS 15
+sg;205;ALPHA 2 sg
+sg;205;GLUCOSE SG TPS 14
+sg;205;PHENYL ALANINE sg
+sg;205;HAPTOGLOBINE sg
+sg;205;OSMOLALITE sg
+sg;205;Kétamine Sg
+sg;205;Prot elec int sg
+sg;205;TOXOPLASMA PCR SG
+sg;205;Commentaire elec sg
+sg;205;ALPHA 1 sg
+sg;205;Id Amp Op-Coca Sg
+sg;205;HOMOCYSTEINE tot sg
+sg;205;ARGININE sg
+sg;205;POTASSIUM sg
+sg;205;ISOLEUCINE sg
+sg;205;seq  Env 41 sg tot
+sg;205;SODIUM sg
+sg;205;GLUCOSE sg T11
+sg;205;CHLORE sg
+sg;205;GLUCOSE sg T12
+sg;205;I D ANTIDEP SG
+sg;205;GLUCOSE sg T10
+sg;205;Uroporphyrines sg
+sg;205;GLUCOSE sg T15
+sg;205;GLUCOSE sg T13
+sg;205;GLUCOSE sg T14
+sg;205;CARNOSINE sg
+sg;205;PYRUVATE sg
+sg;205;BETA 1  sg
+sg;205;Com elec sg
+sg;205;PREALBUMINE sg
+sg;205;TRANSFERRINE sg
+sg;205;MYOGLOBINE sg
+sg;205;A2 MACROGLOBULINE SG
+sg;205;bismuth sg
+sg;205;LDH sg ( L ---> P )
+sg;205;Id Benzodiaz.Sg
+sg;205;Toxo Sg total:
+sg;205;CK sg
+sg;205;seq  integr sg tot
+sg;205;ACIDES BILIAIRES SG
+sg;205;Coproporphyrines sg
+sg;205;AC OXALIQUE SG
+sg;205;ID BETABLOQUANTS SG
+sg;205;Dos Bétabloq. sg 1
+sg;205;A 1 ANTITRYPSINE sg
+sg;205;LEISHMANIE PCR SG
+sg;205;TYROSINE  sg
+sg;205;BUPRENORPHINE SG
+sg;205;ALBUMINE NEPH SG
+sg;205;Dos Bétabloq. sg 3
+sg;205;Dos Bétabloq. sg 2
+sg;205;EP REST HYDR SG HL
+sg;205;CALCIUM sg arsenazo
+sg;205;Manganèse sg
+sg;205;ImmunoPhéno-CMF SG
+sg;205;RECH SG DANS SELLES
+sg;205;PHOSPHORE sg
+sg;205;TAURINE sg
+sg;205;Protoporphyrines sg
+sg;205;AMP cyclique sg
+sg;205;HIV1 GP41 ADN SG TOT
+sg;205;GLYCINE sg
+sg;205;CUIVRE sg
+sg;205;UREE sg
+sg;205;AC.URIQUE sg
+sg;205;ACIDE URIQUE SG
+sg;205;BETA2  MICRO sg
+sg;205;Id Bétabloquants Sg
+sg;205;CYSTATINE C sg
+sg;205;SELENIUM sg
+sg;205;PALUDISME PCR SG
+sg;205;ALUMINIUM sg
+sg;205;PLOMB sg
+sg;205;PROTEINES sg elec
+sg;205;ZINC sg
+sg;205;FER sg
+sg;205;Ornithine sg
+sg;205;ID HALLUCINOGENES SG
+sg;205;I D BENZODIAZ SG
+sg;205;GLUTAMINE sg
+sg;205;AC SIALIQUE SG
+sg;205;Cobalt sg
+sg;205;Ac sialique sg
+sg;205;Ac GLUTAMIQUE sg
+sg;205;Cholinesterase sg
+sg;205;A1 ANTITRYPSINE SG
+sg;205;DOSAGE BENZOD.SG 3
+sg;205;DOSAGE BENZOD.SG 1
+sg;205;DOSAGE BENZOD.SG 2
+sg;205;PSG.Sg/poche
+sg;205;E.C ANGIOTENS.sg
+sg;205;HYDROXYLYSINE sg
+sg;205;Ac ASPARTIQUE sg
+sg;205;PCR Leishmanies sg
+sg;205;Dos  Barbitur. sg
+sg;205;CHROME sg
+sg;205;AC.CITRIQUE sg
+sg;205;I D AMP OP-COCA SG
+sg;205;LYSINE sg
+sg;205;Concl AcAminés Sg
+sg;205;METHADONE SG
+sg;205;Dosage Benzo sg 2
+sg;205;Dosage Benzo sg 1
+sg;205;MAGNESIUM sg
+sg;205;SARCOSINE sg
+sg;205;KETAMINE SG
+sg;205;Dosage Benzo sg 3
+sg;205;GGT sg
+sg;205;IGM sg
+sg;205;PROTEINES sg
+sg;205;CITRULLINE sg
+sg;205;CREATININE sg
+sg;205;THREONINE sg
+sg;205;OSMOLARITE CALC sg
+sg;205;CALCIUM CORRIGE SG
+sg;205;CYSTATHIONINE sg
+sg;205;GLUCOSE sg
+sg;205;H.CHLOROQUINE SG
+sg;205;BILIRUBINE TOT SG
+sg;205;GLUCOSE SG TPS 7
+sg;205;RBP sg
+sg;205;Rec sg dans selles
+sg;205;GLUCOSE SG TPS 8
+sg;205;GLUCOSE SG TPS 9
+sg;205;GLUCOSE SG TPS 3
+sg;205;GLUCOSE SG TPS 4
+sg;205;GLUCOSE SG TPS 5
+sg;205;GLUCOSE SG TPS 6
+sg;205;HYDROXYPROLINE sg
+sg;205;PROT.AMYLOIDE A sg
+sg;205;Id Phénothiaz. Sg
+sg;205;Alpha  ALANINE sg
+sg;205;REC.MICROFILAIRE SG
+sg;205;ACIDE SIELIQUE SG
+sg;205;GLUCOSE SG TPS 1
+sg;205;GLUCOSE SG TPS 2
+sg;205;ALLOISOLEUCINE sg
+trychoph;1;m205 Trychoph.rub
+fibrinogene;3;EtudeFibrinogène
+fibrinogene;3;FibrinogèneAntigèn
+fibrinogene;3;FibrinogèneClauss
+pyo;1;TR.SERO.PYO MUCOVISC
+plasm;3;HISTAMINE PLASM.
+plasm;3;AMMONIAC plasm.vein
+plasm;3;LymphPlasmMonAno
+dn;1;DN
+microorga;1;MX1 MEL MICROORGA.
+sars;3;PCR SARS/Ecouvill
+sars;3;PCR SARS/lba
+sars;3;PCR SARS/Sécrét°
+voie;1;FACTS.VOIE ENDOGENE
+epinephrine;1;CollEpinéphrine
+serot;2;Sérot.Marquée sér
+serot;2;PAT.GREF.SEROT
+patient;2;TpsReptilasePatient
+patient;2;RéticulocytesPatient
+or;3;CYTOB.OR.MOY/SINUS
+or;3;CYTOB.OR.MOY/SIN N2
+or;3;CYTOB.OR.MOY/SIN N3
+cmgc;1;Cul.Bartonella CMGC
+mycoplasm;2;CULT.MYCOPLASM.N2
+mycoplasm;2;IDENT.MYCOPLASM.N°2
+bnp;1;BNP DXI
+peripheriques;1;Sect.Périphériques
+hltv;1;Index HLTV =
+pap;2;ETIQ.GENO PAP.BIOPS
+pap;2;ETIQ.GENO PAP.UTERUS
+igg;3;AC A-PROTHROMB IGG/M
+igg;3;Titre.IgG SER lyme
+igg;3;IGG/Creat
+blqpe;1;F AER.Liq PoncBLQPE
+envoi;1;Températ.envoi ?
+tryp;4;IFI Tryp.Afr. IgG:
+tryp;4;IFI TrypAFRIC IgG:
+tryp;4;IFI TrypAFRIC IgM
+tryp;4;IFI Tryp.Afr. IgM:
+tp;9;TP INR (SAC)
+tp;9;CREATININE ur tp 2
+tp;9;TP réception
+tp;9;CREATININE ur tp 1
+tp;9;TP INR AVK
+tp;9;CREATININE ur tp 0
+tp;9;TP AVK LONG COURS
+tp;9;CREATININE ur tp 4
+tp;9;CREATININE ur tp 3
+autres;2;BAC BIOPS.AUTRES
+autres;2;AutresCellLiqBio
+carbape;1;Rec.carbapé.BCARB
+pat;4;IDENT. PAT.SOURCE
+pat;4;PAT.GREF.SEROT
+pat;4;TmpsThrombinePat
+pat;4;Sérothèque pat.gref
+fas;2;FasL SOLUBLE+IL10
+fas;2;FasL Soluble + IL10
+chol;1;Précurseurs du chol.
+metho;1;Rapport Métho/Creat
+microsporidie;1;REC.MICROSPORIDIE SE
+antistaphylolysi;1;SER.ANTISTAPHYLOLYSI
+anus;1;CARTO PVT ANUS/RECT.
+pacif;1;f58 calamar pacif.
+richlora;1;Ac TrichloraC.Ur
+bas;1;HPVrisque bas/indéte
+mega;1;MégaComQuant
+cysti;1;Cysti.Qualitatif:
+hemorragiqu;2;fièvres hémorragiqu.
+hemorragiqu;2;FIEVRES HEMORRAGIQU.
+ena;1;INT.ENA DOUT:30à40
+phtal;1;k79 anhyd.phtal.
+im;1;T°env=Im.amb/carb D
+cmf;4;CMF GLYCOP.MB DIVERS
+cmf;4;Ac surface plq CMF
+cmf;4;AC SURFACE PLAQ CMF
+cmf;4;TEST MEPACRINE CMF
+mucopolysacc;2;MUCOPOLYSACC. URINES
+mucopolysacc;2;MUCOPOLYSACC. ur
+carbapenem;1;RECH.ETB CARBAPENEM.
+gono;19;R.pcr.N.gonoMaté
+gono;19;REC.N.Gono N2
+gono;19;R.pcr.N.gono PUS
+gono;19;R.pcr.N.gono URI
+gono;19;R.pcr.N.gono LCR
+gono;19;R.pcr.N.gono Sou
+gono;19;R.pcr.N.gono GENI
+gono;19;R.pcr.N.gono VAGI
+gono;19;REC.N.GONO
+gono;19;R.pcr.N.gono LIQ
+gono;19;RECH.N.GONO
+gono;19;R.pcr.N.gono SB
+gono;19;R.pcr.N.gono OEIL
+gono;19;R.pcr.N.gono BIOP
+gono;19;R.pcr.N.gono LBA
+gono;19;RECH.N.GONO N°2
+gono;19;R.pcr.N.gono ORL
+gono;19;R.pcr.N.gono souche
+gono;19;R.pcr.N.gono AP uri
+tularens;4;PCR.F.TULARENS./LIQ
+tularens;4;PCR.F.TULARENS./PVT
+tularens;4;PCR.F.TULARENS./ORL
+tularens;4;PCR.F.TULARENS./SOU
+apres;5;Id.après séquençage:
+apres;5;Id.après séquenç.N2
+apres;5;Id.après séquenPvt1
+apres;5;Id.après séquenPvt3
+apres;5;Id.après séquenPvt2
+thromboplas;1;Thromboplas.Dil_G
+thrombine;2;GénThrombineLatence
+thrombine;2;TmpsThrombinePat
+lim;1;Date lim.envoi:
+hgprt;3;HGPRT
+hgprt;3;HGPRT OU APRT
+hgprt;3;HGPRT ou  APRT
+souche;3;Ident.souche fongiq.
+souche;3;IDEN.SOUCHE FONG.N 2
+souche;3;IDEN.SOUCHE FONGIQUE
+cs;3;CryoCs Embryons/C/A
+cs;3;CryoCsSp ICSI/P/An
+cs;3;CryoCsSperme/P/An
+coel;1;InterprétationM.Coel
+vein;2;AMMONIEMIE VEIN.
+vein;2;AMMONIAC plasm.vein
+analyse;2;analyse.pvt.spermEp
+analyse;2;ANALYSE.PVT.SPERM.EP
+tps;47;Elim  P tps 1
+tps;47;PARATHORMONE TPS 2
+tps;47;PARATHORMONE TPS 1
+tps;47;Elim  P tps 3
+tps;47;PARATHORMONE TPS 4
+tps;47;Elim  P tps 2
+tps;47;PARATH 4 TPS (1-4)
+tps;47;PARATHORMONE TPS 3
+tps;47;PARATHORMONE TPS 6
+tps;47;PARATHORMONE TPS 5
+tps;47;PARATHORMONE TPS 8
+tps;47;PARATHORMONE TPS 7
+tps;47;AC URIQUE UR TPS 3
+tps;47;PHOSPHORE UR 3 TPS
+tps;47;AC URIQUE UR TPS 1
+tps;47;AC URIQUE UR TPS 2
+tps;47;Tps Occlusion PFA100
+tps;47;CA UR TPS 1
+tps;47;CA UR TPS 3
+tps;47;CA UR TPS 2
+tps;47;HYPERGLYC TPS -15
+tps;47;GLUCOSE SG TPS 7
+tps;47;PHOSPHORE ur Tps 2
+tps;47;PARATHORM MULTI TPS
+tps;47;GLUCOSE SG TPS 8
+tps;47;PHOSPHORE ur Tps 3
+tps;47;GLUCOSE SG TPS 9
+tps;47;HYPERGLYC TPS -30
+tps;47;GLUCOSE SG TPS 3
+tps;47;PHOSPHORE UR TPS 2
+tps;47;TPS GLUCOSE MALAISE
+tps;47;GLUCOSE SG TPS 4
+tps;47;PHOSPHORE UR TPS 3
+tps;47;GLUCOSE SG TPS 5
+tps;47;GLUCOSE SG TPS 6
+tps;47;PHOSPHORE UR TPS 1
+tps;47;TpsReptilasePatient
+tps;47;PHOSPHORE ur Tps 1
+tps;47;CALCIURIE 3 TPS
+tps;47;GLUCOSE SG TPS 1
+tps;47;GLUCOSE SG TPS 11
+tps;47;GLUCOSE SG TPS 2
+tps;47;GLUCOSE SG TPS 10
+tps;47;GLUCOSE SG TPS 13
+tps;47;GLUCOSE SG TPS 12
+tps;47;GLUCOSE SG TPS 15
+tps;47;GLUCOSE SG TPS 14
+dep;2;Dép.BSARM /site
+dep;2;Ac A-Granuloc.Dép
+indifferenciees;1;C.Indifférenciées %
+basophiles;1;BasophilesLiqBio
+ovocytes;4;Réchauff.Ovocytes
+ovocytes;4;CONG.VITRIF.OVOCYTES
+ovocytes;4;CongVitrifiOvocytes
+ovocytes;4;RECHAUFF.OVOCYTES
+interc;1;AC ANTI-SUBS.INTERC
+prelev;1;PRELEV.PELVIEN
+bronch;3;CYTOB.ASP.BRONCH.
+bronch;3;Mycologie A.bronch.
+bronch;3;MYCO ASP.BRONCH
+bac;4;Puis.bac.tot sslot:
+bac;4;BAC.LIQ.PVT.ORGANE5J
+bac;4;BAC.LQ FL.ANA SEUL
+bac;4;BAC.LQ FL.AER SEUL
+pcr;813;PCR HSV/secrétions
+pcr;813;PCR ADENO LIQUIDE
+pcr;813;PCR TROPH.WHIPPELII
+pcr;813;MYCOBACT PCR N2
+pcr;813;PCR Rotavirus/Ec.
+pcr;813;PCR ZIKA/PVT DIVERS
+pcr;813;PCR HSV HUM.AQUEUS
+pcr;813;PCR Grip.A H1/LiqB
+pcr;813;PCR Pool2/Sécré°.
+pcr;813;PCR Oreill/Liq.b
+pcr;813;PCR Listeria monocyt
+pcr;813;R.pcr.C.psittaPUS
+pcr;813;PNEUMOCYST PCR LPLEU
+pcr;813;PCR CMV/Liq.bio
+pcr;813;PCR.N.meningo./BIOP
+pcr;813;R.pcr.U.parvumRESP
+pcr;813;PCR LISTERIA
+pcr;813;PCR.B.MALLEI/PVT
+pcr;813;PCR.GENE.R SAUR/ART
+pcr;813;PCR CMV/Séc.respir
+pcr;813;PCR Grip.B/Sécré.
+pcr;813;PCR Adéno/Sécré.
+pcr;813;PCR Grip.B/Liq.bio
+pcr;813;PCR EBV/Biopsie
+pcr;813;R.pcr.M.hominisBio
+pcr;813;PCR.M.hominis/SOUC
+pcr;813;REC.TOXOPLAS.SG PCR
+pcr;813;PCR Rhino/Ecouv
+pcr;813;PCR TOSCANA/LCR
+pcr;813;PCR Rhino/LCR
+pcr;813;PCR EBV/Liq.bio.
+pcr;813;PCR HHV6 MOELLE
+pcr;813;PCR VRS B/Biopsie
+pcr;813;PCR.N.MENINGO./LCR
+pcr;813;R.pcr.M.pneumoOEIL
+pcr;813;PCR GRIP.MULTI SECRE
+pcr;813;PCR Grip.AH1N1/Biop
+pcr;813;PCR Corona/selles
+pcr;813;PCR Norovirus I
+pcr;813;PCR ENTER ECOUVILLON
+pcr;813;PCR Grip.B/LiqBio
+pcr;813;PCR Grip.B/Ecou 2
+pcr;813;PCR Grip.B/Ecou 3
+pcr;813;R.pcr.K.kingaeART
+pcr;813;PCR HHV8 SANG
+pcr;813;PCR.S.aureus/LIQ
+pcr;813;PCR Entéro/Ecouv.
+pcr;813;PCR VRS A/LCR
+pcr;813;PCR Y.PESTIS/LIQ
+pcr;813;R.pcr.Chl.trachORL
+pcr;813;PCR.C.TRACH/PUS APTI
+pcr;813;PCR Corona/EcoN°2
+pcr;813;PCR Corona/EcoN°3
+pcr;813;PCR EBV /LIQUIDE
+pcr;813;PCR Ebola/sang tot.
+pcr;813;R.pcr.H.pyloriBIOP2
+pcr;813;PCR HHV6  BIOPSIE
+pcr;813;PCR HSV SECRE
+pcr;813;PCR.C.TRACHO/PUS
+pcr;813;PCR.UREAPLASMA/PUS
+pcr;813;TOXOPLASMA PCR SG
+pcr;813;PCR RESP. LBA
+pcr;813;PCR CHIKUNG. PLASMA
+pcr;813;R.pcr.g.mecA Orl
+pcr;813;R.pcr.C.psittaLIQ
+pcr;813;R.pcr.M.hominisUR
+pcr;813;PCR Grip.B/EcoN°3
+pcr;813;PCR Parainfl/Ecou
+pcr;813;PCR ENTERO LIQUIDE
+pcr;813;PCR Corona/liq bio.
+pcr;813;R.pcr.U.parvumSche
+pcr;813;PCR Grip.B/EcoN°2
+pcr;813;PCR WEST-NILE LIQUID
+pcr;813;PCR VRS A/Ecouvil
+pcr;813;Typ.pcr.C.trach Ur
+pcr;813;PCR.C.PNEUMO./RESP
+pcr;813;PCR Y.PESTIS/PVT
+pcr;813;PCR HSV/moelle
+pcr;813;PCR ENTERO SELLES
+pcr;813;PCR Grip.B/LCR
+pcr;813;Typ.pcr.C.trachPus
+pcr;813;PCR VHE/plasma
+pcr;813;LEISHMANIE PCR BIOP
+pcr;813;PCR Bocavirus/LiqBi
+pcr;813;R.pcr.F.tular.Orl
+pcr;813;PCR Toscana LCR
+pcr;813;PCR.S.aureus/RESP
+pcr;813;PCR W.Nile/plasma
+pcr;813;PCR VRS B/LiqBio.
+pcr;813;PCR Grip.A H3/Ecou
+pcr;813;PCR.M.HOMINIS/PUS
+pcr;813;PCR RESP. LCR
+pcr;813;PCR CMV/Ecouvill 2
+pcr;813;PCR CMV/Ecouvill 3
+pcr;813;R.pcr.HPmacro 2
+pcr;813;PCR RESP. BIOPSIE
+pcr;813;PCR VRS B/LCR
+pcr;813;PCR Pool1/Liq.bio
+pcr;813;PCR HSV/écouvillon3
+pcr;813;PCR W.Nile/liquide
+pcr;813;PCR HSV/écouvillon2
+pcr;813;PCR HSV/écouvillon1
+pcr;813;TYP.PCR N.meni/BIOP
+pcr;813;R.pcr.B.pertusRES
+pcr;813;R.pcr.g.mecA Oeil
+pcr;813;R.pcr.Chl.tracLCR
+pcr;813;PCR Adéno/Lba
+pcr;813;PCR HTLV  lcr
+pcr;813;pcr.Chl.rDNA23Sres
+pcr;813;PCR B19 LBA
+pcr;813;PCR.B.pertuss/LBA
+pcr;813;PCR.H.PYLORI/BIOP
+pcr;813;PCR Entéro/LBA
+pcr;813;PCR PAN-FONGIQUE
+pcr;813;PCR HHV6 SECRE
+pcr;813;PCR B19 ECOUVILLON
+pcr;813;PCR HHV8 QUANTI
+pcr;813;PCR CMV/Moel.oss
+pcr;813;PCR EBV MOEL.OSSEUSE
+pcr;813;PCR GripA/Lba
+pcr;813;PCR Grip.AH1N1/Ecou
+pcr;813;LEISHMANIE PCR MOELL
+pcr;813;PCR CMV ECOUVI. 3
+pcr;813;PCR CMV ECOUVI. 2
+pcr;813;PCR HAV
+pcr;813;PCR Zika LCR
+pcr;813;PCR CMV/Urines
+pcr;813;PCR GRIP. MULTI ECOU
+pcr;813;PCR.S.AUREUS/ART
+pcr;813;R.pcr.S.pneumLIQ
+pcr;813;PCR SARS LBA
+pcr;813;R.pcr.M.pneumoBIOP
+pcr;813;PCR EBV/Séc.resp.
+pcr;813;PCR EBOLA/DIVERS
+pcr;813;PCR Métapneu/EcoN°3
+pcr;813;PCR.C.trach/ORLaptim
+pcr;813;PCR Métapneu/EcoN°2
+pcr;813;PCR GRIP H5N1 SECRE°
+pcr;813;R.pcr.M.hominisSB
+pcr;813;PCR Grip.A/LCR
+pcr;813;R.pcr.F.tular.Sou
+pcr;813;PCR Adénovirus
+pcr;813;PCR.M.HOMINIS/LIQ
+pcr;813;PCR pan-fongique
+pcr;813;TYP.PCR N.meni/ORL
+pcr;813;PCR.C.PSITTACI/OEIL
+pcr;813;PCR Entéro/LCR
+pcr;813;PCR Parainfl/Lba
+pcr;813;PCR Bocavirus/Lba
+pcr;813;PCR Corona/Sécré.
+pcr;813;PCR OREIL.BIOPSIE
+pcr;813;PCR B19 LIQUIDE BIO
+pcr;813;PCR VZV LIQUIDE
+pcr;813;PCR.K.KINGAE/ART
+pcr;813;PCR Oreill/Lcr
+pcr;813;PCR Oreill/Biopsie
+pcr;813;PCR RESP. ECOUV 2
+pcr;813;PCR LEPTOSPIRA
+pcr;813;PCR Grip.A H1/Sécré
+pcr;813;PCR Parainfl/LiqBio
+pcr;813;R.pcr.M.hominSouch
+pcr;813;PCR HHV8/sang
+pcr;813;PCR.C.TRACHO/URIN
+pcr;813;R.pcr.M.pneumoLIQ
+pcr;813;PCR Rhino/Sécr
+pcr;813;PCR.C.JEJUNI/LCR
+pcr;813;PCR BK SANG
+pcr;813;R.pcr.B.mallei Liq
+pcr;813;PCR Adéno/EcoN°2
+pcr;813;PCR Adéno/EcoN°3
+pcr;813;PCR.N.meningo./SOUC
+pcr;813;PCRquantiHEPATITE E
+pcr;813;PCR.UREAPLASMA/BIOP
+pcr;813;R.pcr.U.parvumBIOP
+pcr;813;R.pcr.M.pneumoRESP
+pcr;813;R.pcr.S.pneumLCR
+pcr;813;PCR Oreill/Sang
+pcr;813;PCR Adénovirus/Ec.
+pcr;813;PCR EBV/Moel.oss.
+pcr;813;PCR Brucella
+pcr;813;PCR.gèn.R STAPH/OEI
+pcr;813;R.pcr.Chl.tracLIQ
+pcr;813;PCR.C.TRACHO/LQ
+pcr;813;R.pcr.C.psittaLCR
+pcr;813;R.pcr.Y.pestis Sou
+pcr;813;PCR EBV LBA
+pcr;813;R.pcr.C.pneumo ORL
+pcr;813;R.pcr.Chl.tracSouc
+pcr;813;R.pcr.typN.men LIQ
+pcr;813;PCR.M.HOMINIS/GENI
+pcr;813;PCR HEPATITE A
+pcr;813;PCR Mucorales
+pcr;813;PCR Entéro/Sécr
+pcr;813;PCR Coxiella burnett
+pcr;813;R.pcr.B.mallei ORL
+pcr;813;PCR EBOLA SELLES
+pcr;813;Typ.pcr.C.trachOei
+pcr;813;R.pcr.S.aureusORL
+pcr;813;PNEUMOCYST PCR LPL
+pcr;813;pcr.Chl.rDNA23Slba
+pcr;813;PCR.C.TRACHO/SOU
+pcr;813;R.pcr.Chl.trachSB
+pcr;813;R.pcr.BGAPDH 2
+pcr;813;PCR HHV8
+pcr;813;R.pcr.U.parvumLIQ
+pcr;813;PCR VZV/hum.aqueus
+pcr;813;PCR CMV SELLES
+pcr;813;PCR Grip.A H3/LCR
+pcr;813;PCR.C.PSITTACI/LCR
+pcr;813;R.pcr.Chl.tracGENI
+pcr;813;PCR HHV6 LBA
+pcr;813;PCR.B.ANTHRACIS/ORL
+pcr;813;PCR Métapneu/Lba
+pcr;813;Typ.pcr.C.trachMat
+pcr;813;PCR VRS A Lba
+pcr;813;PCR VRS B/EcoN°3
+pcr;813;PCR VRS B/EcoN°2
+pcr;813;PCR Grip.A H3/LBA
+pcr;813;PCR.M.pneumo./SOUC
+pcr;813;PCR W.Nile/LCR
+pcr;813;PCR.M.PNEUMO./BIOP
+pcr;813;PCR HHV6 LCR
+pcr;813;R.pcr.U.urealyLIQ
+pcr;813;PCR VARIOLE ECOUVIL.
+pcr;813;PCR ENTERO BIOPSIE
+pcr;813;PCR Grip.AH1N1/EcoN3
+pcr;813;R.pcr.N.gono OEIL
+pcr;813;PCR Grip.AH1N1/EcoN2
+pcr;813;PCR HHV6 SANG
+pcr;813;PCR Adéno/sécrét°
+pcr;813;Typ.pcr.C.trachSou
+pcr;813;PCR VZV/sécrétions
+pcr;813;R.pcr.M.hominisLIQ
+pcr;813;N° PCR CHLAM TRAC
+pcr;813;PCR.C.PSITTACI/BIOP
+pcr;813;PCR COX.BURNETTI
+pcr;813;R.pcr.S.aureusLiq
+pcr;813;PCR ZIKA/LCR
+pcr;813;PCR Parainfl/EcoN°3
+pcr;813;PCR Parainfl/EcoN°2
+pcr;813;PCR.F.TULARENS./LIQ
+pcr;813;PCR Rotavirus
+pcr;813;Typ.pcr.C.trachLBA
+pcr;813;PCR CMV/Biopsie
+pcr;813;R.pcr.U.parvumPUS
+pcr;813;PCR B19/sécrétions
+pcr;813;PCR Corona/LiqBio.
+pcr;813;PCR VZV ECOUVILLON
+pcr;813;R.pcr.B.pertussSouc
+pcr;813;PCR BK LIQUIDE
+pcr;813;PCR EBV BIOPSIE
+pcr;813;PCR Enté/LiqBi
+pcr;813;PCR VHE PLASMA
+pcr;813;PCR Métapneu/Biop.
+pcr;813;PCR.M.HOMINIS/URI
+pcr;813;PCR Parainfl/LCR
+pcr;813;PCR.M.GriffeChatAdén
+pcr;813;R.pcr.N.gono URI
+pcr;813;R.pcr.g.mecA Respi
+pcr;813;PCR HHV8/secrétions
+pcr;813;R.pcr.B.mallei sou
+pcr;813;PCR EBV /SANG TOTAL
+pcr;813;PCR ADENO URINES
+pcr;813;PCR VRS A/Sécré.
+pcr;813;Rech/pcr.B.ant.capA
+pcr;813;PCR RESP. ECOUVILL
+pcr;813;PCR CORONA SECRETION
+pcr;813;PCR VARIOLE LIQUIDE
+pcr;813;PCR.M.pn./bouillon +
+pcr;813;PCR Ebola divers
+pcr;813;PCR VZV SANG
+pcr;813;PCR ASPERGILLUS
+pcr;813;PCR HHV8/LBA
+pcr;813;PCR.C.TRACH/ANU APTI
+pcr;813;PCR RICKETTSIA
+pcr;813;Typ.pcr.C.trachBio
+pcr;813;R.pcr.C.psittaciLBA
+pcr;813;TR.PCR Coxi.burnetti
+pcr;813;PCR Parainfl/Sécré
+pcr;813;PCR Norovirus II
+pcr;813;PCR GripA/Sécré°.
+pcr;813;PCR.F.TULARENS./PVT
+pcr;813;R.pcr.M.hominisPUS
+pcr;813;PCR.C.PSITTACI/LBA
+pcr;813;PCR JC/Sang tot
+pcr;813;PCR CORONA SELLES
+pcr;813;PCR CMV/LCR
+pcr;813;R.pcr.M.pneu.bouill
+pcr;813;PCR Corona/biopsie
+pcr;813;pcr.Chl.rDNA23Slcr
+pcr;813;R.pcr.Y.pestis Liq
+pcr;813;PCR Adéno/LiqBio.
+pcr;813;R.pcr.U.urealyLCR
+pcr;813;R.pcr.N.gono VAGI
+pcr;813;PCR.S.aureus/SOUC
+pcr;813;PCR CMV HUM.AQUEUSE
+pcr;813;PCR Corona/E.rectal
+pcr;813;R.pcr.typN.men SOU
+pcr;813;REC.TOXOP.BIOPS PCR
+pcr;813;Rech/pcr.B.ant.pag:
+pcr;813;PCR GRIP.MULTI LBA
+pcr;813;PCR CMV SEC.RESPIRAT
+pcr;813;PCR Grip.A/Sécré.
+pcr;813;PCR MULT.GASTRO/ECOU
+pcr;813;PCR CMV/LBA
+pcr;813;PCR.C.PNEUMO./LIQ
+pcr;813;PCR CMV LBA
+pcr;813;PCR.gèn.R STAPH/LIQ
+pcr;813;PCR Norovirus I/Ec.
+pcr;813;PCR Corona/Lba
+pcr;813;R.pcr.M.hominisLCR
+pcr;813;PCR HHV8 LCR
+pcr;813;R.pcr.Chl.trach URI
+pcr;813;PCR Bocavirus/Eco2
+pcr;813;PCR Rougeole/Sécré.
+pcr;813;PCR.C.trach/VAGaptim
+pcr;813;PCR Adéno/Moelle
+pcr;813;PCR JC SANG
+pcr;813;PCR VRS B/Lba
+pcr;813;PCR HHV8 LBA
+pcr;813;PCR.C.TRACHO/GENI
+pcr;813;PCR.C.PSITTACI/PUS
+pcr;813;PCR Grip.A H1/LCR
+pcr;813;REC.TOXOPLAS.LCR PCR
+pcr;813;pcr.Chl.rDNA23Sliq
+pcr;813;R.pcr.Chl.trachLBA
+pcr;813;PCR.N.MENINGO./LIQ
+pcr;813;PCR Grip.A H3/Liq B
+pcr;813;PCR EBV/LBA
+pcr;813;PCR Rickettsia
+pcr;813;PCR GRIP H5N1 LBA
+pcr;813;R.pcr.Chl.trach OEI
+pcr;813;TR.PCR T.whipplei
+pcr;813;PCR CMV/Ecouvillon
+pcr;813;R.pcr.S.aureus SOU
+pcr;813;R.pcr.g.mecA Sou
+pcr;813;PCR ADENO ECOUVILLON
+pcr;813;TOXOPLASMA PCR BIOP
+pcr;813;R.pcr.BGAPDH:
+pcr;813;PCR Corona/Ecouvil
+pcr;813;R.pcr.Chl.tracBIOP
+pcr;813;R.pcr.N.gono SB
+pcr;813;PCR Grip.B/biopsie
+pcr;813;PCR Métapneu/LiqBio
+pcr;813;PCR MUCORALES
+pcr;813;PCR Corona/lba
+pcr;813;R.pcr.Chl.trachLCR
+pcr;813;PCR OREIL.SECRETION
+pcr;813;PCR Astrovirus/Ec.
+pcr;813;PCR.N.meningo./ORL
+pcr;813;PCR GRIP H5N1 L.BIO
+pcr;813;PCR EBV/Ecouvillon
+pcr;813;PCR Zika/plasma
+pcr;813;PCR Adéno/hum.aqu.
+pcr;813;PCR.M.PNEUMO./ORL
+pcr;813;PCR.S.aureus/OEIL
+pcr;813;PCR Entéro/biop
+pcr;813;PCR GripA/Ecou 2
+pcr;813;PCR T.whipplei
+pcr;813;PCR Entéro/Biopsie
+pcr;813;PCR GripA/Ecou 3
+pcr;813;PCR Leishmanies sg
+pcr;813;PCR Adéno/liq.bio.
+pcr;813;R.pcr.Chl.trachVAGI
+pcr;813;R.pcr.Chl.tracMaté
+pcr;813;R.pcr.B.pertussLBA
+pcr;813;PCR Aspergillus
+pcr;813;PCR.C.PNEUMO./LBA
+pcr;813;PCR HSV ECOUVILLO 3
+pcr;813;PCR HSV ECOUVILLO 2
+pcr;813;R.pcr.H.pyloriBIOP
+pcr;813;PCR SARS ECOUVILLO
+pcr;813;Typ.pcr.C.trachLCR
+pcr;813;PCR.C.PNEUMO./LCR
+pcr;813;pcr.Chl.rDNA23Spus
+pcr;813;PCR B19 BIOPSIE
+pcr;813;R.pcr.S.pneumBIOP
+pcr;813;PCR BK URINES
+pcr;813;PNEUMOCYST PCR CRA
+pcr;813;R.pcr.U.urealyPUS
+pcr;813;PCR Dengue/plasma
+pcr;813;PCR Pool2/Liq.bio
+pcr;813;PCR.S.pneumo/ORL
+pcr;813;PCR B19/Ecouvillon1
+pcr;813;PCR Grip.A/Biopsie
+pcr;813;PCR ENTERO PLASMA
+pcr;813;PCR Leptospires
+pcr;813;PCR EBV/Ecouv 3
+pcr;813;PCR EBV/Ecouv 2
+pcr;813;PCR.UREAPLASMA/LCR
+pcr;813;PCR DENGUE/PVT DIVER
+pcr;813;PCR CORONA LBA
+pcr;813;PCR Oreill/Ecouv.
+pcr;813;PCR Adéno/écouv 3
+pcr;813;PCR.C.PSITTACI/RESP
+pcr;813;PCR Adéno/sang
+pcr;813;PNEUMOCYST PCR LBA
+pcr;813;PCR Toscana/plasma
+pcr;813;PCR EBV ECOUV 3
+pcr;813;PCR.C.PSITTACI/LIQ
+pcr;813;PCR EBV ECOUV 2
+pcr;813;PCR Pool2/Biopsie
+pcr;813;PCR EBV/LCR
+pcr;813;PCR.C.TRACHO/MATERI
+pcr;813;PCR Adéno/écouv 1
+pcr;813;PCR VZV/liq.bio.
+pcr;813;PCR Adéno/écouv 2
+pcr;813;PCR.B.MALLEI/ORL
+pcr;813;R.pcr.typN.menBIOP
+pcr;813;PCR Grip.A H1/LBA
+pcr;813;R.pcr.N.gono ORL
+pcr;813;PCR Adéno/Ecouvil
+pcr;813;R.pcr.H.pyloriSELLE
+pcr;813;PCR ADENO SELLES
+pcr;813;PCR HSV/LCR
+pcr;813;PCR Y.PESTIS/ORL
+pcr;813;R.pcr.g.mecA Art
+pcr;813;HTLV PCR ADN LCR
+pcr;813;PCR Grip.A H3/EcoN°2
+pcr;813;PCR Grip.A H3/EcoN°3
+pcr;813;PCR Grip.AH1N1/LiqB
+pcr;813;R.pcr.Chl.trachBIOP
+pcr;813;PCR HSV/Biopsie
+pcr;813;PCR Pool1/Lba
+pcr;813;R.pcr.C.pneumoSouc
+pcr;813;PCR ADENO LCR
+pcr;813;PCR ENTERO SECRE
+pcr;813;R.pcr.N.gono PUS
+pcr;813;PCR SARS/Sécrét°
+pcr;813;PCR ADENO LBA
+pcr;813;PCR HSV/LBA
+pcr;813;PCR Rhino/Lba
+pcr;813;PCR VZV LCR
+pcr;813;PCR HSV MOELLE OS
+pcr;813;R.pcr.M.pneumo LBA
+pcr;813;PCR Rougeole/Ecouv.
+pcr;813;PCR.UREAPLASMA/GEN
+pcr;813;PCR HHV6/LCR
+pcr;813;R.pcr.Chl.trachPUS
+pcr;813;PCR.C.TRACHO/RESP
+pcr;813;PCR Grip.AH1N1/LBA
+pcr;813;REC.TOXOPLAS.HAQ PCR
+pcr;813;R.pcr.16S souche
+pcr;813;PCR VZV LBA
+pcr;813;PCR Grip.AH1N1/LCR
+pcr;813;PCR B19/sang
+pcr;813;R.pcr.M.pneumo LCR
+pcr;813;PCR VZV HUM.AQUEUS
+pcr;813;R.pcr.g.mecA Liq
+pcr;813;PCR DENGUE PLASMA
+pcr;813;TYP.PCR N.meni/LCR
+pcr;813;PCR Ehrlichia
+pcr;813;R.pcr.Chl.tracOEIL
+pcr;813;R.pcr.F.tular.Liq
+pcr;813;TR.PCR.Listeria mono
+pcr;813;PCR ROUGEOLE LCR
+pcr;813;R.pcr.C.pneumo LBA
+pcr;813;PCR Pool2/Lba
+pcr;813;R.pcr.N.gono GENI
+pcr;813;Typ.pcr.C.trachOrl
+pcr;813;R.pcr.U.urealyRESP
+pcr;813;PCR VRS/Lba
+pcr;813;PCR.UREAPLASMA/ORL
+pcr;813;PCR HSV LIQUIDE
+pcr;813;PCR VHE SERUM
+pcr;813;PCR Entéro/secré.
+pcr;813;PCR Bocavirus/Ecou
+pcr;813;PCR Chikung/plasma
+pcr;813;PCR CHIKUN.PVT DIVER
+pcr;813;PCR Adéno/biopsie
+pcr;813;TOXOPLASMA PCR DIV.
+pcr;813;PCR BK/sang total
+pcr;813;PCR.S.pneumo/BIOP
+pcr;813;R.pcr.shigatoxine:
+pcr;813;PCR Rougeole/Li.bio
+pcr;813;PCR ADENO SEC.RESP.
+pcr;813;PCR ROUGEOLE BIOPSIE
+pcr;813;R.pcr.U.urealyBIOP
+pcr;813;R.pcr.C.pneumo LCR
+pcr;813;PCR Grip.B/Ecouvil
+pcr;813;PCR BK BIOPSIE
+pcr;813;PCR.C.TRACHO/ORL
+pcr;813;PCR OREILLONS SANG
+pcr;813;PCR GripA/Liq.bio
+pcr;813;R.pcr.N.gonoMaté
+pcr;813;PCR HHV6/Ecouv.
+pcr;813;PCR Entéro/Ecouv 2
+pcr;813;PCR Entéro/Ecouv 3
+pcr;813;PCR Bocavirus/Eco3
+pcr;813;HTLV PCR ADN SANG
+pcr;813;PCR VZV/écouvillon1
+pcr;813;PCR BK/urines
+pcr;813;PCR VZV/écouvillon3
+pcr;813;PCR VZV/écouvillon2
+pcr;813;PCR Grip.B/Lba
+pcr;813;PNEUMOCYST PCR DIV
+pcr;813;R.pcr.N.mening Lcr
+pcr;813;R.pcr.N.meningLIQ
+pcr;813;PCR CMV/selles
+pcr;813;PCR Bocavirus/LCR
+pcr;813;PCR Adéno/LBA
+pcr;813;PCR HHV6/Sang total
+pcr;813;PCR ENTER ECOUVIL 2
+pcr;813;PCR ENTER ECOUVIL 3
+pcr;813;PCR Toscana divers
+pcr;813;PCR JC/Biopsie
+pcr;813;R.pcr.U.urealyURI
+pcr;813;PCR.B.PERTUSSIS/ORL
+pcr;813;PCR WEST-NILE BIOP.
+pcr;813;PCR GRIP H5N1 ECO
+pcr;813;R.pcr.C.pneumoLIQ
+pcr;813;PCR.UREAPLASMA/RES
+pcr;813;PCR JC LCR
+pcr;813;PCR Entéro/Lba
+pcr;813;PCR CMV MOEL.OSSEUSE
+pcr;813;PCR GRIP H7N9 SECRE°
+pcr;813;PCR VZV/LBA
+pcr;813;PCR.C.PNEUMO./BIOPS
+pcr;813;PCR Entéro/liquide
+pcr;813;PCR CMV BIOPSIE
+pcr;813;PCR RESP. LIQ.BIO.
+pcr;813;PCR.M.HOMINIS/ORL
+pcr;813;PCR Sapovirus/Ec.
+pcr;813;PCR Pool1/Ecou 2
+pcr;813;PCR Pool1/Ecou 3
+pcr;813;PCR Bocavirus/Biop
+pcr;813;PCR HHV6/secrét°
+pcr;813;PCR GRIPPE LIQUIDE
+pcr;813;R.pcr.Chl.trachMaté
+pcr;813;R.pcr.N.gono BIOP
+pcr;813;PCR.B.anthracis/SOU
+pcr;813;PCR W.Nile/biopsie
+pcr;813;PCR.M.PNEUMO./RESP
+pcr;813;REC.TOXOPLAS.LBA PCR
+pcr;813;PCR VZV/LCR
+pcr;813;PCR Pool1/Sécré°.
+pcr;813;Typ.pcr.C.trachRes
+pcr;813;PCR CMV /LIQUIDE
+pcr;813;PCR VHE SELLES
+pcr;813;R.pcr.C.psittaOEIL
+pcr;813;PCR HTLV  sang
+pcr;813;MYCOBACT PCR
+pcr;813;PCR Grip.A/Lba
+pcr;813;PCR HSV/hum.aqueus
+pcr;813;PCR Adéno/LCR
+pcr;813;PCR HHV8/LCR
+pcr;813;PCR B19 SANG
+pcr;813;R.pcr.S.aureusART
+pcr;813;PCR HHV6/LBA
+pcr;813;PCR.B.pertussis/SOU
+pcr;813;R.pcr.B.paraperSou
+pcr;813;PCR Métapneu/Ecou
+pcr;813;PCR Rougeole/Lcr
+pcr;813;PCR.M.PNEUMO./LCR
+pcr;813;PCR VRS B/Sécré.
+pcr;813;PCR HSV LCR
+pcr;813;PCR HHV6/Biopsie
+pcr;813;PNEUMOCYST PCR ABRO
+pcr;813;PCR.B.mallei/SOU
+pcr;813;PCR VRS A/LiqBio.
+pcr;813;R.pcr.C.pneumo OEIL
+pcr;813;pcr.Chl.rDNA23Sbio
+pcr;813;PCR RESP SECRETION
+pcr;813;PCR QUANTI HEV
+pcr;813;PCR JC BIOPSIE
+pcr;813;R.pcr.B.paraperLBA
+pcr;813;PCR HHV6 LIQUIDE
+pcr;813;R.pcr.C.psittacRES
+pcr;813;TR.PCR.Brucella
+pcr;813;R.pcr.N.gono AP uri
+pcr;813;R.pcr.typN.men ORL
+pcr;813;PCR.M.PNEUMO./LBA
+pcr;813;PCR Entéro anus
+pcr;813;PCR CORONA LIQ BIO
+pcr;813;PCR HSV LBA
+pcr;813;PCR HHV6/Liquide
+pcr;813;TYP.PCR N.meni/LIQ
+pcr;813;R.pcr.Chl.trachGENI
+pcr;813;PCR GRIP H7N9 ECO
+pcr;813;R.pcr.N.menin.Orl
+pcr;813;PCR Grip.A H1/EcoN3
+pcr;813;PCR Grip.A H3/Sécré
+pcr;813;PCR Grip.A H1/EcoN2
+pcr;813;PCR Grip.A/EcouN°2
+pcr;813;PCR Adéno/Urines
+pcr;813;PCR EHRLICHIA
+pcr;813;PCR Grip.A H1/Biop
+pcr;813;R.pcr.Chl.trach.Ur
+pcr;813;PCR Grip.A/EcouN°3
+pcr;813;PCR.S.aureus/ORL
+pcr;813;PCR VRS/Sécré°.
+pcr;813;PCR ADENO HUM.AQU.
+pcr;813;PCR ROUGEOLE SANG
+pcr;813;PCR VRS A/EcoN°2
+pcr;813;R.pcr.M.pneumoORL
+pcr;813;PCR VRS A/EcoN°3
+pcr;813;PCR CORONA EC.RECTAL
+pcr;813;TR.PCR Ehrlichia
+pcr;813;PCR VZV/biopsie
+pcr;813;PCR ENTERO ANUS
+pcr;813;PCR ADENO ECOUVIL 3
+pcr;813;PCR VRS B/Ecouvil
+pcr;813;PCR ADENO ECOUVIL 2
+pcr;813;PCR Chikung/divers
+pcr;813;PCR.C.TRACH/VAG APTI
+pcr;813;R.pcr.16S lcr
+pcr;813;PCR CMV /SANG TOTAL
+pcr;813;PCR.F.TULARENS./ORL
+pcr;813;PCR Entéro/Ecou
+pcr;813;PCR.C.TRACHO/LBA
+pcr;813;pcr.Chl.rDNA23Ssou
+pcr;813;PCR EBOLA SANG TOTAL
+pcr;813;R.pcr.U.parvum LCR
+pcr;813;PCR B19/moelle
+pcr;813;R.pcr.Spn perméase
+pcr;813;R.pcr.S.pneum ORL
+pcr;813;PCR CMV /URINES
+pcr;813;PCR ROUGEOLE L.BIO
+pcr;813;PCR.UREAPLASMA/URI
+pcr;813;R.pcr.M.hominisORL
+pcr;813;PCR ADENO BIOPSIE
+pcr;813;PCR Rhinovirus/Eco2
+pcr;813;PCR Rhinovirus/Eco3
+pcr;813;PCR.M.HOMINIS/LCR
+pcr;813;PCR LTR
+pcr;813;PCR.gèn.R STAPH/SOU
+pcr;813;PCR Rougeole/Biopsie
+pcr;813;PCR Sapovirus
+pcr;813;PCR Oreill/Sécre.
+pcr;813;PCR EBV/Sang total
+pcr;813;PCR.M.HOMINIS/RESP
+pcr;813;TYP.PCR N.meni/SOUC
+pcr;813;PCR ADENO MOELLE OS
+pcr;813;PCR Zika divers
+pcr;813;R.pcr.U.parvumORL
+pcr;813;PCR Métapneu/LCR
+pcr;813;PNEUMOCYST PCR DIV.
+pcr;813;PCR Orthopox/Liqui.
+pcr;813;PCR JC URINES
+pcr;813;PCR HHV8 SECRE
+pcr;813;PCR CMV/Sang total
+pcr;813;PCR Ebola/urines
+pcr;813;PCR HSV ECOUVILLON
+pcr;813;Typ.pcr.C.trach LQ
+pcr;813;PCR SARS SECRETION
+pcr;813;R.pcr.N.meningBIOP
+pcr;813;PCR Grip.A H3/Biop
+pcr;813;PCR ENTERO LBA
+pcr;813;PCR.C.TRACHO/OEIL
+pcr;813;R.pcr.M.hominisGEN
+pcr;813;PCR VARIOLE CROUTE
+pcr;813;PCR EBOLA URINES
+pcr;813;PCR GripA/Biopsie
+pcr;813;PCR SARS/lba
+pcr;813;PCR HSV/liquide
+pcr;813;PCR HHV6 ECOUV.
+pcr;813;PCR.B.ANTHRACIS/PVT
+pcr;813;PCR VHE/sérum
+pcr;813;PCR VZV BIOPSIE
+pcr;813;PCR Pool1/Biopsie
+pcr;813;R.pcr.Y.pestis Orl
+pcr;813;PCR.C.PNEUMO./ORL
+pcr;813;R.pcr.N.gono Sou
+pcr;813;TR.PCR.LEPTOSPIRES
+pcr;813;R.pcr.typN.men LCR
+pcr;813;PCR ENTERO LCR
+pcr;813;PCR EBV SEC.RESPIRAT
+pcr;813;PCR SARS/Ecouvill
+pcr;813;R.pcr.N.gono LBA
+pcr;813;PCR ADENO SANG
+pcr;813;R.pcr.Chl.trac Pus
+pcr;813;PCR.gèn.R STAPH/RESP
+pcr;813;PCR BK/Biopsie
+pcr;813;PCR HHV8 LIQUIDE
+pcr;813;PCR Pool2/Ecou 2
+pcr;813;PCR.M.PNEUMO./LIQ
+pcr;813;PCR OREILLONS LCR
+pcr;813;PCR Pool2/Ecou 3
+pcr;813;PCR B19 LCR
+pcr;813;PCR Dengue divers
+pcr;813;PCR Entéro/Eco2
+pcr;813;R.pcr.16S orl
+pcr;813;PCR Entéro/Eco3
+pcr;813;PCR EBV /LCR
+pcr;813;PCR Y.pestis/SOUC
+pcr;813;PCR.SHIGATOX./SELLE
+pcr;813;PCR OREI.ECOUVILLON
+pcr;813;PCR Grip.A/LiqBio
+pcr;813;R.pcr.Chl.tracLBA
+pcr;813;PCR Orthopox/Ecou.
+pcr;813;R.pcr.C.fetus Lcr
+pcr;813;PCR HHV6/Moelle Os
+pcr;813;R.pcr.C.pneumoRESP
+pcr;813;PCR.C.PSITTACI/SOU
+pcr;813;PCR CMV /LCR
+pcr;813;PCR JC/urines
+pcr;813;R.pcr.C.psittacBIOP
+pcr;813;PCR.B.PERTUSSIS/RES
+pcr;813;PCR.C.TRACHO/BIOPS
+pcr;813;R.pcr.N.gono LCR
+pcr;813;PCR HHV8/biopsie
+pcr;813;R.pcr.B.parapORL
+pcr;813;LEISHMANIE PCR SG
+pcr;813;PCR HHV8/liq.bio.
+pcr;813;TOXOPLASMA PCR LBA
+pcr;813;PCR Entéro/plasma
+pcr;813;REC.TOXOP.DIV PCR
+pcr;813;PCR.H.pylori/BIOP N2
+pcr;813;PCR Grip.AH1N1/Sécr
+pcr;813;R.pcr.Chl.trach LIQ
+pcr;813;PCR VZV ECOUV 3
+pcr;813;PCR Corona/Sécrét°
+pcr;813;PCR VZV ECOUV 2
+pcr;813;PCR.C.PSITTACI/ORL
+pcr;813;PCR HSV SANG
+pcr;813;Typ.pcr.C.trachoGé
+pcr;813;PCR WEST-NILE LCR
+pcr;813;PCR Rougeole/Sang
+pcr;813;PCR Adéno/selles
+pcr;813;PCR B19 MOELLE
+pcr;813;HIV1 PCR ADN
+pcr;813;PCR Bocavirus/Sécré
+pcr;813;PCR B19/Liq.bio.
+pcr;813;PCR Astrovirus
+pcr;813;PCR VRS A/Biopsie
+pcr;813;R.pcr.Chl.tra APuri
+pcr;813;PCR.H.PYLORI/SELLE
+pcr;813;PCR BK/Liq.bio.
+pcr;813;PCR Ebola/selles
+pcr;813;PCR.M.HOMINIS/BIOP
+pcr;813;PCR Rhino/biop
+pcr;813;PCR OREIL. LIQUIDE
+pcr;813;PALUDISME PCR SG
+pcr;813;R.pcr.U.urealySche
+pcr;813;PCR VRS/Liq.bio
+pcr;813;PCR Orthopox/Croûte
+pcr;813;R.pcr.16S biop
+pcr;813;TOXOPLASMA PCR LCR
+pcr;813;PCR B19/LCR
+pcr;813;PCR VZV/Sang
+pcr;813;R.pcr.B.pertusORL
+pcr;813;R.pcr.C.jejuni Lcr
+pcr;813;PCR S.pneumo/LCR
+pcr;813;PCR HSV/sang
+pcr;813;PCR ROUGEOLE ECOUV.
+pcr;813;PCR Parainfl/Biops
+pcr;813;PCR HHV8  BIOPSIE
+pcr;813;PCR Corona/LCR
+pcr;813;R.pcr.U.parvumGENI
+pcr;813;R.pcr.C.psittacORL
+pcr;813;PCR GRIF.CHAT ADENOP
+pcr;813;PCR B19 SECRE
+pcr;813;PCR.C.PNEUMO./OEIL
+pcr;813;PCR.gèn.R STAPH/ORL
+pcr;813;PCR VRS/Ecou 3
+pcr;813;PCR.S.pneumo/LIQ
+pcr;813;PCR RUBEOLE
+pcr;813;PCR.UREAPLASMA/LQ
+pcr;813;PCR B19/LBA
+pcr;813;PCR Métapneu/Sécré
+pcr;813;PCR VRS/Ecou 2
+pcr;813;PCR Grip.A H1/Ecou
+pcr;813;PCR B19/Biopsie
+pcr;813;R.pcr.N.menin.Sou
+pcr;813;PCR.C.TRACH/URI APTI
+pcr;813;PCR.F.TULARENS./SOU
+pcr;813;PCR Grip.B/Biopsie
+pcr;813;PCR ROUGEOLE SECRE
+pcr;813;PCR HSV BIOPSIE
+pcr;813;PCR Leishmanie moel
+pcr;813;PCR Bartonella MGC
+pcr;813;PCR GRIP.MULTI BIOPS
+pcr;813;PCR.B.MALLEI/LIQ
+pcr;813;R.pcr.N.gono souche
+pcr;813;PCR Grip.A/Ecouvil
+pcr;813;PCR Adéno/Biopsie
+pcr;813;R.pcr.C.pneumoBIOP
+pcr;813;R.pcr.N.gono LIQ
+pcr;813;PCR EBV ECOUVILLON
+pcr;813;PCR JC/LCR
+pcr;813;PCR.Ureaplasma/SOUC
+pcr;813;PCR TOSCANA/DIVERS
+pcr;813;PCR MULT.GASTRO
+pcr;813;PCR Leishmanies biop
+pcr;813;PCR.C.TRACHO/LCR
+pcr;813;PCR CORONA ECOUVILLO
+pcr;813;pcr.Chl.rDNA23Sorl
+pcr;813;R.pcr.B.parapeRES
+pcr;813;PCR.B.ANTHRACIS/LIQ
+pcr;813;R.pcr.U.parvumURI
+pcr;813;PCR VHE/selles
+pcr;813;R.pcr.HPmacro:
+pcr;813;PCR Corona/Ecouvill
+pcr;813;R.pcr.16S lq
+pcr;813;PCR VZV SECRE
+pcr;813;R.pcr.U.urealyGENI
+pcr;813;PCR GRIP H7N9 LBA
+pcr;813;R.pcr.U.urealyORL
+pcr;813;PCR Rhino/LiqBi
+pcr;813;PCR TOSCANA PLASMA
+pcr;813;R.pcr.S.aureusOeil
+pcr;813;PCR WEST-NILE SANG
+pcr;813;PCR VRS/Biopsie
+pcr;813;PCR Norovirus II/Ec.
+pcr;813;PCR ZIKA PLASMA
+pcr;813;PCR Entéro/selles
+pcr;813;PCR CMV/Hum.aqueuse
+pcr;813;R.pcr.M.pneumoSouc
+pcr;813;PCR.C.PNEUMO./SOU
+pcr;813;PCR RESP. ECOUVI 3
+pcr;813;R.pcr.Chl.trach Sou
+pcr;813;TOXOPLASMA PCR HAQ
+pcr;813;PCR CMV ECOUVILLON
+bksg;1;HC BKSG ASPECT
+aqu;3;TOXOCAROSE AC H.AQU
+aqu;3;PCR Adéno/hum.aqu.
+aqu;3;PCR ADENO HUM.AQU.
+explor;1;ExplorFibrinolyse
+std;3;PREP MICROSCOPIE STD
+std;3;ANTI XA HEPARINE STD
+std;3;TCA HEP.STD
+ebv;10;PCR EBV/Ecouvillon
+ebv;10;PCR EBV/Liq.bio.
+ebv;10;PCR EBV/LBA
+ebv;10;PCR EBV/LCR
+ebv;10;PCR EBV/Séc.resp.
+ebv;10;PCR EBV/Moel.oss.
+ebv;10;PCR EBV/Biopsie
+ebv;10;PCR EBV/Ecouv 3
+ebv;10;PCR EBV/Sang total
+ebv;10;PCR EBV/Ecouv 2
+microfilaire;1;REC.MICROFILAIRE SG
+cornee;1;CYTOB.CORNEE
+glutaminases;1;AC A-T.GLUTAMINASES
+iga;1;Transglu.IgA
+rect;1;CARTO PVT ANUS/RECT.
+spntee;4;CFU-MK SpntéeSang
+spntee;4;CFU-MK SpntéeMoelle
+spntee;4;CFU-E SpntéeSang
+spntee;4;CFU-E SpntéeMoelle
+men;9;R.pcr.typN.men LCR
+men;9;16s.N.MEN.Orl /PCR
+men;9;16s.N.MEN.Sou/PCR
+men;9;16s.N.MEN.Biop/PCR
+men;9;R.pcr.typN.men LIQ
+men;9;16s.N.MEN.lq/PCR
+men;9;R.pcr.typN.men SOU
+men;9;R.pcr.typN.men ORL
+men;9;R.pcr.typN.menBIOP
+pthr;1;PTHR
+sphero;1;SphéroHérédit NGAP
+fact;1;FACT.RHUMATOIDES
+hyperinsulinisme;1;HyperinsulinismeCong
+pcryocons;2;PCRYOCONS.TISSU GERM
+pcryocons;2;Pcryocons.tissu ger
+ocul;2;CYTOB.OCUL SUP N2
+ocul;2;CYTOB.OCUL.L.VITRE
+legionella;2;TRANS SER.LEGIONELLA
+legionella;2;Séro.Legionella conf
+cytobact;10;CYTOBACT.BIOHP
+cytobact;10;CYTOBACT.FIV
+cytobact;10;CYTOBACT.PUS FERME
+cytobact;10;CYTOBACT.DPCA
+cytobact;10;CYTOBACT.PLAIE OPER
+cytobact;10;CYTOBACT.NNAT
+cytobact;10;CYTOBACT.FIV N 2
+cytobact;10;CYTOBACT.PUS ABDO
+cytobact;10;CYTOBACT.FIV N 3
+cytobact;10;CYTOBACT.PUS CUTA
+lmmcj;1;C.PROGENITEURS LMMCJ
+fetus;1;R.pcr.C.fetus Lcr
+myc;2;R.MYC.TUBERCU/PCR
+myc;2;R.MYC.TUBERC/PCR N2
+flacpedd;2;FlacPEDd.posit(h)LQ
+flacpedd;2;FlacPEDd.positiv(h):
+acineto;1;TRANS ID.ACINETO.BAU
+tnf;2;TNF Alpha
+tnf;2;TNF ALPHA
+supplem;1;Cple amorc.supplém.
+tularemie;1;Séro.tularémie
+xpv;1;Gène XPV
+centro;1;CentroB Titrage :
+phos;2;Phos.ac prostatiques
+phos;2;phos.ac totales
+pp;4;Vitamine PP
+pp;4;Ratio VWF PP/RAg
+pp;4;Propeptide PP/VW Ag
+pp;4;VITAMINE PP
+nucl;3;ADN extr.ac.nucl.
+nucl;3;Ratio ATP/ADP nucl.P
+nucl;3;Conc.Nucl.In.Plaq
+strepto;1;REC.Strepto B
+avt;2;PREPA.SPERM.AVT I
+avt;2;TLEG avtCompression
+leptospires;1;TR.PCR.LEPTOSPIRES
+mpo;1;AC ANTI-MPO/ANTI-PR3
+pht;1;pHt
+cryocons;4;poursuite cryocons.
+cryocons;4;POURSUITE CRYOCONS.
+cryocons;4;CRYOCONS.SPERMATO
+cryocons;4;cryocons.spermato
+gref;3;PAT.GREF.SEROT
+gref;3;Sérothèque pat.gref
+gref;3;CSté:transp.gref.SF
+dq;3;TG LOC DQ BM
+dq;3;DQ à Vérif BM
+dq;3;TYPAGE LOC DQ BM
+sou;8;Rpcr.C.psittaciSou
+sou;8;ID/GénotC.trachoSOU
+sou;8;Typ.pcr.C.trachSou
+sou;8;SEQ.SOU.BACTER./PCR
+sou;8;R.pcr.F.tular.Sou
+sou;8;R.pcr.B.paraperSou
+sou;8;16s.N.MEN.Sou/PCR
+sou;8;R.pcr.N.menin.Sou
+vei;1;COOXYMETRIE VEI.
+inhal;3;PART.INHAL.non fibre
+inhal;3;PART.INHAL.AMIANTE
+inhal;3;PART.INHAL.amiante
+fermen;1;F82 FROMAGE FERMEN.
+cinetiq;1;EVEROLIMUS CINETIQ.
+tgp;1;TGP (ALAT) LIQ. BIO
+genes;3;Seq.GènesPlaq NGS
+genes;3;SEQ.GENES.PLQ NGS
+genes;3;ET.Gènes GLANZMANN
+willebrand;6;F.WILLEBRAND ACCROCH
+willebrand;6;F.WILLEBRAND SPE.
+willebrand;6;F.WILLEBRAND ELISA
+willebrand;6;F.WILLEBRAND CB
+willebrand;6;F.WILLEBRAND PROPEPT
+willebrand;6;F.WILLEBRAND MULTIM
+cerebraux;1;NEUROTRASM.CEREBRAUX
+lobo;1;GloboT.Céra Dos.Qual
+in;2;PART.IN.NON FIBREUSE
+in;2;Conc.Nucl.In.Plaq
+su;1;etiq.su.test rapid
+hdl;4;CHOLESTEROL HDL
+hdl;4;HDL CHOLESTEROL
+hdl;4;Chol / Chol HDL
+hdl;4;HDL CHOL LIQ.BIO
+glu;1;B.GLU.CEREBROSIDASE
+ghb;5;GHB
+ghb;5;GHB Ur
+ghb;5;GHB PLASMA
+ghb;5;GHB SANG
+ghb;5;GHB URINES
+fv;2;Mut FV résultat
+fv;2;MUT LEYDEN FV
+resis;1;HIV1 RESIS. ARN LCR
+valve;6;BACT.VALVE
+valve;6;BACT.VALVE STERILIT
+valve;6;BACT.VALVE N°4
+valve;6;BACT.VALVE N°5
+valve;6;BACT.VALVE N°2
+valve;6;BACT.VALVE N°3
+fralle;3;IGTCR PROT.FRALLE
+fralle;3;IgTCR-Proto.FRALLE
+fralle;3;IgTCR PROT.FRALLE
+sol;2;Ag sol.Pneumo.
+sol;2;Asperg Ag sol.LCR:
+ntbc;2;NTBC
+ntbc;2;NTBC (S.TYROSINEMIE)
+ralt;2;M229 ALTERNA.RALT A1
+ralt;2;m229 Altern.rAlt
+arn;4;R.MUT.ARN M.PNEU/SOU
+arn;4;HIV1 TROP.ARN LCR
+arn;4;HIV1 TROP.ARN PLAS
+arn;4;R.MUT.ARN M.GENI/SOU
+ns;8;MFI NS (VH10) T
+ns;8;MFI NS (AP2) T
+ns;8;MFI NS (PAC-1) T
+ns;8;MFI NS (BX1)  Pat
+ns;8;MFI NS (AP2)  Pat
+ns;8;MFI NS (VH10)  Pat
+ns;8;MFI NS (PAC-1)  Pat
+ns;8;MFI NS (BX1) T
+meni;5;TYP.PCR N.meni/SOUC
+meni;5;TYP.PCR N.meni/LIQ
+meni;5;TYP.PCR N.meni/LCR
+meni;5;TYP.PCR N.meni/ORL
+meni;5;TYP.PCR N.meni/BIOP
+aliment;3;FX23 MEL ALIMENT.3
+aliment;3;FX25 MEL ALIMENT.4
+aliment;3;FX24 MEL ALIMENT.2
+sche;8;R.pcr.U.urealySche
+sche;8;Id.sche Acinetobact:
+sche;8;Id.sche Streptoc.
+sche;8;Id.sche N.meningit.:
+sche;8;IDENT.Sche Strepto
+sche;8;IDENT.Sche Meningo
+sche;8;IDENT.Sche Acineto
+sche;8;R.pcr.U.parvumSche
+hb;9;HB F
+hb;9;Etude Hb phénotype
+hb;9;Hb A2
+hb;9;HB. GLYQUEE
+hb;9;Conc ElectroHB
+hb;9;Résultat Hb
+hb;9;ETUDE DES HB PHENOT
+hb;9;HB A
+hb;9;Hb phénotypage
+parainfl;8;PCR Parainfl/Lba
+parainfl;8;PCR Parainfl/LiqBio
+parainfl;8;PCR Parainfl/LCR
+parainfl;8;PCR Parainfl/Ecou
+parainfl;8;PCR Parainfl/Biops
+parainfl;8;PCR Parainfl/Sécré
+parainfl;8;PCR Parainfl/EcoN°3
+parainfl;8;PCR Parainfl/EcoN°2
+ps;8;PS LIBRE
+ps;8;MLPA PS
+ps;8;Séquençage PS
+ps;8;Boîte Séq Gène PS
+ps;8;Concentrat° ADN PS
+ps;8;PS chrono
+ps;8;PS libre immuno
+ps;8;GENE PS
+plq;14;Agreg Plq (1)
+plq;14;Agreg Plq (2)
+plq;14;TRAP SécPlq Pat
+plq;14;Conc Ac surface Plq
+plq;14;Ac surface plq CMF
+plq;14;Conc.SécrétionPlq
+plq;14;COL SécPlq Pat
+plq;14;SECRETION PLQ
+plq;14;ConcMicroscESTD plq
+plq;14;ConcQu.Gran.IntrPlq
+plq;14;ADP SécPlq Pat
+plq;14;PLQ / NUCLEOTIDES
+plq;14;SEQ.GENES.PLQ NGS
+plq;14;AGG PLQ SS AA CONF P
+titre;1;Titre.IgG SER lyme
+sonde;1;CYTOB URINE P.SONDE
+cox;2;Dépist.Cox.burn/s:
+cox;2;PCR COX.BURNETTI
+cytobac;19;CYTOBAC.PUS ABDOM.
+cytobac;19;CYTOBAC.SEC.BRONC-P
+cytobac;19;CYTOBAC.BIOPSIE DIG.
+cytobac;19;CYTOBAC.SPHERE ORL
+cytobac;19;CYTOBAC.SPH.ORL N3
+cytobac;19;CYTOBAC.SPH.ORL N2
+cytobac;19;CYTOBAC.F.I.V.N 3
+cytobac;19;CYTOBAC.PUS PROFOND
+cytobac;19;CYTOBAC.F.I.V.N 2
+cytobac;19;CYTOBAC.F.I.V.
+cytobac;19;CYTOBAC.PLAIE OP.N3
+cytobac;19;CYTOBAC.ORL MUCOV
+cytobac;19;CYTOBAC.PUS ABDO.N3
+cytobac;19;CYTOBAC.PUS ABDO.N2
+cytobac;19;CYTOBAC.PUS PROF.N3
+cytobac;19;CYTOBAC.PLAIE OP.N2
+cytobac;19;CYTOBAC.PUS PROF.N2
+cytobac;19;CYTOBAC.PUS PROF.N5
+cytobac;19;CYTOBAC.PUS PROF.N4
+ammon;1;IgE A-ammon.quatern
+ecoli;1;TRANS SéroEcoli ENTH
+ferm;1;f82 fromage ferm.
+bore;1;TR.RECEHR/BORE/COLOR
+amyloide;1;PROT.AMYLOIDE A sg
+progeniteurs;1;C.PROGENITEURS LMMCJ
+xylo;1;c232 lido-xylo.
+ht;1;RECH.ETB HT RESIST
+mgc;2;PCR Bartonella MGC
+mgc;2;Séro Bartonella MGC
+micro;2;FIV par microM ICSI
+micro;2;FIV ss microM
+pelvien;1;PRELEV.PELVIEN
+jul;1;t20 Prosopis jul.
+spermat;1;EtudeQualNoySpermat
+rens;1;RENS.CLINIQUES:
+bind;3;SEX HORM.BIND.GLOBUL
+bind;3;SEX HOR.BIND.GLOBUL
+bind;3;SEX HORM.BIND.GLOBU
+gd;2;LBA GD TOTAUX
+gd;2;GD TOTAUX
+fibroblas;2;FIBROBLAS. BIOPSIE
+fibroblas;2;FIBROBLAS.COLLAGP
+ano;1;LymphPlasmMonAno
+div;4;P.jiroveci DIV/PCR:
+div;4;TOXOPLASMA PCR DIV.
+div;4;REC.TOXOP.DIV PCR
+div;4;PNEUMOCYST PCR DIV.
+immudep;1;CYTO ASP.BR.IMMUDEP
+ore;2;BAC PVT ORE.EXT N2
+ore;2;BAC PVT ORE.EXT
+enot;13;ID/GénotC.trachoGENI
+enot;13;ID/GénotC.trachoLBA
+enot;13;ID/GénotC.trachoURI
+enot;13;ID/GénotC.trachoPUS
+enot;13;ID/GénotC.trachoRES
+enot;13;ID/GénotC.trachoMAT
+enot;13;ID/GénotC.tracho ORL
+enot;13;ID/GénotC.trachoBIOP
+enot;13;ID/GénotC.trachoSOU
+enot;13;ID/GénotC.trachoLCR
+enot;13;ID/GénotC.tracho OEI
+enot;13;ID/GénotC.tracho Aut
+enot;13;ID/GénotC.trachoLQ
+trop;5;D201 BLOMIA TROP.
+trop;5;HIV1 TROP.ADN SANGTO
+trop;5;HIV1 TROP.ADN PROV.
+trop;5;HIV1 TROP.ARN LCR
+trop;5;HIV1 TROP.ARN PLAS
+anthracis;4;PCR.B.ANTHRACIS/PVT
+anthracis;4;PCR.B.ANTHRACIS/LIQ
+anthracis;4;PCR.B.anthracis/SOU
+anthracis;4;PCR.B.ANTHRACIS/ORL
+bamy;1;RAPPORT BAMY/TAU
+ind;2;ACC :ind.Rossner :
+ind;2;ACC :ind.Rossner
+xpc;2;Rec mut Gène XPC
+xpc;2;Gène XPC
+dp;2;DP
+dp;2;LOCUS DP ?
+periph;1;couches périph.
+pneumocoque;1;SEROL.AC.PNEUMOCOQUE
+semina;1;ARN VIH Cel.sémina
+ponc;1;F AER.Liq PoncBLQPE
+reticulocytes;2;RéticulocytesTémoin
+reticulocytes;2;RéticulocytesPatient
+adn;6;seq  integ.ADN pro
+adn;6;HIV1 TROP.ADN SANGTO
+adn;6;HIV1 TROP.ADN PROV.
+adn;6;seq.RT Pro ADNprov
+adn;6;seq Env41 ADNprov
+adn;6;ExtrADN EVO PCS o/n
+estimee;1;PosologieEstimée PJ
+crytosporid;1;REC.CRYTOSPORID.SELL
+tot;3;Puis.bac.tot sslot:
+tot;3;envoi 5j ou immSgTot
+tot;3;PCR Ebola/sang tot.
+hbv;1;Génotypage HBV
+bocavirus;8;PCR Bocavirus/Sécré
+bocavirus;8;PCR Bocavirus/Eco2
+bocavirus;8;PCR Bocavirus/Eco3
+bocavirus;8;PCR Bocavirus/Lba
+bocavirus;8;PCR Bocavirus/LiqBi
+bocavirus;8;PCR Bocavirus/Ecou
+bocavirus;8;PCR Bocavirus/LCR
+bocavirus;8;PCR Bocavirus/Biop
+subs;1;AC ANTI-SUBS.INTERC
+dil;1;Thromboplast.Dil.Res
+disto;1;HAP Disto.:
+conj;1;BILIRUBINE conj/dir
+blot;7;Asperg W.Blot P16
+blot;7;W.Blot const.plaq
+blot;7;Asperg W.Blot P22
+blot;7;W.BLOT PLAQUETTES
+blot;7;W.Blot plusieurs Ac
+blot;7;Asperg W.Blot P30
+blot;7;Asp.W.Blot P18-20
+imm;2;envoi 5j ou immSgTot
+imm;2;CYTOB.ASP.BRO.IMM.DE
+toxoplas;4;REC.TOXOPLAS.LCR PCR
+toxoplas;4;REC.TOXOPLAS.HAQ PCR
+toxoplas;4;REC.TOXOPLAS.LBA PCR
+toxoplas;4;REC.TOXOPLAS.SG PCR
+kappa;4;Ratio Kappa/Lambda
+kappa;4;C.LEG KAPPA/LAMBDA S
+kappa;4;C.KAPPA/LAMBDA S *BS
+kappa;4;Kappa/Lambda BS
+env;1;Délai env.variable
+acet;1;Guanidino Acét. Pla
+oeil;6;Qté M.pneumo.OEIL
+oeil;6;R.pcr.S.aureusOeil
+oeil;6;R.pcr.C.psittaOEIL
+oeil;6;Nombre RLUtotalOEIL
+oeil;6;R.pcr.M.pneumoOEIL
+oeil;6;R.pcr.Chl.tracOEIL
+moel;4;PCR CMV MOEL.OSSEUSE
+moel;4;PCR EBV/Moel.oss.
+moel;4;PCR CMV/Moel.oss
+moel;4;PCR EBV MOEL.OSSEUSE
+ec;8;RECH.EC R GLYCOPET.
+ec;8;PCR Sapovirus/Ec.
+ec;8;PCR Adénovirus/Ec.
+ec;8;PCR Rotavirus/Ec.
+ec;8;PCR CORONA EC.RECTAL
+ec;8;PCR Astrovirus/Ec.
+ec;8;PCR Norovirus II/Ec.
+ec;8;PCR Norovirus I/Ec.
+vzblf;1;VZBLF
+cong;8;CONG.TISSU OVARIEN
+cong;8;CONG.SPERME/EJAC
+cong;8;2eCycle.congEmbryon
+cong;8;CongVitrifiOvocytes
+cong;8;CONG.VITRIF.OVOCYTES
+cong;8;HYPERINSULINIS.CONG
+cong;8;cong.tissu ovarien
+cong;8;HyperinsulinismeCong
+vgm;3;VGM Sphérisé
+vgm;3;VGM grp intermédiair
+vgm;3;VGM
+metapneu;8;PCR Métapneu/Biop.
+metapneu;8;PCR Métapneu/Sécré
+metapneu;8;PCR Métapneu/LiqBio
+metapneu;8;PCR Métapneu/EcoN°3
+metapneu;8;PCR Métapneu/EcoN°2
+metapneu;8;PCR Métapneu/Ecou
+metapneu;8;PCR Métapneu/Lba
+metapneu;8;PCR Métapneu/LCR
+aden;1;PCR.M.GriffeChatAdén
+legion;1;REC.LEGION/ CULTURE
+ped;4;HEMOC.PED MYCO
+ped;4;F.PED d.positiv(h):
+ped;4;L.PONC+FL.PED
+ped;4;BACT.LQ .PED SEUL
+anhyd;7;K86 ANHYD.TRIMELLIQ
+anhyd;7;k79 anhyd.phtal.
+anhyd;7;Ac A-Anhyd.carb II
+anhyd;7;k86 anhyd.trimel
+anhyd;7;K79 ANHYD.PHTALIQ
+anhyd;7;AC A-ANHYD.CA II
+anhyd;7;AC A-ANHYD.CARBO.II
+bovin;1;f334 lactofe.bovin
+marquee;1;Sérot.Marquée sér
+pct;1;Porphyrie PCTou PHE
+nocardia;2;REC.NOCARDIA/ACTINO
+nocardia;2;REC.NOCARDIA/ACTI 2
+rpo;3;gène rpoB
+rpo;3;gène rpoB Pvt2
+rpo;3;gène rpoB Pvt3
+spe;3;Allergènes spé/mél:
+spe;3;ALLERGENES SPEouMEL
+spe;3;F.WILLEBRAND SPE.
+shigatox;1;PCR.SHIGATOX./SELLE
+gr;10;TRAN.SER.MAL.GR.CHAT
+gr;10;TRANS CU.MAL.GR.CHAT
+gr;10;TRANS CULT.M.Gr.CHAT
+gr;10;TRANS.SérMAL.GR.CHAT
+gr;10;Ana fac Gr 15
+gr;10;Morphologie GR Uri
+gr;10;GR dysmorphiques Ur
+gr;10;MORPHOLOGIE GR
+gr;10;rech path mb GR
+gr;10;Morphologie GR
+vc;4;VC étude éjac rétro
+vc;4;VC ETUDE EJAC RETRO
+vc;4;VC TEST SURVIE SPERM
+vc;4;VC testSurvieSperm
+isoval;1;ISOVAL.GLYCINE UR
+sezary;1;CELL.SEZARY CD158
+cera;2;GLOBO.CERA UR QUAL
+cera;2;GloboT.Céra Dos.Qual
+microfil;1;Parasito microfil.
+mthfr;1;GENOTYPAGE MTHFR
+bovine;1;F334 LACTOFER.BOVINE
+cplx;1;CPLX THROMB-ANTITHR
+prot;10;IGTCR PROT.FRALLE
+prot;10;E75 RAT(PROT.S)
+prot;10;e74 rat (prot.U)
+prot;10;E72 SOURIS(PROT.U)
+prot;10;e72 souris(prot.U)
+prot;10;IgTCR PROT.FRALLE
+prot;10;PROT.AMYLOIDE A sg
+prot;10;PROT.SUIVICOL EXTER.
+prot;10;e75 rat (prot.S)
+prot;10;E74 RAT(PROT.U)
+zone;1;ZoneThérapCf ouvrir
+ex;3;ID. SCHE MYCOB.EX.N2
+ex;3;MYCOBACT:EX.MICROSC
+ex;3;ID. SCHE MYCOBACT.EX
+cult;13;CULT.C.TRACHO/LIQ
+cult;13;CULT.MYCOPLASM.N2
+cult;13;CULT.C.TRACHO/GEN
+cult;13;CULT.C.TRACHO/PUS
+cult;13;Com.RCLIcult.Chlam:
+cult;13;cult.long.embryon
+cult;13;CULT.C.TRACHO/ORL
+cult;13;Rech.cult.chlamy.:
+cult;13;TRANS CULT.M.Gr.CHAT
+cult;13;Comment.cult.Chlam:
+cult;13;CULT.LONG.EMBRYON
+cult;13;Cult.Mycoplasmes:
+cult;13;CULT.MYCOPLASMES
+kingae;2;PCR.K.KINGAE/ART
+kingae;2;R.pcr.K.kingaeART
+os;11;CYT.DES.BIOPS.OS.
+os;11;CYT.DES BIOPS.OS N2
+os;11;CYT.DES BIOPS.OS N3
+os;11;BAC BIOPS.OS N2
+os;11;CYT.DES BIOPS.OS N4
+os;11;CYT.DES BIOPS.OS N5
+os;11;BAC BIOPS.OS N3
+os;11;CYT.DES BIOPS.OS N6
+os;11;BAC BIOPS.OS N4
+os;11;CYT.DES BIOPS.OS N7
+os;11;CYT.DES BIOPS.OS N8
+gran;1;ConcQu.Gran.IntrPlq
+ds;1;LCR DS AUTRE LIQUIDE
+heredit;1;SphéroHérédit NGAP
+ep;2;analyse.pvt.spermEp
+ep;2;ANALYSE.PVT.SPERM.EP
+iden;2;IDEN.SOUCHE FONG.N 2
+iden;2;IDEN.SOUCHE FONGIQUE
+plaquettes;1;Taux Plaquettes/PRP
+qu;1;ConcQu.Gran.IntrPlq
+mgb;1;MGB commentaires
+aeruginosa;2;SERO PSEU.AERUGINOSA
+aeruginosa;2;Séro.P.aeruginosa mu
+vhc;12;CHARGE VHC
+vhc;12;séro VHC Tec2
+vhc;12;ARN VHC
+vhc;12;GENO VHC
+vhc;12;SERO VHC  TEC1
+vhc;12;Index VHC Dxi
+vhc;12;séro VHC Dxi
+vhc;12;RESISTANCE VHC
+vhc;12;VHC sérotype
+vhc;12;ARN VHC plasma
+vhc;12;SEROTYPAGE VHC
+vhc;12;SERO VHC 2° TEC
+source;1;IDENT. PAT.SOURCE
+exam;1;ExamGttesMicroscope
+lit;1;Galactose 1P erytLit
+anim;1;EX1 MEL PHAN.ANIM
+respirat;3;CARTO PVT RESPIRAT.
+respirat;3;PCR EBV SEC.RESPIRAT
+respirat;3;PCR CMV SEC.RESPIRAT
+bmr;1;Rech.BMR import.BHR
+lct;3;LCT O/N
+lct;3;LCT pré-greffe Gard
+lct;3;LCT pré-greffe Jour
+lb;3;CD4,CD8,CD3...LB
+lb;3;LY T PERFORINE LB
+lb;3;LY T GRANZYME LB
+uf;1;T°env-20°CBuf/22°CSg
+decong;2;décong.tissu germin
+decong;2;DECONG.TISSU GERMINA
+bau;1;TRANS ID.ACINETO.BAU
+integ;1;seq  integ.ADN pro
+gttes;1;ExamGttesMicroscope
+aq;3;adéno hum.aq. CP
+aq;3;vzv hum.aq. CP
+aq;3;hsv hum.aq. CP
+pouss;1;HX2 MEL POUSS.MAIS
+pleural;10;CHLORE LIQ.PLEURAL
+pleural;10;PH liq.pleural
+pleural;10;AMYLASE LIQ.PLEURAL
+pleural;10;GLUCOSE LIQ.PLEURAL
+pleural;10;CHOL liq.pleural
+pleural;10;LDH liq.pleural
+pleural;10;PROTIDES LIQ.PLEURAL
+pleural;10;TRIGLY LIQ.PLEURAL
+pleural;10;LIPASE liq.pleural
+pleural;10;AMYLASE liq.pleural
+amniotiqu;2;CMV liq.amniotiqu
+amniotiqu;2;Toxo liq.amniotiqu
+mycob;3;MYCOB.MOELLE
+mycob;3;REC. MYCOB.30C
+mycob;3;ID. SCHE MYCOB.EX.N2
+commentaire;1;Commentaire/Allèles
+intr;1;ConcQu.Gran.IntrPlq
+plomb;1;Plomb/Créat ur
+collag;1;Fibroblastes CollagP
+biopsie;4;CYTOBAC.BIOPSIE DIG.
+biopsie;4;CYTOB.BIOPSIE DIG.N2
+biopsie;4;PCR OREIL.BIOPSIE
+biopsie;4;CYTOB.BIOPSIE DIG.N3
+pelot;1;g3 dactyle pelot.
+dc;1;DCongél.d'embryon+c
+oxydat;1;BétaOxydat.Ac.Gras
+deturgescen;1;CYTO.L.DETURGESCEN.
+as;2;FasL SOLUBLE+IL10
+as;2;FasL Soluble + IL10
+congel;4;CONGEL.TISSU.TESTICU
+congel;4;Congél.d'embryons
+congel;4;CongélTissuTesticul
+congel;4;Congel.HS TPO
+vitrifi;1;CongVitrifiOvocytes
+bsbm;3;Factu BSBM 2
+bsbm;3;Factu BSBM 4
+bsbm;3;Factu BSBM 3
+sa;1;SAndhoff
+ente;1;PCR Enté/LiqBi
+neuroleptiq;1;DOS.NEUROLEPTIQ PL
+cor;1;CorTCA
+serol;8;M.de CHAGAS serol.
+serol;8;PARAGONIMOSE sérol.
+serol;8;SEROL.AC.PNEUMOCOQUE
+serol;8;PARAGONIMOSE SEROL.
+serol;8;M.DE CHAGAS SEROL.
+serol;8;GNATHOSTOMOSE SEROL.
+serol;8;ANGUILLULOSE SEROL.
+serol;8;GNATHOSTOMOSE sérol.
+diffic;1;REC.TOXINE CL.DIFFIC
+coccidioidomyc;1;COCCIDIOIDOMYC.SERO
+beta;1;BétaOxydat.Ac.Gras
+hrombi;1;Phéno/seq G AThrombi
+mut;4;R.MUT.ARN M.PNEU/SOU
+mut;4;R.mut ARNr23S M.gen
+mut;4;R.mut ARNr23S M.pne
+mut;4;R.MUT.ARN M.GENI/SOU
+sspop;2;ETUDE SSPOP.LYMPHO
+sspop;2;ETUDE SSPOP.LYMPH:
+dig;6;CYTOBAC.BIOPSIE DIG.
+dig;6;M211 TRYCHOPHY.I.DIG
+dig;6;AC A-GRANULOC.DIG
+dig;6;CYTOB.BIOPSIE DIG.N2
+dig;6;CYTOB.BIOPSIE DIG.N3
+dig;6;BIOP.DIG.HP CULT N2
+herb;1;M2 CLADOSP.HERB
+typ;27;Typ.pcr.C.trachOei
+typ;27;TYP.PCR N.meni/SOUC
+typ;27;Typ.pcr.C.trachSou
+typ;27;Ctrl TypHLA Don Ext
+typ;27;TYP.PCR N.meni/LIQ
+typ;27;Typ.pcr.C.trachPus
+typ;27;Typ.pcr.C.trachoGé
+typ;27;TYP.T CD4-CD8-GD LBA
+typ;27;Typ.pcr.C.trachOrl
+typ;27;Typ.pcr.C.trachLCR
+typ;27;TYP.LY T ACTIVE LBIO
+typ;27;Typ.pcr.C.trachMat
+typ;27;Typ.pcr.C.trachRes
+typ;27;TYP.HLA LINKSEQ
+typ;27;TYP.PCR N.meni/ORL
+typ;27;Typ.pcr.C.trachLBA
+typ;27;R.pcr.typN.men LIQ
+typ;27;R.pcr.typN.men SOU
+typ;27;R.pcr.typN.menBIOP
+typ;27;R.pcr.typN.men LCR
+typ;27;TYP.HLA MALADIE/MEDI
+typ;27;Typ.pcr.C.trach LQ
+typ;27;Typ.pcr.C.trachBio
+typ;27;Typ.pcr.C.trach Ur
+typ;27;TYP.PCR N.meni/LCR
+typ;27;R.pcr.typN.men ORL
+typ;27;TYP.PCR N.meni/BIOP
+debr;1;CYT.DEBR.PLAC/LOCHI
+drrvt;1;ACC : dRRVT
+bord;1;REC.BORD.PERTUSSIS
+globo;2;GLOBO.CERA UR QUAL
+globo;2;GloboT.Céra Dos.Qual
+cere;1;Ac A-Saccharom.Cere
+streptoc;1;Id.sche Streptoc.
+arter;1;HEMO. ARTER.AE+ANA
+rgp;2;rgp 46I
+rgp;2;rgp 46 II
+pol;3;TX8 MEL POL.ARBRES
+pol;3;TX1 MEL POL.ARBRES
+pol;3;WX1 MEL POL.HERBA.
+blastomycos;1;Interpr.Blastomycos
+polyneutro;1;PolyneutroLiqBio
+sialotrf;1;Sialotrf.CDG Dépist
+oss;2;PCR EBV/Moel.oss.
+oss;2;PCR CMV/Moel.oss
+serum;1;SER.MYCOP.PNEU.SERUM
+doc;1;tiq.doc mort encép
+trans;2;TRANS.SérMAL.GR.CHAT
+trans;2;TRANS.SERO BOTULISME
+narco;1;InterprétationNarco
+ecouvi;2;PCR CMV ECOUVI. 3
+ecouvi;2;PCR CMV ECOUVI. 2
+epiderm;1;AC ANTI-MB EPIDERM.
+spermocyt;1;SPERMOGR.SPERMOCYT
+partic;3;PARTIC.MINERALES INH
+partic;3;PARTIC.MIN.AMIANTE
+partic;3;RECH.BACT.PARTIC.
+rec;46;REC.N.Gono N2
+rec;46;REC.Strepto B
+rec;46;REC.A.BAUMANNII N2
+rec;46;REC.LEGIONELLES
+rec;46;REC.BORD.PERTUSSIS
+rec;46;REC.A.BAUMANNII N3
+rec;46;REC. MYCOBACT.MOELLE
+rec;46;REC.N.GONO
+rec;46;REC.CRYTOSPORID.SELL
+rec;46;TR.REC/PCR BRUCELLA
+rec;46;REC. MYCOB 40
+rec;46;REC.NOCAR/ACTINOM 2
+rec;46;REC.TOXOPLAS.HAQ PCR
+rec;46;REC.TOXOPLAS.LBA PCR
+rec;46;REC.NOCAR/ACTINOMYC
+rec;46;REC.MICROSPORIDIE SE
+rec;46;REC.LEGION/ CULTURE
+rec;46;REC. MYCOBACTERIES
+rec;46;REC.TOXINE CL.DIFFIC
+rec;46;REC. MYCOB.30C
+rec;46;REC.TOXOPLAS.LCR PCR
+rec;46;Rec.carbapé.BCARB
+rec;46;REC. resist.MYCOBACT
+rec;46;REC.BACT.AER DESIGN
+rec;46;REC. MYCOBACT.37C
+rec;46;REC.NOCARDIA/ACTI 2
+rec;46;REC.BACT.16S/PCR
+rec;46;rec.SANG liq.bio
+rec;46;REC.TOXOP.BIOPS PCR
+rec;46;REC.BACT.AER N5
+rec;46;REC.ANGUILLULES
+rec;46;REC.BACT.AER N4
+rec;46;REC.P.JIRO SEULE
+rec;46;REC.TOXOP.DIV PCR
+rec;46;TRANS REC.ERLICHIA
+rec;46;REC.MICROFILAIRE SG
+rec;46;REC. MYCOBACT.N°2
+rec;46;REC. MYCOB 40 N 2
+rec;46;REC.BACT.16S/PCR N3
+rec;46;REC. MYCOBACT.N°3
+rec;46;REC.BACT.16S/PCR N2
+rec;46;REC.NOCARDIA/ACTINO
+rec;46;REC.BACT.AER N3
+rec;46;REC.TOXOPLAS.SG PCR
+rec;46;REC.PITY.VERSICOLOR
+rec;46;REC.BACT.AER N2
+meningit;1;Id.sche N.meningit.:
+polynuc;1;AC CYTOP.POLYNUC.
+detection;1;MulltiGast.Détection
+ghrh;1;GHRH
+fermier;1;SERO.POUMON.FERMIER
+distomatose;1;Interpr.Distomatose
+bil;1;SELS BIL. l.bio rec
+cdt;1;CDT
+kt;3;BACT KT N3
+kt;3;BACT KT N1
+kt;3;BACT KT N2
+cul;1;Cul.Bartonella CMGC
+fongiq;1;Ident.souche fongiq.
+dispar;1;Ent.dispar PCR:
+organophosph;1;SCR.ORGANOPHOSPH.URI
+lactof;1;AC A-LACTOF.CAT G
+barbitur;12;Dos  Barbitur. sg
+barbitur;12;I D BARBITUR. SANG
+barbitur;12;Dosage Barbitur. U1
+barbitur;12;Dosage Barbitur. U2
+barbitur;12;DOSAGE BARBITUR. U3
+barbitur;12;I D BARBITUR. UR
+barbitur;12;DOSAGE BARBITUR. U1
+barbitur;12;Id Barbitur. Ur
+barbitur;12;DOSAGE BARBITUR. U2
+barbitur;12;Dos  Barbitur. Ur
+barbitur;12;Id Barbitur. Sang
+barbitur;12;Dosage Barbitur. U3
+amorc;1;Cple amorc.supplém.
+polypeptid;1;AG TIS. POLYPEPTID.
+operat;2;BAC PLAIE OPERAT.N3
+operat;2;BAC PLAIE OPERAT.N2
+ctrl;8;Ctrl Pos :
+ctrl;8;CTRL PRE-ANA AMP
+ctrl;8;Ctrl Nég :
+ctrl;8;Ctrl Pos spots :
+ctrl;8;Ctrl TypHLA Don Ext
+ctrl;8;Ctrl Nég spots :
+ctrl;8;ctrl préA avt AMP
+ctrl;8;Ctrl préanalytique
+urealy;9;R.pcr.U.urealyLIQ
+urealy;9;R.pcr.U.urealySche
+urealy;9;R.pcr.U.urealyGENI
+urealy;9;R.pcr.U.urealyORL
+urealy;9;R.pcr.U.urealyURI
+urealy;9;R.pcr.U.urealyLCR
+urealy;9;R.pcr.U.urealyRESP
+urealy;9;R.pcr.U.urealyBIOP
+urealy;9;R.pcr.U.urealyPUS
+rotavirus;1;PCR Rotavirus/Ec.
+phosphat;2;PHOSPHAT.ALCAL.PLAC.
+phosphat;2;PHOSPHAT.ALCAL.PLAC
+cerebrosidase;1;B.GLU.CEREBROSIDASE
+biops;41;BAC BIOPS.AUTR N8
+biops;41;BAC BIOPS.OSSEUSE
+biops;41;BAC BIOPS.AUTR N7
+biops;41;BAC BIOPS.AUTR N4
+biops;41;BAC BIOPS.OS N2
+biops;41;BAC BIOPS.AUTR N3
+biops;41;BAC BIOPS.OS N3
+biops;41;BAC BIOPS.AUTR N6
+biops;41;CYT.DES BIOPS.PUL N4
+biops;41;BAC BIOPS.AUTR N5
+biops;41;BAC BIOPS.OS N4
+biops;41;BAC BIOPS.DIGESTIVE
+biops;41;BAC BIOPS.AUTR N2
+biops;41;CYTOB.BIOPS.AUT N5
+biops;41;CYTOB.BIOPS.AUT N4
+biops;41;BAC BIOPS.AUTRES
+biops;41;CYTOB.BIOPS.AUT N3
+biops;41;CYTOB.BIOPS.AUT N2
+biops;41;CYT.DES BIOPS.OS N2
+biops;41;MYCO BIOPS.CUTANEE
+biops;41;CYTOB.BIOPS.AUT N8
+biops;41;CYTOB.BIOPS.AUT N7
+biops;41;CYTOB.BIOPS.AUT N6
+biops;41;CYTOB.DES BIOPS.AUT
+biops;41;CYT.DES.BIOPS.OS.
+biops;41;BAC BIOPS.DIGEST.N3
+biops;41;CYT.DES BIOPS.OS N3
+biops;41;CYT.DES BIOPS.OS N4
+biops;41;CYTOB.DES BIOPS.PUL
+biops;41;CYT.DES BIOPS.OS N5
+biops;41;CYT.DES BIOPS.OS N6
+biops;41;CYT.DES BIOPS.OS N7
+biops;41;CYT.DES BIOPS.OS N8
+biops;41;REC.TOXOP.BIOPS PCR
+biops;41;CYT.DES BIOPS.PUL N3
+biops;41;BAC BIOPS.PULMO 2
+biops;41;BAC BIOPS.PULMO 3
+biops;41;BAC BIOPS.PULMO 4
+biops;41;BAC BIOPS.DIGEST.N2
+biops;41;ETIQ.GENO PAP.BIOPS
+biops;41;BAC BIOPS.PULMO
+expl;2;EXPL.ALLONGEMT TCA
+expl;2;EXPL.FCT.EPIDIDYMAIR
+recehr;1;TR.RECEHR/BORE/COLOR
+progesterone;2;17-Hydr.Progestérone
+progesterone;2;17-HYDR.PROGESTERONE
+phytanique;1;AC.PHYTANIQUE
+crp;3;CRP
+crp;3;CRP LIQ.BIOLOGIQUES
+crp;3;CRP l.bio
+grosses;1;Date début grosses.
+collagp;1;FIBROBLAS.COLLAGP
+medicament;1;VNmédicament
+expector;1;Mycologie Expector.
+qual;2;EtudeQualNoySpermat
+qual;2;GloboT.Céra Dos.Qual
+br;3;CYTO ASP.BR.IMMUDEP
+br;3;CYTOB.SEC.BR.IMMUD.
+br;3;Mycologie Br.pulmon
+anaphalyc;3;CHOC ANAPHALYC.T2
+anaphalyc;3;CHOC ANAPHALYC.T1
+anaphalyc;3;CHOC ANAPHALYC.T0
+respir;1;PCR CMV/Séc.respir
+horm;3;SEX HORM.BIND.GLOBUL
+horm;3;HORM. POLYPEPT.PANCR
+horm;3;SEX HORM.BIND.GLOBU
+bio;68;GAMMAGT LIQ.BIO
+bio;68;SANG LIQ.BIO RECH
+bio;68;GGT liq.bio
+bio;68;BasophilesLiqBio
+bio;68;CREATININE LIQ.BIO
+bio;68;SODIUM l.bio
+bio;68;Anas+Expert.Bio
+bio;68;AMYLASE liq.bio
+bio;68;PCR Adéno/liq.bio.
+bio;68;Lactate.liq.bio
+bio;68;PCR VRS A/LiqBio.
+bio;68;PCR B19/Liq.bio.
+bio;68;RES ALCALINE l.bio
+bio;68;CHOL liq.bio
+bio;68;TRIGLYCERIDES l.bio
+bio;68;TRIGLYCERIDES L.BIO
+bio;68;PCR ROUGEOLE L.BIO
+bio;68;CHOLESTEROL LIQ.BIO
+bio;68;PCR BK/Liq.bio.
+bio;68;PCR Corona/liq bio.
+bio;68;rec.SANG liq.bio
+bio;68;CYTOMETRIE/F L.BIO
+bio;68;PCR CMV/Liq.bio
+bio;68;SELS BIL. l.bio rec
+bio;68;PHOS ALCALINES L.BIO
+bio;68;PCR VRS/Liq.bio
+bio;68;SELS BILIAIRES L.BIO
+bio;68;LDH liq.bio
+bio;68;AC ANTI-NOYAUX L.BIO
+bio;68;Typ.pcr.C.trachBio
+bio;68;UREE liq.bio
+bio;68;PAL liq.bio
+bio;68;PCR Grip.B/Liq.bio
+bio;68;R.pcr.M.hominisBio
+bio;68;PCR RESP. LIQ.BIO.
+bio;68;NumHématiesLiqBio
+bio;68;PCR Pool2/Liq.bio
+bio;68;LIPASE liq.bio
+bio;68;PCR EBV/Liq.bio.
+bio;68;LymphocytesLiqBio
+bio;68;SousTotal LiqBio
+bio;68;PCR Rougeole/Li.bio
+bio;68;EosinoLiqBio
+bio;68;HDL CHOL LIQ.BIO
+bio;68;PolyneutroLiqBio
+bio;68;PCR Adéno/LiqBio.
+bio;68;PCR GripA/Liq.bio
+bio;68;AC.URIQUE liq.bio
+bio;68;PHOSPHORE l.bio
+bio;68;PCR VRS B/LiqBio.
+bio;68;CO2 TOTAL LIQ.BIO
+bio;68;CHLORE LIQ.BIO
+bio;68;NumLeucoLiqBio
+bio;68;Boîte BioMol
+bio;68;ACIDE LACTIQUE L.BIO
+bio;68;MonocytesLiqBio
+bio;68;Total LiqBio
+bio;68;PCR VZV/liq.bio.
+bio;68;PCR HHV8/liq.bio.
+bio;68;PCR Corona/LiqBio.
+bio;68;PCR GRIP H5N1 L.BIO
+bio;68;PROTEINES liq.bio
+bio;68;ENA Liq.bio ident
+bio;68;PCR Pool1/Liq.bio
+bio;68;PHOSPHORE LIQ.BIO
+bio;68;AutresCellLiqBio
+bio;68;ENA Liq.bio  rech
+bio;68;CRP l.bio
+parape;1;R.pcr.B.parapeRES
+citrate;1;Citrate/Calcium
+ac;21;AC.LACTIQUE MTEMPS
+ac;21;AC.CITRIQUE ur
+ac;21;BétaOxydat.Ac.Gras
+ac;21;Concl AcAminés Sg
+ac;21;AcCardiolipines IgG
+ac;21;CAMPYLOBACT.AC LCR
+ac;21;AC.URIQUE bain dial
+ac;21;Concl Ac.Aminés LCR
+ac;21;Ac.Glutarique Ur
+ac;21;Rech.Ac anti Fact H
+ac;21;phos.ac totales
+ac;21;ADN extr.ac.nucl.
+ac;21;AC.URIQUE ur
+ac;21;SEROL.AC.PNEUMOCOQUE
+ac;21;Phos.ac prostatiques
+ac;21;Ac.méthylmaloniq(sg)
+ac;21;AC.CITRIQUE sg
+ac;21;Chromato Ac.Aminés
+ac;21;AC.URIQUE liq.bio
+ac;21;AC.URIQUE sg
+ac;21;AC.PHYTANIQUE
+flacanad;5;FlacANAd.posit(h)H2
+flacanad;5;FlacANAd.posit(h)Art
+flacanad;5;FlacANAd.posit(h)LQ
+flacanad;5;FlacANAd.positiv(h):
+flacanad;5;FlacANAd.pos.(h)PSG
+pr;7;HIV1 RT PR. ARN PLAS
+pr;7;StocPréAna pr HL
+pr;7;Pr 2eme etiq de Pvt
+pr;7;HIV1 RT PR UDPS ADN
+pr;7;HIV1 RT PR. ADN PROV
+pr;7;HIV1 RT PR UDPS PLAS
+pr;7;PR HEPATIQUE GASTRO
+puiss;1;Puiss.S.aureus(lot)
+sell;1;REC.CRYTOSPORID.SELL
+taq;1;Cobas TaqMan Roche
+chlamy;1;Rech.cult.chlamy.:
+campylobact;1;CAMPYLOBACT.AC LCR
+oreille;1;CYTOB.OREILLE EXT N2
+bhr;1;Rech.BMR import.BHR
+mech;2;BACT.REDON MECH.N°2
+mech;2;BACT.REDON MECH.STE
+ltr;1;PCR LTR
+dpg;2;2,3  DPG
+dpg;2;2,3 DPG
+aspergillus;1;Interpr.Aspergillus
+atient;1;TTPatient (ACC)
+hcg;6;HCG TOTAL serique
+hcg;6;BETA HCG URINAIRES
+hcg;6;Beta HCG ur
+hcg;6;HCG TOTALES DOSAGE
+hcg;6;Beta HCG rech
+hcg;6;HCG SG RECHERCHE
+psittaci;11;Rpcr.C.psittaciSou
+psittaci;11;PCR.C.PSITTACI/OEIL
+psittaci;11;PCR.C.PSITTACI/PUS
+psittaci;11;R.pcr.C.psittaciLBA
+psittaci;11;PCR.C.PSITTACI/LBA
+psittaci;11;PCR.C.PSITTACI/LCR
+psittaci;11;PCR.C.PSITTACI/ORL
+psittaci;11;PCR.C.PSITTACI/SOU
+psittaci;11;PCR.C.PSITTACI/RESP
+psittaci;11;PCR.C.PSITTACI/BIOP
+psittaci;11;PCR.C.PSITTACI/LIQ
+atbtype;1;Morph.atbtype PAER
+lam;1;Dos.SérCh.légKapLam
+plac;3;PHOSPHAT.ALCAL.PLAC.
+plac;3;PHOSPHAT.ALCAL.PLAC
+plac;3;CYT.DEBR.PLAC/LOCHI
+rcli;1;Com.RCLIcult.Chlam:
+hc;5;HC AER ASPECT
+hc;5;HC BKSG ASPECT
+hc;5;HC ArtérielleASPECT
+hc;5;HC.AROMATIQ.POLY.
+hc;5;HC ANA ASPECT
+baumannii;3;REC.A.BAUMANNII N2
+baumannii;3;RECH.A.BAUMANNII
+baumannii;3;REC.A.BAUMANNII N3
+min;1;PARTIC.MIN.AMIANTE
+digestive;2;BAC BIOPS.DIGESTIVE
+digestive;2;Myco biop.digestive
+rhino;6;PCR Rhino/Ecouv
+rhino;6;PCR Rhino/Lba
+rhino;6;PCR Rhino/LiqBi
+rhino;6;PCR Rhino/LCR
+rhino;6;PCR Rhino/biop
+rhino;6;PCR Rhino/Sécr
+alve;1;ECHINOCOCC.ALVE SERO
+osseuse;3;PCR CMV MOEL.OSSEUSE
+osseuse;3;BAC BIOPS.OSSEUSE
+osseuse;3;PCR EBV MOEL.OSSEUSE
+dos;44;DOS.AMP OP-CO UR2
+dos;44;DOS.AMP OP-CO UR1
+dos;44;Dos.IL6 et IL10 LCR
+dos;44;Conc dos.urinaires
+dos;44;Anti-histones dos.
+dos;44;Dos. Bétabloquant 2
+dos;44;Dos. Bétabloquant 3
+dos;44;DOS.AMP OP-CO UR3
+dos;44;Dos. Bétabloquant 1
+dos;44;GloboT.Céra Dos.Qual
+dos;44;DOS. PHENOTHIAZ.U3
+dos;44;DOS. PHENOTHIAZ.U2
+dos;44;DOS. PHENOTHIAZ.U1
+dos;44;DOS. CANNABIS U 1
+dos;44;DOS. CANNABIS U 3
+dos;44;DOS. CANNABIS U 2
+dos;44;Dos. Cannabis
+dos;44;Dos. Cannabis Ur 1
+dos;44;Dos.IL6/IL10 HAqVit
+dos;44;DOS.AMP OP-CO 2
+dos;44;DOS.AMP OP-CO 3
+dos;44;DOS. BETABLOQUANT U1
+dos;44;DOS. BETABLOQUANT U2
+dos;44;DOS. BETABLOQUANT U3
+dos;44;Dos. Cannabis Ur 2
+dos;44;Dos. Cannabis Ur 3
+dos;44;DOS. PHENOTHIAZINE1
+dos;44;DOS. PHENOTHIAZINE3
+dos;44;DOS.AMP OP-CO 1
+dos;44;DOS. PHENOTHIAZINE2
+dos;44;DOS. NEUROLEPTIQUE2
+dos;44;DOS. NEUROLEPTIQUE3
+dos;44;DOS. NEUROLEPTIQUE1
+dos;44;DOS.NEUROLEPTIQ PL
+dos;44;DOS.PHENOTHIAZINE PL
+dos;44;Dos.SérCh.légKapLam
+dos;44;DOS. BETABLOQUANT 3
+dos;44;DOS. BETABLOQUANT 2
+dos;44;DOS. BETABLOQ SG 1
+dos;44;Dos. Cannabis 3
+dos;44;Dos. Cannabis 1
+dos;44;DOS.IL6/10 HAQU.VIT
+dos;44;Dos. Cannabis 2
+dos;44;Dos.  Cannabis
+vgkc;1;Ac A-Cx P VGKC sér
+cyto;6;CYTO.LIQ.PONCTION
+cyto;6;CYTO.MB.AMNIOTIQUE
+cyto;6;CYTO.L.DETURGESCEN.
+cyto;6;CYTO.LIQ.AMNIOTIQUE
+cyto;6;CYTO.LIQ.PONCT.N 3
+cyto;6;CYTO.LIQ.PONCT.N 2
+sph;3;CYTOBAC.SPH.ORL N3
+sph;3;CYTOBAC.SPH.ORL N2
+sph;3;CYTOB.SPH.ORL MUCOV
+colorat;1;R.Erlichia/colorat.
+act;3;AP50 ACT.FCT VA
+act;3;LY.T ACT.DR
+act;3;AP50 - ACT.FCT
+monocytes;1;MonocytesLiqBio
+blqae;1;Cytob.Liq Pon.BLQAE
+phenylala;1;PHENYLALA. suivi
+parasites;1;Rech.parasites
+fbal;1;Rapport FBAL/Creat
+temperat;5;Températ.envoi=-20°C
+temperat;5;Températ.envoi=+22°C
+temperat;5;Températ.envoi=carbo
+temperat;5;Températ.envoi ?
+temperat;5;Températ.envoi=+5°C
+tacro;1;TACRO.CINE.COMPLETE
+fct;4;AP50 ACT.FCT VA
+fct;4;AP50 ActivitéFct VA
+fct;4;AP50 - ACT.FCT
+fct;4;EXPL.FCT.EPIDIDYMAIR
+cru;1;SS LOTLAIT MATER.CRU
+coxi;1;TR.PCR Coxi.burnetti
+paillet;1;sup destruc.paillet
+lsd;6;LSD Ur
+lsd;6;LSD PLASMA
+lsd;6;Métabolite LSD
+lsd;6;LSD URINES
+lsd;6;LSD SANG
+lsd;6;LSD
+supp;1;supp.à ICSI ovoFIV
+vorax;1;METHOTREXATE(VORAX.)
+plasmo;1;Recherch.Plasmo spp
+recherche;1;Chloral rechercheLG
+afri;1;Interpr.Trypano.AFRI
+diag;1;DIAG.SPHE.HEREDITAIR
+oc;1;CYTOB.OC.VITRE
+spermogr;2;SPERMOGR.SPERMOCYT
+spermogr;2;Spermogr/Spermocyt
+perfo;1;PERFO/GRZYB LBIO
+pylori;6;PCR.H.PYLORI/SELLE
+pylori;6;PCR.H.PYLORI/BIOP
+pylori;6;R.pcr.H.pyloriBIOP
+pylori;6;SER HELICO PYLORI/E
+pylori;6;R.pcr.H.pyloriSELLE
+pylori;6;PCR.H.pylori/BIOP N2
+gestat;1;Herpes Gestat.Fc
+ambroi;1;w230 ambroi.nAmba1
+ifosf;1;Rapport Ifosf/Creat
+citrique;2;AC.CITRIQUE ur
+citrique;2;AC.CITRIQUE sg
+mbr;1;Conc GpMbr par CFM
+lipidiq;1;Explorat°A.Lipidiq.
+ethyl;1;k78 oxyde éthyl.
+bact;43;BACT.REDON MECH.N°2
+bact;43;RECH.BACT.PART.N5
+bact;43;BACT.LIQ.LAME,REDON
+bact;43;RECH.BACT.PART.N4
+bact;43;RECH.BACT.PART.N3
+bact;43;BACT.MATERIEL(MAT)
+bact;43;RECH.BACT.PARTIC.
+bact;43;R.bact.PCR16S/Pvt 3
+bact;43;BACT.REDON MECH.STE
+bact;43;RECH.BACT.PART.N2
+bact;43;R.bact.PCR16S/Pvt 2
+bact;43;R.bact.PCR16S/Pvt 1
+bact;43;BACT.LQ .PED SEUL
+bact;43;BACT.VALVE
+bact;43;BACT.VALVE STERILIT
+bact;43;BACT.PROD.SANGUIN
+bact;43;BACT.POCHE NUTRIT.
+bact;43;BACT.MATERIEL(MAT 2)
+bact;43;Bact.totales(lot):
+bact;43;Séq.souch.bact/PCR
+bact;43;BACT.VALVE N°4
+bact;43;BACT.VALVE N°5
+bact;43;REC.BACT.AER DESIGN
+bact;43;Bact.totales(sslot
+bact;43;BACT.VALVE N°2
+bact;43;BACT.VALVE N°3
+bact;43;REC.BACT.16S/PCR
+bact;43;BACT.MAT.ORTH(15J)N2
+bact;43;REC.BACT.AER N5
+bact;43;BACT.MAT.ORTH(15J)N3
+bact;43;REC.BACT.AER N4
+bact;43;BACT.MAT.ORTH(15J)N4
+bact;43;Numé.Bact.(sslot):
+bact;43;BACT.KT, CIP N1
+bact;43;BACT.KT, CIP N2
+bact;43;BACT.KT, CIP N3
+bact;43;BACT.PLACEN.LOOCHI
+bact;43;BACT.VALV(CONT.STE)
+bact;43;REC.BACT.16S/PCR N3
+bact;43;REC.BACT.16S/PCR N2
+bact;43;BACT.MAT.ORTH(15J)
+bact;43;REC.BACT.AER N3
+bact;43;REC.BACT.AER N2
+lq;17;AGS SOLUBLES LQ PN
+lq;17;C.tracho/CULT LQ
+lq;17;AG solubles LQ
+lq;17;MYCO LQ TRANS GREFFE
+lq;17;MYCOL LQ.PERITONEAL
+lq;17;BAC.LQ FL.ANA SEUL
+lq;17;BACT.LQ .PED SEUL
+lq;17;BICARBONATES lq dia
+lq;17;Typ.pcr.C.trach LQ
+lq;17;FL.AER+ANA SEUL LQ
+lq;17;LQ AER ASPECT
+lq;17;LQ ANA ASPECT
+lq;17;R.pcr.16S lq
+lq;17;16s.N.MEN.lq/PCR
+lq;17;ID/GénotC.trachoLQ
+lq;17;Pass.C.trach/CUL LQ
+lq;17;BAC.LQ FL.AER SEUL
+str;1;TRANS Séro STR.PNEUM
+pyl;2;DO sér H.pyl.:
+pyl;2;Résult IgG H.pyl :
+tg;5;TG LOC DQ BM
+tg;5;TG LOC DR BM
+tg;5;TG LOC B BM
+tg;5;TG LOC A BM
+tg;5;TG LOC C BM
+betabloquant;4;Dos  Bétabloquant.
+betabloquant;4;DOS BETABLOQUANT. 3
+betabloquant;4;DOS BETABLOQUANT. 2
+betabloquant;4;DOS BETABLOQUANT. 1
+spp;5;m227 Malassezia spp
+spp;5;Recherch.Plasmo spp
+spp;5;M227  MALASSEZIA SPP
+spp;5;IDENT.CRYPTOSP.SPP
+spp;5;Ident.cryptosp.spp
+cytob;59;Cytob.Liq Pn LQAA
+cytob;59;CYTOB.OR.MOY/SINUS
+cytob;59;CYTOB.ASP.BRONCH.
+cytob;59;Cytob.Liq Ponction
+cytob;59;Cytob.Orei.moyen N2
+cytob;59;CYTOB.LBA MUCOVIS
+cytob;59;Cytob.Orei.moyen N3
+cytob;59;Cytob.Liq Amniotiqu
+cytob;59;Cytob.Orei.moyenne
+cytob;59;CYTOB.ASP.BRO.IMM.DE
+cytob;59;CYTOB.CORNEE
+cytob;59;CYTOB.SPHERE ORL N2
+cytob;59;CYTOB.SEC.BR.IMMUD.
+cytob;59;CYTOB.DES BIOPS.AUT
+cytob;59;CYTOB.SPHERE ORL N3
+cytob;59;CYTOB.OR.MOY/SIN N2
+cytob;59;CYTOB.OR.MOY/SIN N3
+cytob;59;CYTOB.PUS FERME N°2
+cytob;59;CYTOB.PUS FERME N°3
+cytob;59;CYTOB.PUS FERME N°4
+cytob;59;CYTOB.PUS FERME N°5
+cytob;59;Cytob.Liq Ponct.N 3
+cytob;59;Cytob.Liq Ponct.N 2
+cytob;59;CYTOB.OCULAIR SUP
+cytob;59;CYTOB.OCUL.L.VITRE
+cytob;59;Cytob.Liq Pn AELQ
+cytob;59;CYTOB.ASP.BRON.MUCO
+cytob;59;CYTOB.OREILLE EXT N2
+cytob;59;CYTOB.OCUL SUP N2
+cytob;59;Cytob.Liq Pn AALQ
+cytob;59;CYTOB. URINE PYEL N2
+cytob;59;CYTOB.BIOPS.AUT N5
+cytob;59;CYTOB.BIOPS.AUT N4
+cytob;59;CYTOB.BIOPS.AUT N3
+cytob;59;CYTOB.BIOPS.AUT N2
+cytob;59;Cytob.Liq Pn PELQ
+cytob;59;CYTOB.LBA IMMUNOD
+cytob;59;CYTOB.PUS ABDO N3
+cytob;59;CYTOB.BIOPS.AUT N8
+cytob;59;CYTOB.SPH.ORL MUCOV
+cytob;59;CYTOB.BIOPS.AUT N7
+cytob;59;CYTOB.PUS CUTA N3
+cytob;59;CYTOB.BIOPS.AUT N6
+cytob;59;CYTOB.PUS ABDO N2
+cytob;59;CYTOB.PUS CUTA N2
+cytob;59;CYTOB. URINE PYELIQ
+cytob;59;CYTOB.BIOHP N2
+cytob;59;CYTOB.LAV.BRONCH-AL
+cytob;59;CYTOB.DES BIOPS.PUL
+cytob;59;Cytob.Liq Pn ANLQ
+cytob;59;Cytob.Liq Pon.BLQAE
+cytob;59;CYTOB.OC.VITRE
+cytob;59;Cytob.Liq DPCA
+cytob;59;Cytob.Liq Pon.BLQAN
+cytob;59;CYTOB.URIN.NUMHEMAT
+cytob;59;Cytob.Liq Articulai
+cytob;59;CYTOB.BIOPSIE DIG.N2
+cytob;59;CYTOB.SPHERE ORL
+cytob;59;CYTOB.BIOPSIE DIG.N3
+morph;1;Morph.atbtype PAER
+urin;2;Ifosfamides Urin.
+urin;2;CYTOB.URIN.NUMHEMAT
+hep;4;HEP.FULMINANTE
+hep;4;HEP.DELTA ARN
+hep;4;TCA HEP.STD
+hep;4;DO PF4/Hep.
+cp;86;hhv6 moelle CP
+cp;86;adéno écouv. CP
+cp;86;ebv liq bio CP
+cp;86;hhv6 biopsie CP
+cp;86;jc sang CP
+cp;86;hsv écouv. CP
+cp;86;hsv écouv3  CP
+cp;86;hhv8  liq bio CP
+cp;86;vzv écouv3  CP
+cp;86;hhv6 liq bio CP
+cp;86;hsv moelle CP
+cp;86;cmv écouv. CP
+cp;86;ebv lba CP
+cp;86;cmv liq bio CP
+cp;86;ebv écouv2 CP
+cp;86;cmv selles CP
+cp;86;hsv sang CP
+cp;86;jc urines CP
+cp;86;hsv biopsie CP
+cp;86;vzv biopsie CP
+cp;86;HHV6 lba CP
+cp;86;cmv moelle CP
+cp;86;ebv écouv. CP
+cp;86;adéno sécrét. CP
+cp;86;HHV8 lba CP
+cp;86;bk liq bio CP
+cp;86;hsv sécrét. CP
+cp;86;b19 lba CP
+cp;86;adéno hum.aq. CP
+cp;86;cmv lcr CP
+cp;86;hhv8 sécrét. CP
+cp;86;adéno sang CP
+cp;86;vzv liq bio CP
+cp;86;ebv biopsie CP
+cp;86;cmv lba CP
+cp;86;hhv6 sang CP
+cp;86;vzv écouv. CP
+cp;86;ebv moelle CP
+cp;86;vzv écouv2 CP
+cp;86;b19 sécrét. CP
+cp;86;adéno écouv2 CP
+cp;86;b19 lcr CP
+cp;86;jc lcr CP
+cp;86;b19 sang CP
+cp;86;bk biopsie CP
+cp;86;ebv sécrét. CP
+cp;86;bk sang CP
+cp;86;b19 biopsie CP
+cp;86;adéno urines CP
+cp;86;cmv sang CP
+cp;86;adéno liq bio CP
+cp;86;jc biopsie CP
+cp;86;ebv sang CP
+cp;86;hhv6 sécrét. CP
+cp;86;b19 écouv. CP
+cp;86;cmv urines CP
+cp;86;HHV6 écouv. CP
+cp;86;cmv écouv3  CP
+cp;86;vzv lba CP
+cp;86;cmv sécrét. CP
+cp;86;hsv liq bio CP
+cp;86;cmv biopsie CP
+cp;86;hsv lcr CP
+cp;86;adéno biopsie CP
+cp;86;HHV8 lcr CP
+cp;86;adéno écouv3  CP
+cp;86;adéno moelle CP
+cp;86;ebv lcr CP
+cp;86;cmv écouv2 CP
+cp;86;b19 liq bio CP
+cp;86;HHV8 sang CP
+cp;86;adéno lcr CP
+cp;86;vzv sécrét. CP
+cp;86;adéno selles CP
+cp;86;hsv hum.aq. CP
+cp;86;adéno lba CP
+cp;86;hhv6 lcr CP
+cp;86;hsv écouv2 CP
+cp;86;vzv sang CP
+cp;86;ebv écouv3  CP
+cp;86;hsv lba CP
+cp;86;hhv8 biopsie CP
+cp;86;vzv hum.aq. CP
+cp;86;vzv lcr CP
+cp;86;bk urines CP
+cp;86;b19 moelle CP
+mcrlc;1;MCRLC
+proto;1;IgTCR-Proto.FRALLE
+sm;4;Sm/RNP Titrage :
+sm;4;Sm Dosage :
+sm;4;Sm Titrage :
+sm;4;Sm/RNP Dosage :
+nutrit;1;BACT.POCHE NUTRIT.
+pdf;2;PDF
+pdf;2;PDF (Auto)
+afw;1;Recherche AFWill
+xpd;1;Gène XPD
+cpt;4;C4 Phénotyp cpt cit
+cpt;4;C4 Phénotypage cpt
+cpt;4;C6,C7,C8,C9 cpt cit
+cpt;4;Cpt C6,C7,C8,C9
+lg;16;PHENOTHIAZINES LG
+lg;16;Méprobamate LG
+lg;16;CHLORALO.LG RECH MS
+lg;16;Chloral rechercheLG
+lg;16;CHLORAL RECH LG
+lg;16;SCREEN.ORGANOPHOS.LG
+lg;16;Barbituriques LG
+lg;16;SCR.ORGANOPHOS.LG
+lg;16;BARBI LG
+lg;16;MEPROBAMATE LG
+lg;16;BENZO LG
+lg;16;TRICYCLIQUES LG
+lg;16;Benzo LG
+lg;16;Tricycliques LG
+lg;16;TOXIQUES LC-DAD LG
+lg;16;Phénothiazines LG
+tck;4;TCK patient
+tck;4;TCK
+tck;4;TCK ACC
+tck;4;Ratio TCK
+decongel;1;DECONGEL.EMBR+CATH
+ca;2;BILAN CA/P/AU URINES
+ca;2;AC A-ANHYD.CA II
+astrovirus;1;PCR Astrovirus/Ec.
+micr;2;EX MICR.URINE BCBU5
+micr;2;EX MICR. UR. PYELIQ
+sperm;5;PREPA.SPERM. IIU
+sperm;5;analyse.pvt.spermEp
+sperm;5;PREPA.SPERM.AVT I
+sperm;5;ANALYSE.PVT.SPERM.EP
+sperm;5;VC testSurvieSperm
+vrs;22;PCR VRS B/Lba
+vrs;22;PCR VRS A Lba
+vrs;22;PCR VRS B/EcoN°3
+vrs;22;PCR VRS A/EcoN°2
+vrs;22;PCR VRS B/EcoN°2
+vrs;22;PCR VRS B/Biopsie
+vrs;22;PCR VRS A/EcoN°3
+vrs;22;PCR VRS/Ecou 3
+vrs;22;PCR VRS/Biopsie
+vrs;22;PCR VRS A/LCR
+vrs;22;PCR VRS A/Sécré.
+vrs;22;PCR VRS B/Sécré.
+vrs;22;PCR VRS B/Ecouvil
+vrs;22;PCR VRS B/LCR
+vrs;22;PCR VRS/Ecou 2
+vrs;22;PCR VRS/Liq.bio
+vrs;22;PCR VRS A/Ecouvil
+vrs;22;PCR VRS A/LiqBio.
+vrs;22;PCR VRS A/Biopsie
+vrs;22;PCR VRS/Sécré°.
+vrs;22;PCR VRS/Lba
+vrs;22;PCR VRS B/LiqBio.
+mycop;3;SER.MYCOP.PNEU.ELISA
+mycop;3;SER.MYCOP.PNEU.SERUM
+mycop;3;SER.MYCOP.PNEU.LCR
+amp;8;DOS.AMP OP-CO UR2
+amp;8;A-NEURO CV2,AMP..SER
+amp;8;DOS.AMP OP-CO UR1
+amp;8;DOS.AMP OP-CO 2
+amp;8;DOS.AMP OP-CO 3
+amp;8;DOS.AMP OP-CO UR3
+amp;8;DOS.AMP OP-CO 1
+amp;8;A-NEURO CV2,AMP..LCR
+group;2;Ac A-Granuloc.Group
+group;2;Group. HLA donneur
+souch;8;R.pcr.M.hominSouch
+souch;8;SOUCH.FONGIQUE CNRMA
+souch;8;ID.SOUCH.CAMPY.COM
+souch;8;ID.SOUCH.CAMPYLO.COM
+souch;8;Séq.souch.bact/PCR
+souch;8;Ident.souch.aérobie
+souch;8;ID.SOUCH.CAMPY.HOP
+souch;8;ID.SOUCH.CAMPYLO.HOP
+electro;1;Conc ElectroHB
+antistaph;1;Dépist.antistaph.:
+chikung;3;PCR CHIKUNG. PLASMA
+chikung;3;PCR Chikung/divers
+chikung;3;PCR Chikung/plasma
+vhe;3;PCR VHE/sérum
+vhe;3;PCR VHE/plasma
+vhe;3;PCR VHE/selles
+adeno;20;PCR Adéno/Biopsie
+adeno;20;PCR Adéno/EcoN°2
+adeno;20;PCR Adéno/sécrét°
+adeno;20;PCR Adéno/EcoN°3
+adeno;20;PCR Adéno/écouv 1
+adeno;20;PCR Adéno/Lba
+adeno;20;PCR Adéno/écouv 2
+adeno;20;PCR Adéno/LBA
+adeno;20;PCR Adéno/liq.bio.
+adeno;20;PCR Adéno/selles
+adeno;20;PCR Adéno/Urines
+adeno;20;PCR Adéno/écouv 3
+adeno;20;PCR Adéno/LiqBio.
+adeno;20;PCR Adéno/hum.aqu.
+adeno;20;PCR Adéno/Sécré.
+adeno;20;PCR Adéno/Ecouvil
+adeno;20;PCR Adéno/LCR
+adeno;20;PCR Adéno/biopsie
+adeno;20;PCR Adéno/Moelle
+adeno;20;PCR Adéno/sang
+lactoglobul;2;F77 B.LACTOGLOBUL.
+lactoglobul;2;f77 b.lactoglobul.
+risq;1;HPV risq.indéterminé
+abdom;1;CYTOBAC.PUS ABDOM.
+ute;1;Géno Papil/col uté.
+cabillaud;1;f3 cabillaud/morue
+prov;6;HIV1 TROP.ADN PROV.
+prov;6;seq.RT Pro ADNprov
+prov;6;HIV1 GP41 ADN PROV.
+prov;6;seq Env41 ADNprov
+prov;6;tropisme ADN prov.
+prov;6;HIV1 INT ADN PROV.
+biologiques;2;CRP LIQ.BIOLOGIQUES
+biologiques;2;UREE LIQ.BIOLOGIQUES
+pass;4;Pass.C.trach/CULTGEN
+pass;4;Pass.C.trach/CULTPUS
+pass;4;Pass.C.trach/CULORL
+pass;4;Pass.C.trach/CUL LQ
+hemocult;1;Hémocult. aér-an N2
+leishmanios;1;Interpr.Leishmanios
+peritoneal;1;MYCOL LQ.PERITONEAL
+ecouv;13;PCR HHV6 ECOUV.
+ecouv;13;PCR HHV6/Ecouv.
+ecouv;13;adéno écouv. CP
+ecouv;13;PCR Entéro/Ecouv.
+ecouv;13;PCR Rougeole/Ecouv.
+ecouv;13;hsv écouv. CP
+ecouv;13;b19 écouv. CP
+ecouv;13;cmv écouv. CP
+ecouv;13;PCR Oreill/Ecouv.
+ecouv;13;HHV6 écouv. CP
+ecouv;13;vzv écouv. CP
+ecouv;13;PCR ROUGEOLE ECOUV.
+ecouv;13;ebv écouv. CP
+fs;1;FS total de HFSA
+enft;3;FX26 MEL ALIM.ENFT
+enft;3;FX28 MEL ALIM.ENFT
+enft;3;FX27 MEL ALIM.ENFT
+gb;2;GB réception
+gb;2;MORPHOLOGIE GB
+lev;1;Ac d a lev/creat u
+ova;2;ANALYSE  PCT°OVA.BL
+ova;2;analyse pct°ova.bl
+neurolept;18;DOSAGE NEUROLEPT.3
+neurolept;18;Id Neurolept. Sg
+neurolept;18;DOSAGE NEUROLEPT.1
+neurolept;18;Dos  Neurolept. 1
+neurolept;18;DOSAGE NEUROLEPT.2
+neurolept;18;Dos Neurolept. 2
+neurolept;18;Dos Neurolept. 3
+neurolept;18;Dos  Neurolept. U3
+neurolept;18;Dos  Neurolept.
+neurolept;18;Dos  Neurolept. U1
+neurolept;18;Dos  Neurolept. U2
+neurolept;18;Id Neurolept. Ur
+neurolept;18;Dos  Neurolept. U
+neurolept;18;Dos Neurolept. 1
+neurolept;18;Dos  Neurolept. 2
+neurolept;18;I D NEUROLEPT. UR
+neurolept;18;Dos  Neurolept. 3
+neurolept;18;Id Neurolept. Pl
+capillaire;1;LACT.capillaire
+genot;13;ID/GénotC.trachoGENI
+genot;13;ID/GénotC.trachoLBA
+genot;13;ID/GénotC.trachoURI
+genot;13;ID/GénotC.trachoPUS
+genot;13;ID/GénotC.trachoRES
+genot;13;ID/GénotC.trachoMAT
+genot;13;ID/GénotC.tracho ORL
+genot;13;ID/GénotC.trachoBIOP
+genot;13;ID/GénotC.trachoSOU
+genot;13;ID/GénotC.trachoLCR
+genot;13;ID/GénotC.tracho OEI
+genot;13;ID/GénotC.tracho Aut
+genot;13;ID/GénotC.trachoLQ
+lact;3;LACT.capillaire
+lact;3;LACT.plas art
+lact;3;LACT.plas v
+kap;1;Dos.SérCh.légKapLam
+mucovis;1;SEC.BRONC-P.MUCOVIS
+recmutgenfviiicoch;1;RecMutGènFVIIIcoch.
+bk;12;PCR BK/Biopsie
+bk;12;PCR BK/Liq.bio.
+bk;12;bk biopsie CP
+bk;12;bk sang CP
+bk;12;PCR BK LIQUIDE
+bk;12;PCR BK URINES
+bk;12;PCR BK/sang total
+bk;12;PCR BK/urines
+bk;12;PCR BK BIOPSIE
+bk;12;bk liq bio CP
+bk;12;bk urines CP
+bk;12;PCR BK SANG
+sero;14;SERO.POUMON.FERMIER
+sero;14;Séro.tularémie
+sero;14;COCCIDIOIDOMYC.SERO
+sero;14;Séro.Leptospira conf
+sero;14;TRANS.SERO BOTULISME
+sero;14;TRANS SéroEcoli ENTH
+sero;14;TR.SERO.PYO MUCOVISC
+sero;14;SERO.BOTULISME
+sero;14;SéroPneumo.Hypers
+sero;14;Séro.Legionella conf
+sero;14;Interprét.Séro Ric.
+sero;14;SERO.PNEUMO.HYPERS
+sero;14;Séro.P.aeruginosa mu
+sero;14;SERO.LYME LCR ET SER
+cr;3;TEM ROTEM cf CR
+cr;3;Clair Cr Cockcr. H
+cr;3;Clair Cr Cockcr. F
+cuit;1;f81 fromage p.cuit
+ric;1;Interprét.Séro Ric.
+lames;2;CONS.LAMES FIXEES/CO
+lames;2;cons.lames fixées/c
+xyloc;1;C232 LIDO-XYLOC.
+ge;1;Typ.pcr.C.trachoGé
+tissu;10;CONG.TISSU OVARIEN
+tissu;10;conservA.tissu germ
+tissu;10;CONGEL.TISSU.TESTICU
+tissu;10;PCRYOCONS.TISSU GERM
+tissu;10;décong.tissu germin
+tissu;10;CongélTissuTesticul
+tissu;10;CONSERV.A.TISSU GERM
+tissu;10;cong.tissu ovarien
+tissu;10;DECONG.TISSU GERMINA
+tissu;10;Pcryocons.tissu ger
+fibrinolyse;2;ExplorFibrinolyse
+fibrinolyse;2;EXPLORAT.FIBRINOLYSE
+polymer;1;seq  Polymér.NS5B
+risque;1;HPVrisque bas/indéte
+zika;3;PCR Zika/plasma
+zika;3;PCR ZIKA/LCR
+zika;3;PCR ZIKA/PVT DIVERS
+logiciel;1;SAISIE RES.LOGICIEL
+hbpm;5;Posologie HBPM
+hbpm;5;TCA HBPM PREV
+hbpm;5;TCA HBPM CURAT
+hbpm;5;Activité AXa HBPM
+hbpm;5;ANTI XA HBPM
+mgr;1;MGR commentaires
+trypano;3;TRYPANO.AFRIC.LCR
+trypano;3;Interpr.Trypano.Afr
+trypano;3;Interpr.Trypano.AFRI
+stock;1;StockPréanalytique
+transm;1;SERO LEGIONEL.TRANSM
+prost;1;LIQ SEM PROST.VESIC
+pul;4;CYT.DES BIOPS.PUL N3
+pul;4;CYTOB.DES BIOPS.PUL
+pul;4;CYT.DES BIOPS.PUL N4
+pul;4;CYT.DES BIOP.PUL N2
+interpret;2;Interprét.Amibiase:
+interpret;2;Interprét.Séro Ric.
+glob;2;Mut alpha glob.
+glob;2;Mut béta glob.
+eosino;2;P.EOSINO URINES
+eosino;2;EosinoLiqBio
+destruc;1;sup destruc.paillet
+op;2;CYTOBAC.PLAIE OP.N3
+op;2;CYTOBAC.PLAIE OP.N2
+ang;1;EXP ANG.KININES
+art;4;COOXYMETRIE ART.
+art;4;R.pcr.S.aureusART
+art;4;AMMONIEMIE ART.
+art;4;R.pcr.K.kingaeART
+benzodiazep;1;I D BENZODIAZEP. U
+ss;10;ss grp  uiep
+ss;10;SS LOTLAIT MATER.CRU
+ss;10;AGREGAT PLAQ SS AA
+ss;10;ETUDE SS POP NK
+ss;10;ss grp interméd
+ss;10;SS CLASSES IGG
+ss;10;AGG PLQ SS AA CONF P
+ss;10;FIV ss microM
+ss;10;Etude ss pop tub2
+ss;10;Etude ss pop NK
+oei;1;Typ.pcr.C.trachOei
+ur;19;R.pcr.M.hominisUR
+ur;19;Dextroprop.Ur
+ur;19;Ac TrichloraC.Ur
+ur;19;AC TRICHLORAC.UR
+ur;19;Id Benzodiaz.Ur
+ur;19;Chrome ur/Créatur
+ur;19;SCREEN.ORGANOPHOS.UR
+ur;19;Id Cannabis Ur.
+ur;19;SULFAM.HYPOGLYC.UR
+ur;19;CHLORALO.UR RECH
+ur;19;EX MICR. UR. PYELIQ
+ur;19;SULFA.HYPOGLYC.UR.
+ur;19;R.pcr.Chl.trach.Ur
+ur;19;ALB ur/Créat ur
+ur;19;Dos  Bétabloq.Ur
+ur;19;PROTO SULFATOX.UR
+ur;19;Phénothiazines Ur.
+ur;19;RADIOTOXICITE UR.
+ur;19;Alb ur/ Prot ur
+suivicol;1;PROT.SUIVICOL EXTER.
+mes;1;FOLATES eryth.mes
+fulminante;1;HEP.FULMINANTE
