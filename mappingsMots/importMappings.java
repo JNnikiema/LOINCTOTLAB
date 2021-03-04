@@ -27,16 +27,9 @@ public class importMappings {
 		String graph1=	"http://erias.org/integration/MappingServoMap/Mapping1TOTAL";
 		String graph2=	"http://erias.org/integration/MappingServoMap/Mapping2TOTAL";
 		RepositoryConnection connnex2= InteractionBlazgraph.connex(namespace);
-		
-		//RepositoryConnection connnex= InteractionBlazgraph.connex("BaseMappings");
-		//ChargementFichierOntologie.ChargementFichier(namespace, "/home/erias/Bureau/graph/mappings/Mapping1_5.rdf", graph1, "application/rdf+xml"); 
-		//ChargementFichierOntologie.ChargementFichier(namespace, "/home/erias/Bureau/graph/mappings/Mapping2_5.rdf", graph2, "application/rdf+xml"); 
-		ChargementFichierOntologie.ChargementFichier(namespace, "/home/erias/Bureau/graph/mappings/MAPPINGLOINCTOTLAB.rdf", graph1, "application/rdf+xml"); 
-		ChargementFichierOntologie.ChargementFichier(namespace, "/home/erias/Bureau/graph/mappings/MAPPINGTLABTOLOINC.rdf", graph2, "application/rdf+xml"); 
-		
-	//	ChargementFichierOntologie chargementmapping1=  new ChargementFichierOntologie(namespace, "/home/erias/Bureau/graph/mappings/Mapping1_1.rdf", graph1, "application/rdf+xml");
-	//	ChargementFichierOntologie chargementmapping2= new ChargementFichierOntologie(namespace, "/home/erias/Bureau/graph/mappings/Mapping2_1.rdf", graph2, "application/rdf+xml");
-		
+		ChargementFichierOntologie.ChargementFichier(namespace, "./MAPPINGLOINCTOTLAB.rdf", graph1, "application/rdf+xml"); 
+		ChargementFichierOntologie.ChargementFichier(namespace, "./MAPPINGTLABTOLOINC.rdf", graph2, "application/rdf+xml"); 
+			
 		RecuperationGraphRDF getMapping1= new RecuperationGraphRDF(connnex2, "JN", graph1);
 		RecuperationGraphRDF getMapping2= new RecuperationGraphRDF(connnex2, "JN", graph2);
 		
