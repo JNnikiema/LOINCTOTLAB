@@ -152,7 +152,7 @@ public class CreationOfNonOrphelanTLAB {
 		
 
 		System.out.println("fin d'insertion");
-		ExportGraph(interfaceCorrection, namespace, "/home/erias/Bureau/TerminologieLocale/TLAB/synergieMainConcepts.rdf");
+		ExportGraph(interfaceCorrection, namespace, "./TLAB.rdf");
 		System.out.println(" codeTotal "+codeTotal.size());
 		System.out.println(" codeSansOrphelin "+codeSansOrphelin.size());
 		System.out.println(" codeAvecOrphelinUniquement "+codeAvecOrphelinUniquement.size());
