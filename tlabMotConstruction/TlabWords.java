@@ -423,7 +423,7 @@ public class TlabWords {
 		
 		
 		manager.addAxioms(ontologyLocalMot, lesaxiomMot);
-		File fichierchemin= new File("/home/erias/Bureau/graph/TLABCORRECTIONS/TLABWORDTOTAL.owl");
+		File fichierchemin= new File("./TLABWORDTOTAL.owl");
 		RDFXMLOntologyFormat Format= new RDFXMLOntologyFormat();
 		manager.saveOntology(ontologyLocalMot, Format,IRI.create(fichierchemin));
 		
