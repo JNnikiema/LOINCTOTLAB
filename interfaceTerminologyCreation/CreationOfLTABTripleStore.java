@@ -13,7 +13,7 @@ public class CreationOfLTABTripleStore {
 		// TODO Auto-generated method stub
 		//String namespace = "TLAB";
 		String namespace = "TLABANDLOINC";
-		String cheminFichier ="/home/erias/Bureau/TerminologieLocale/TLAB/synergieMainConcepts.rdf";
+		String cheminFichier ="./TLAB.rdf";
 		//String cheminFichier ="/home/erias/Bureau/TerminologieLocale/synergie.skos" ;
 		String URIdelaterminologie = "http://erias.org/InterfaceTerminology/TLAB";
 		//ChargementFichierOntologie.ChargementFichier(namespace, cheminFichier, URIdelaterminologie,"text/turtle");
